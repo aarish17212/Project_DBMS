@@ -1,0 +1,1138 @@
+roomType,capacity,fare,hotel_name,room_id,company_id
+5 - Star Room,4,1000,Hilton: Bihar,001,HOT001
+6 - Star Room,4,5000,Hilton: Bihar,002,HOT001
+1 - Star Room,3,2000,Hilton: Bihar,003,HOT001
+2 - Star Room,1,2000,Hilton: Bihar,004,HOT001
+3 - Star Room,4,1000,Hilton: Bihar,005,HOT001
+4 - Star Room,4,3000,Hilton: Bihar,006,HOT001
+1 - Star Room,3,1000,Hilton: Bihar,007,HOT001
+3 - Star Room,2,3000,Hilton: Bihar,008,HOT001
+1 - Star Room,1,1000,Hilton: Bihar,009,HOT001
+6 - Star Room,2,5000,Hilton: Bihar,010,HOT001
+4 - Star Room,3,4000,Hilton: Bihar,011,HOT001
+4 - Star Room,1,5000,Hilton: Bihar,012,HOT001
+3 - Star Room,3,2000,Hilton: Bihar,013,HOT001
+1 - Star Room,4,1000,Hilton: Maharashtra,014,HOT001
+2 - Star Room,1,5000,Hilton: Maharashtra,015,HOT001
+5 - Star Room,3,3000,Hilton: Maharashtra,016,HOT001
+6 - Star Room,2,2000,Hilton: Maharashtra,017,HOT001
+6 - Star Room,2,2000,Hilton: Maharashtra,018,HOT001
+2 - Star Room,4,3000,Hilton: Maharashtra,019,HOT001
+3 - Star Room,3,1000,Hilton: Maharashtra,020,HOT001
+3 - Star Room,3,5000,Hilton: Maharashtra,021,HOT001
+1 - Star Room,2,3000,Hilton: Maharashtra,022,HOT001
+6 - Star Room,3,5000,Hilton: Maharashtra,023,HOT001
+3 - Star Room,3,4000,Hilton: Maharashtra,024,HOT001
+4 - Star Room,1,3000,Hilton: Maharashtra,025,HOT001
+6 - Star Room,3,5000,Hilton: Maharashtra,026,HOT001
+2 - Star Room,3,5000,Hilton: Telangana,027,HOT001
+5 - Star Room,1,4000,Hilton: Telangana,028,HOT001
+6 - Star Room,4,1000,Hilton: Telangana,029,HOT001
+2 - Star Room,2,4000,Hilton: Telangana,030,HOT001
+3 - Star Room,4,2000,Hilton: Telangana,031,HOT001
+4 - Star Room,2,1000,Hilton: Telangana,032,HOT001
+5 - Star Room,3,2000,Hilton: Telangana,033,HOT001
+3 - Star Room,4,3000,Hilton: Telangana,034,HOT001
+2 - Star Room,3,2000,Hilton: Telangana,035,HOT001
+5 - Star Room,3,2000,Hilton: Telangana,036,HOT001
+6 - Star Room,3,2000,Hilton: Telangana,037,HOT001
+3 - Star Room,3,2000,Hilton: Telangana,038,HOT001
+1 - Star Room,4,4000,Hilton: Telangana,039,HOT001
+3 - Star Room,1,2000,Hilton: Jammu and Kashmir,040,HOT001
+3 - Star Room,2,5000,Hilton: Jammu and Kashmir,041,HOT001
+4 - Star Room,3,4000,Hilton: Jammu and Kashmir,042,HOT001
+1 - Star Room,4,5000,Hilton: Jammu and Kashmir,043,HOT001
+6 - Star Room,4,1000,Hilton: Jammu and Kashmir,044,HOT001
+2 - Star Room,3,4000,Hilton: Jammu and Kashmir,045,HOT001
+3 - Star Room,3,5000,Hilton: Jammu and Kashmir,046,HOT001
+2 - Star Room,3,2000,Hilton: Uttarakhand,047,HOT001
+6 - Star Room,2,1000,Hilton: Uttarakhand,048,HOT001
+6 - Star Room,2,3000,Hilton: Uttarakhand,049,HOT001
+2 - Star Room,3,3000,Hilton: Uttarakhand,050,HOT001
+6 - Star Room,1,1000,Hilton: Uttarakhand,051,HOT001
+4 - Star Room,2,2000,Hilton: Uttarakhand,052,HOT001
+6 - Star Room,2,2000,Hilton: Uttarakhand,053,HOT001
+4 - Star Room,2,3000,Hilton: West Bengal,054,HOT001
+3 - Star Room,4,4000,Hilton: West Bengal,055,HOT001
+4 - Star Room,1,4000,Hilton: West Bengal,056,HOT001
+6 - Star Room,3,5000,Hilton: West Bengal,057,HOT001
+1 - Star Room,1,5000,Hilton: West Bengal,058,HOT001
+2 - Star Room,4,4000,Hilton: West Bengal,059,HOT001
+3 - Star Room,3,4000,Hilton: West Bengal,060,HOT001
+5 - Star Room,4,1000,Hilton: West Bengal,061,HOT001
+6 - Star Room,1,2000,Hilton: West Bengal,062,HOT001
+5 - Star Room,1,2000,Hilton: Assam,063,HOT001
+5 - Star Room,3,3000,Hilton: Assam,064,HOT001
+5 - Star Room,2,4000,Hilton: Assam,065,HOT001
+1 - Star Room,3,2000,Hilton: Assam,066,HOT001
+2 - Star Room,1,2000,Hilton: Assam,067,HOT001
+4 - Star Room,1,3000,Hilton: Assam,068,HOT001
+6 - Star Room,1,2000,Hilton: Assam,069,HOT001
+1 - Star Room,4,3000,Hilton: Assam,070,HOT001
+2 - Star Room,2,1000,Hilton: Assam,071,HOT001
+4 - Star Room,1,3000,Hilton: Assam,072,HOT001
+1 - Star Room,4,2000,Hilton: Assam,073,HOT001
+4 - Star Room,3,3000,Hilton: Punjab,074,HOT001
+5 - Star Room,2,1000,Hilton: Punjab,075,HOT001
+3 - Star Room,1,2000,Hilton: Punjab,076,HOT001
+4 - Star Room,4,5000,Hilton: Punjab,077,HOT001
+2 - Star Room,2,5000,Hilton: Punjab,078,HOT001
+2 - Star Room,1,1000,Hilton: Punjab,079,HOT001
+4 - Star Room,4,2000,Hilton: Punjab,080,HOT001
+5 - Star Room,1,3000,Hilton: Punjab,081,HOT001
+1 - Star Room,4,4000,Hilton: Punjab,082,HOT001
+5 - Star Room,3,2000,Hilton: Punjab,083,HOT001
+5 - Star Room,3,4000,Hilton: Punjab,084,HOT001
+1 - Star Room,2,3000,Hilton: Punjab,085,HOT001
+4 - Star Room,4,3000,Hilton: Punjab,086,HOT001
+3 - Star Room,1,5000,Hilton: Madhya Pradesh,087,HOT001
+2 - Star Room,1,5000,Hilton: Madhya Pradesh,088,HOT001
+2 - Star Room,4,5000,Hilton: Madhya Pradesh,089,HOT001
+1 - Star Room,3,4000,Hilton: Madhya Pradesh,090,HOT001
+4 - Star Room,2,1000,Hilton: Madhya Pradesh,091,HOT001
+1 - Star Room,4,4000,Hilton: Madhya Pradesh,092,HOT001
+3 - Star Room,3,2000,Hilton: Madhya Pradesh,093,HOT001
+2 - Star Room,4,2000,Hilton: Madhya Pradesh,094,HOT001
+6 - Star Room,3,3000,Hilton: Madhya Pradesh,095,HOT001
+3 - Star Room,1,4000,Hilton: Madhya Pradesh,096,HOT001
+4 - Star Room,4,1000,Hilton: Madhya Pradesh,097,HOT001
+3 - Star Room,4,2000,Hilton: Puducherry,098,HOT001
+6 - Star Room,1,5000,Hilton: Uttar Pradesh,099,HOT001
+3 - Star Room,4,2000,Hilton: Uttar Pradesh,100,HOT001
+6 - Star Room,4,4000,Hilton: Uttar Pradesh,101,HOT001
+2 - Star Room,4,5000,Hilton: Uttar Pradesh,102,HOT001
+1 - Star Room,2,4000,Hilton: Uttar Pradesh,103,HOT001
+2 - Star Room,2,2000,Hilton: Uttar Pradesh,104,HOT001
+4 - Star Room,3,4000,Hilton: Uttar Pradesh,105,HOT001
+4 - Star Room,4,4000,Hilton: Gujarat,106,HOT001
+6 - Star Room,1,5000,Hilton: Gujarat,107,HOT001
+3 - Star Room,4,2000,Hilton: Gujarat,108,HOT001
+6 - Star Room,1,3000,Hilton: Gujarat,109,HOT001
+6 - Star Room,4,2000,Hilton: Odisha,110,HOT001
+6 - Star Room,3,3000,Hilton: Odisha,111,HOT001
+4 - Star Room,3,5000,Hilton: Odisha,112,HOT001
+2 - Star Room,1,1000,Hilton: Odisha,113,HOT001
+2 - Star Room,1,2000,Hilton: Odisha,114,HOT001
+5 - Star Room,1,4000,Hilton: Rajasthan,115,HOT001
+4 - Star Room,2,3000,Hilton: Rajasthan,116,HOT001
+5 - Star Room,3,4000,Hilton: Rajasthan,117,HOT001
+6 - Star Room,3,1000,Hilton: Rajasthan,118,HOT001
+6 - Star Room,3,5000,Hilton: Rajasthan,119,HOT001
+5 - Star Room,4,2000,Hilton: Rajasthan,120,HOT001
+2 - Star Room,1,1000,Hilton: Karnataka,121,HOT001
+6 - Star Room,3,3000,Hilton: Karnataka,122,HOT001
+2 - Star Room,3,4000,Hilton: Karnataka,123,HOT001
+4 - Star Room,1,4000,Hilton: Chhattisgarh,124,HOT001
+6 - Star Room,4,4000,Hilton: Chhattisgarh,125,HOT001
+6 - Star Room,4,3000,Hilton: Chhattisgarh,126,HOT001
+2 - Star Room,3,1000,Hilton: Chhattisgarh,127,HOT001
+6 - Star Room,1,3000,Hilton: Chhattisgarh,128,HOT001
+3 - Star Room,2,3000,Hilton: Chhattisgarh,129,HOT001
+4 - Star Room,4,5000,Hilton: Chhattisgarh,130,HOT001
+3 - Star Room,4,3000,Hilton: Chhattisgarh,131,HOT001
+6 - Star Room,4,3000,Hilton: Chhattisgarh,132,HOT001
+5 - Star Room,4,3000,Hilton: Chhattisgarh,133,HOT001
+1 - Star Room,3,2000,Hilton: Chhattisgarh,134,HOT001
+2 - Star Room,2,1000,Hilton: Chhattisgarh,135,HOT001
+4 - Star Room,1,4000,Hilton: Chhattisgarh,136,HOT001
+5 - Star Room,4,5000,Hilton: Chhattisgarh,137,HOT001
+6 - Star Room,1,5000,Hilton: Chhattisgarh,138,HOT001
+1 - Star Room,3,3000,Hilton: Chhattisgarh,139,HOT001
+2 - Star Room,2,5000,Hilton: Chhattisgarh,140,HOT001
+3 - Star Room,1,1000,Hilton: Chhattisgarh,141,HOT001
+4 - Star Room,1,5000,Hilton: Chhattisgarh,142,HOT001
+1 - Star Room,3,1000,Hilton: Andhra Pradesh,143,HOT001
+5 - Star Room,4,1000,Hilton: Andhra Pradesh,144,HOT001
+6 - Star Room,1,5000,Hilton: Andhra Pradesh,145,HOT001
+5 - Star Room,1,1000,Hilton: Andhra Pradesh,146,HOT001
+6 - Star Room,2,5000,Hilton: Andhra Pradesh,147,HOT001
+1 - Star Room,2,2000,Hilton: Andhra Pradesh,148,HOT001
+2 - Star Room,3,2000,Hilton: Andhra Pradesh,149,HOT001
+5 - Star Room,3,4000,Hilton: Andhra Pradesh,150,HOT001
+2 - Star Room,3,3000,Hilton: Andhra Pradesh,151,HOT001
+3 - Star Room,2,1000,Hilton: Andhra Pradesh,152,HOT001
+1 - Star Room,2,1000,Hilton: Andhra Pradesh,153,HOT001
+2 - Star Room,1,1000,Hilton: Andhra Pradesh,154,HOT001
+3 - Star Room,1,3000,Hilton: Andhra Pradesh,155,HOT001
+6 - Star Room,2,2000,Hilton: Andhra Pradesh,156,HOT001
+2 - Star Room,1,5000,Hilton: Andhra Pradesh,157,HOT001
+5 - Star Room,3,5000,Hilton: Andhra Pradesh,158,HOT001
+2 - Star Room,3,1000,Hilton: Andhra Pradesh,159,HOT001
+1 - Star Room,2,1000,Hilton: Himachal Pradesh,160,HOT001
+5 - Star Room,3,3000,Hilton: Himachal Pradesh,161,HOT001
+2 - Star Room,1,2000,Hilton: Himachal Pradesh,162,HOT001
+3 - Star Room,1,4000,Hilton: Himachal Pradesh,163,HOT001
+2 - Star Room,2,5000,Hilton: Himachal Pradesh,164,HOT001
+1 - Star Room,1,2000,Hilton: Himachal Pradesh,165,HOT001
+2 - Star Room,4,4000,Hilton: Himachal Pradesh,166,HOT001
+1 - Star Room,1,2000,Hilton: Himachal Pradesh,167,HOT001
+2 - Star Room,3,2000,Hilton: State,168,HOT001
+6 - Star Room,3,3000,Hilton: State,169,HOT001
+2 - Star Room,4,5000,Hilton: State,170,HOT001
+3 - Star Room,1,3000,Hilton: State,171,HOT001
+3 - Star Room,3,2000,Hilton: State,172,HOT001
+5 - Star Room,4,4000,Hilton: State,173,HOT001
+4 - Star Room,4,1000,Hilton: State,174,HOT001
+6 - Star Room,4,5000,Hilton: State,175,HOT001
+1 - Star Room,1,2000,Hilton: State,176,HOT001
+3 - Star Room,3,5000,Hilton: State,177,HOT001
+2 - Star Room,2,4000,Hilton: Kerala,178,HOT001
+4 - Star Room,3,2000,Hilton: Kerala,179,HOT001
+5 - Star Room,1,2000,Hilton: Kerala,180,HOT001
+6 - Star Room,3,5000,Hilton: Kerala,181,HOT001
+2 - Star Room,2,1000,Hilton: Kerala,182,HOT001
+3 - Star Room,4,4000,Hilton: Kerala,183,HOT001
+4 - Star Room,3,5000,Hilton: Kerala,184,HOT001
+5 - Star Room,1,5000,Hilton: Kerala,185,HOT001
+3 - Star Room,3,5000,Hilton: Kerala,186,HOT001
+5 - Star Room,2,3000,Hilton: Kerala,187,HOT001
+1 - Star Room,2,4000,Hilton: Goa,188,HOT001
+3 - Star Room,1,2000,Hilton: Goa,189,HOT001
+3 - Star Room,1,2000,Hilton: Goa,190,HOT001
+2 - Star Room,2,3000,Hilton: Goa,191,HOT001
+2 - Star Room,2,3000,Hilton: Goa,192,HOT001
+3 - Star Room,2,5000,Hilton: Tamil Nadu,193,HOT001
+1 - Star Room,3,3000,Hilton: Tamil Nadu,194,HOT001
+2 - Star Room,3,2000,Hilton: Tamil Nadu,195,HOT001
+5 - Star Room,3,4000,Hilton: Tamil Nadu,196,HOT001
+6 - Star Room,3,5000,Hilton: Tamil Nadu,197,HOT001
+4 - Star Room,2,2000,Hilton: Tamil Nadu,198,HOT001
+5 - Star Room,1,3000,Hilton: Tamil Nadu,199,HOT001
+6 - Star Room,3,5000,Hilton: Tamil Nadu,200,HOT001
+2 - Star Room,3,4000,Hilton: Tamil Nadu,201,HOT001
+2 - Star Room,4,1000,Hilton: Tamil Nadu,202,HOT001
+3 - Star Room,4,4000,Hilton: Tamil Nadu,203,HOT001
+1 - Star Room,4,1000,Hilton: Tamil Nadu,204,HOT001
+3 - Star Room,1,5000,Hilton: Tamil Nadu,205,HOT001
+2 - Star Room,1,3000,Hilton: Tamil Nadu,206,HOT001
+4 - Star Room,4,2000,Hilton: Tamil Nadu,207,HOT001
+5 - Star Room,3,3000,Hilton: Tamil Nadu,208,HOT001
+4 - Star Room,1,2000,Hyatt: Bihar,209,HOT002
+1 - Star Room,1,1000,Hyatt: Bihar,210,HOT002
+1 - Star Room,3,2000,Hyatt: Bihar,211,HOT002
+2 - Star Room,3,2000,Hyatt: Bihar,212,HOT002
+4 - Star Room,1,1000,Hyatt: Bihar,213,HOT002
+2 - Star Room,1,2000,Hyatt: Bihar,214,HOT002
+4 - Star Room,1,1000,Hyatt: Bihar,215,HOT002
+3 - Star Room,1,1000,Hyatt: Bihar,216,HOT002
+1 - Star Room,1,1000,Hyatt: Bihar,217,HOT002
+3 - Star Room,2,5000,Hyatt: Bihar,218,HOT002
+4 - Star Room,4,2000,Hyatt: Bihar,219,HOT002
+2 - Star Room,1,5000,Hyatt: Maharashtra,220,HOT002
+5 - Star Room,4,3000,Hyatt: Maharashtra,221,HOT002
+1 - Star Room,3,4000,Hyatt: Maharashtra,222,HOT002
+2 - Star Room,1,5000,Hyatt: Maharashtra,223,HOT002
+4 - Star Room,3,3000,Hyatt: Maharashtra,224,HOT002
+5 - Star Room,2,4000,Hyatt: Maharashtra,225,HOT002
+4 - Star Room,3,3000,Hyatt: Maharashtra,226,HOT002
+2 - Star Room,2,5000,Hyatt: Maharashtra,227,HOT002
+6 - Star Room,1,4000,Hyatt: Maharashtra,228,HOT002
+3 - Star Room,1,2000,Hyatt: Maharashtra,229,HOT002
+5 - Star Room,1,1000,Hyatt: Maharashtra,230,HOT002
+6 - Star Room,1,2000,Hyatt: Maharashtra,231,HOT002
+6 - Star Room,3,1000,Hyatt: Maharashtra,232,HOT002
+5 - Star Room,4,4000,Hyatt: Maharashtra,233,HOT002
+5 - Star Room,2,1000,Hyatt: Maharashtra,234,HOT002
+1 - Star Room,3,5000,Hyatt: Telangana,235,HOT002
+5 - Star Room,1,4000,Hyatt: Telangana,236,HOT002
+6 - Star Room,4,5000,Hyatt: Telangana,237,HOT002
+1 - Star Room,4,1000,Hyatt: Telangana,238,HOT002
+4 - Star Room,1,5000,Hyatt: Telangana,239,HOT002
+5 - Star Room,1,1000,Hyatt: Telangana,240,HOT002
+2 - Star Room,1,3000,Hyatt: Telangana,241,HOT002
+5 - Star Room,4,1000,Hyatt: Telangana,242,HOT002
+4 - Star Room,3,3000,Hyatt: Jammu and Kashmir,243,HOT002
+6 - Star Room,4,2000,Hyatt: Jammu and Kashmir,244,HOT002
+1 - Star Room,1,2000,Hyatt: Jammu and Kashmir,245,HOT002
+1 - Star Room,4,3000,Hyatt: Jammu and Kashmir,246,HOT002
+1 - Star Room,1,3000,Hyatt: Jammu and Kashmir,247,HOT002
+3 - Star Room,2,3000,Hyatt: Jammu and Kashmir,248,HOT002
+3 - Star Room,1,1000,Hyatt: Jammu and Kashmir,249,HOT002
+1 - Star Room,2,5000,Hyatt: Jammu and Kashmir,250,HOT002
+3 - Star Room,4,5000,Hyatt: Jammu and Kashmir,251,HOT002
+1 - Star Room,1,2000,Hyatt: Jammu and Kashmir,252,HOT002
+2 - Star Room,3,1000,Hyatt: Jammu and Kashmir,253,HOT002
+6 - Star Room,3,3000,Hyatt: Jammu and Kashmir,254,HOT002
+3 - Star Room,1,3000,Hyatt: Uttarakhand,255,HOT002
+3 - Star Room,2,2000,Hyatt: Uttarakhand,256,HOT002
+2 - Star Room,4,4000,Hyatt: Uttarakhand,257,HOT002
+2 - Star Room,2,4000,Hyatt: West Bengal,258,HOT002
+1 - Star Room,2,1000,Hyatt: West Bengal,259,HOT002
+3 - Star Room,1,4000,Hyatt: West Bengal,260,HOT002
+2 - Star Room,2,4000,Hyatt: West Bengal,261,HOT002
+3 - Star Room,4,2000,Hyatt: West Bengal,262,HOT002
+3 - Star Room,4,4000,Hyatt: West Bengal,263,HOT002
+4 - Star Room,2,2000,Hyatt: West Bengal,264,HOT002
+5 - Star Room,4,5000,Hyatt: West Bengal,265,HOT002
+2 - Star Room,1,4000,Hyatt: Assam,266,HOT002
+4 - Star Room,4,3000,Hyatt: Assam,267,HOT002
+4 - Star Room,4,1000,Hyatt: Assam,268,HOT002
+1 - Star Room,2,1000,Hyatt: Assam,269,HOT002
+3 - Star Room,3,1000,Hyatt: Assam,270,HOT002
+2 - Star Room,4,5000,Hyatt: Assam,271,HOT002
+1 - Star Room,2,1000,Hyatt: Assam,272,HOT002
+3 - Star Room,3,5000,Hyatt: Assam,273,HOT002
+4 - Star Room,4,5000,Hyatt: Assam,274,HOT002
+3 - Star Room,2,2000,Hyatt: Assam,275,HOT002
+1 - Star Room,4,5000,Hyatt: Punjab,276,HOT002
+3 - Star Room,3,3000,Hyatt: Punjab,277,HOT002
+6 - Star Room,4,1000,Hyatt: Punjab,278,HOT002
+1 - Star Room,4,5000,Hyatt: Punjab,279,HOT002
+3 - Star Room,1,2000,Hyatt: Punjab,280,HOT002
+4 - Star Room,3,5000,Hyatt: Punjab,281,HOT002
+6 - Star Room,4,2000,Hyatt: Punjab,282,HOT002
+3 - Star Room,3,3000,Hyatt: Punjab,283,HOT002
+2 - Star Room,3,3000,Hyatt: Punjab,284,HOT002
+5 - Star Room,1,1000,Hyatt: Punjab,285,HOT002
+1 - Star Room,2,5000,Hyatt: Punjab,286,HOT002
+1 - Star Room,3,4000,Hyatt: Punjab,287,HOT002
+2 - Star Room,1,3000,Hyatt: Punjab,288,HOT002
+2 - Star Room,4,2000,Hyatt: Madhya Pradesh,289,HOT002
+3 - Star Room,2,5000,Hyatt: Madhya Pradesh,290,HOT002
+3 - Star Room,1,2000,Hyatt: Madhya Pradesh,291,HOT002
+6 - Star Room,2,5000,Hyatt: Madhya Pradesh,292,HOT002
+2 - Star Room,4,4000,Hyatt: Madhya Pradesh,293,HOT002
+3 - Star Room,3,1000,Hyatt: Madhya Pradesh,294,HOT002
+1 - Star Room,4,1000,Hyatt: Madhya Pradesh,295,HOT002
+3 - Star Room,2,4000,Hyatt: Madhya Pradesh,296,HOT002
+6 - Star Room,3,5000,Hyatt: Madhya Pradesh,297,HOT002
+5 - Star Room,1,5000,Hyatt: Madhya Pradesh,298,HOT002
+1 - Star Room,1,5000,Hyatt: Madhya Pradesh,299,HOT002
+4 - Star Room,4,2000,Hyatt: Madhya Pradesh,300,HOT002
+6 - Star Room,4,4000,Hyatt: Madhya Pradesh,301,HOT002
+3 - Star Room,4,4000,Hyatt: Puducherry,302,HOT002
+5 - Star Room,3,4000,Hyatt: Puducherry,303,HOT002
+5 - Star Room,2,3000,Hyatt: Puducherry,304,HOT002
+4 - Star Room,3,2000,Hyatt: Puducherry,305,HOT002
+5 - Star Room,1,1000,Hyatt: Puducherry,306,HOT002
+1 - Star Room,4,1000,Hyatt: Puducherry,307,HOT002
+3 - Star Room,4,2000,Hyatt: Puducherry,308,HOT002
+2 - Star Room,2,2000,Hyatt: Puducherry,309,HOT002
+4 - Star Room,1,5000,Hyatt: Puducherry,310,HOT002
+6 - Star Room,1,1000,Hyatt: Puducherry,311,HOT002
+3 - Star Room,1,1000,Hyatt: Puducherry,312,HOT002
+5 - Star Room,4,3000,Hyatt: Puducherry,313,HOT002
+6 - Star Room,4,5000,Hyatt: Puducherry,314,HOT002
+5 - Star Room,4,4000,Hyatt: Uttar Pradesh,315,HOT002
+1 - Star Room,2,1000,Hyatt: Uttar Pradesh,316,HOT002
+1 - Star Room,4,1000,Hyatt: Uttar Pradesh,317,HOT002
+4 - Star Room,4,1000,Hyatt: Uttar Pradesh,318,HOT002
+3 - Star Room,2,3000,Hyatt: Uttar Pradesh,319,HOT002
+3 - Star Room,4,2000,Hyatt: Uttar Pradesh,320,HOT002
+5 - Star Room,4,5000,Hyatt: Uttar Pradesh,321,HOT002
+1 - Star Room,1,4000,Hyatt: Uttar Pradesh,322,HOT002
+3 - Star Room,2,3000,Hyatt: Uttar Pradesh,323,HOT002
+1 - Star Room,1,3000,Hyatt: Uttar Pradesh,324,HOT002
+2 - Star Room,3,2000,Hyatt: Uttar Pradesh,325,HOT002
+1 - Star Room,4,2000,Hyatt: Gujarat,326,HOT002
+4 - Star Room,1,5000,Hyatt: Gujarat,327,HOT002
+1 - Star Room,4,4000,Hyatt: Gujarat,328,HOT002
+4 - Star Room,4,5000,Hyatt: Gujarat,329,HOT002
+6 - Star Room,1,3000,Hyatt: Gujarat,330,HOT002
+3 - Star Room,2,2000,Hyatt: Gujarat,331,HOT002
+4 - Star Room,4,1000,Hyatt: Gujarat,332,HOT002
+2 - Star Room,3,2000,Hyatt: Gujarat,333,HOT002
+3 - Star Room,1,2000,Hyatt: Gujarat,334,HOT002
+2 - Star Room,3,2000,Hyatt: Gujarat,335,HOT002
+5 - Star Room,1,1000,Hyatt: Gujarat,336,HOT002
+1 - Star Room,4,2000,Hyatt: Gujarat,337,HOT002
+4 - Star Room,2,5000,Hyatt: Gujarat,338,HOT002
+6 - Star Room,2,3000,Hyatt: Gujarat,339,HOT002
+3 - Star Room,3,5000,Hyatt: Odisha,340,HOT002
+1 - Star Room,1,5000,Hyatt: Odisha,341,HOT002
+5 - Star Room,2,3000,Hyatt: Odisha,342,HOT002
+4 - Star Room,4,5000,Hyatt: Odisha,343,HOT002
+1 - Star Room,4,1000,Hyatt: Odisha,344,HOT002
+1 - Star Room,3,4000,Hyatt: Odisha,345,HOT002
+6 - Star Room,3,3000,Hyatt: Odisha,346,HOT002
+1 - Star Room,1,3000,Hyatt: Rajasthan,347,HOT002
+2 - Star Room,1,1000,Hyatt: Rajasthan,348,HOT002
+3 - Star Room,2,2000,Hyatt: Rajasthan,349,HOT002
+1 - Star Room,2,3000,Hyatt: Rajasthan,350,HOT002
+6 - Star Room,1,3000,Hyatt: Rajasthan,351,HOT002
+6 - Star Room,2,3000,Hyatt: Rajasthan,352,HOT002
+5 - Star Room,2,3000,Hyatt: Rajasthan,353,HOT002
+1 - Star Room,1,1000,Hyatt: Rajasthan,354,HOT002
+2 - Star Room,4,5000,Hyatt: Karnataka,355,HOT002
+5 - Star Room,3,4000,Hyatt: Karnataka,356,HOT002
+6 - Star Room,4,1000,Hyatt: Karnataka,357,HOT002
+6 - Star Room,3,3000,Hyatt: Karnataka,358,HOT002
+3 - Star Room,3,1000,Hyatt: Karnataka,359,HOT002
+5 - Star Room,2,5000,Hyatt: Karnataka,360,HOT002
+4 - Star Room,1,3000,Hyatt: Karnataka,361,HOT002
+6 - Star Room,4,1000,Hyatt: Karnataka,362,HOT002
+1 - Star Room,3,4000,Hyatt: Karnataka,363,HOT002
+4 - Star Room,4,2000,Hyatt: Karnataka,364,HOT002
+2 - Star Room,1,1000,Hyatt: Chhattisgarh,365,HOT002
+3 - Star Room,4,5000,Hyatt: Chhattisgarh,366,HOT002
+2 - Star Room,1,2000,Hyatt: Chhattisgarh,367,HOT002
+4 - Star Room,1,4000,Hyatt: Chhattisgarh,368,HOT002
+1 - Star Room,3,3000,Hyatt: Chhattisgarh,369,HOT002
+3 - Star Room,4,1000,Hyatt: Chhattisgarh,370,HOT002
+1 - Star Room,3,4000,Hyatt: Chhattisgarh,371,HOT002
+2 - Star Room,2,5000,Hyatt: Chhattisgarh,372,HOT002
+6 - Star Room,1,5000,Hyatt: Chhattisgarh,373,HOT002
+2 - Star Room,3,3000,Hyatt: Chhattisgarh,374,HOT002
+6 - Star Room,4,4000,Hyatt: Chhattisgarh,375,HOT002
+1 - Star Room,4,2000,Hyatt: Chhattisgarh,376,HOT002
+2 - Star Room,3,4000,Hyatt: Chhattisgarh,377,HOT002
+3 - Star Room,3,2000,Hyatt: Chhattisgarh,378,HOT002
+3 - Star Room,3,5000,Hyatt: Chhattisgarh,379,HOT002
+5 - Star Room,1,2000,Hyatt: Chhattisgarh,380,HOT002
+4 - Star Room,4,1000,Hyatt: Chhattisgarh,381,HOT002
+2 - Star Room,3,2000,Hyatt: Andhra Pradesh,382,HOT002
+5 - Star Room,4,2000,Hyatt: Andhra Pradesh,383,HOT002
+4 - Star Room,2,5000,Hyatt: Andhra Pradesh,384,HOT002
+1 - Star Room,2,3000,Hyatt: Andhra Pradesh,385,HOT002
+3 - Star Room,4,3000,Hyatt: Andhra Pradesh,386,HOT002
+2 - Star Room,3,5000,Hyatt: Andhra Pradesh,387,HOT002
+5 - Star Room,1,5000,Hyatt: Andhra Pradesh,388,HOT002
+6 - Star Room,3,4000,Hyatt: Andhra Pradesh,389,HOT002
+6 - Star Room,1,2000,Hyatt: Himachal Pradesh,390,HOT002
+4 - Star Room,1,1000,Hyatt: Himachal Pradesh,391,HOT002
+4 - Star Room,3,3000,Hyatt: Himachal Pradesh,392,HOT002
+5 - Star Room,2,1000,Hyatt: Himachal Pradesh,393,HOT002
+3 - Star Room,4,2000,Hyatt: Himachal Pradesh,394,HOT002
+1 - Star Room,4,3000,Hyatt: Himachal Pradesh,395,HOT002
+5 - Star Room,2,4000,Hyatt: Himachal Pradesh,396,HOT002
+6 - Star Room,4,1000,Hyatt: Himachal Pradesh,397,HOT002
+2 - Star Room,4,1000,Hyatt: Himachal Pradesh,398,HOT002
+3 - Star Room,4,2000,Hyatt: Himachal Pradesh,399,HOT002
+4 - Star Room,1,4000,Hyatt: Himachal Pradesh,400,HOT002
+5 - Star Room,1,5000,Hyatt: Himachal Pradesh,401,HOT002
+5 - Star Room,4,5000,Hyatt: Himachal Pradesh,402,HOT002
+6 - Star Room,4,5000,Hyatt: Himachal Pradesh,403,HOT002
+2 - Star Room,1,5000,Hyatt: Himachal Pradesh,404,HOT002
+5 - Star Room,4,1000,Hyatt: Himachal Pradesh,405,HOT002
+4 - Star Room,3,1000,Hyatt: Himachal Pradesh,406,HOT002
+2 - Star Room,2,4000,Hyatt: State,407,HOT002
+4 - Star Room,2,4000,Hyatt: State,408,HOT002
+2 - Star Room,2,1000,Hyatt: State,409,HOT002
+6 - Star Room,4,1000,Hyatt: State,410,HOT002
+5 - Star Room,2,4000,Hyatt: State,411,HOT002
+6 - Star Room,4,1000,Hyatt: State,412,HOT002
+4 - Star Room,3,4000,Hyatt: Kerala,413,HOT002
+6 - Star Room,4,5000,Hyatt: Kerala,414,HOT002
+5 - Star Room,2,4000,Hyatt: Kerala,415,HOT002
+6 - Star Room,1,2000,Hyatt: Kerala,416,HOT002
+1 - Star Room,1,1000,Hyatt: Kerala,417,HOT002
+4 - Star Room,3,2000,Hyatt: Kerala,418,HOT002
+5 - Star Room,2,3000,Hyatt: Kerala,419,HOT002
+5 - Star Room,2,5000,Hyatt: Kerala,420,HOT002
+6 - Star Room,4,4000,Hyatt: Goa,421,HOT002
+1 - Star Room,1,1000,Hyatt: Goa,422,HOT002
+6 - Star Room,4,1000,Hyatt: Goa,423,HOT002
+1 - Star Room,3,1000,Hyatt: Goa,424,HOT002
+5 - Star Room,3,1000,Hyatt: Goa,425,HOT002
+1 - Star Room,3,5000,Hyatt: Goa,426,HOT002
+2 - Star Room,2,5000,Hyatt: Goa,427,HOT002
+5 - Star Room,2,1000,Hyatt: Goa,428,HOT002
+3 - Star Room,2,5000,Hyatt: Goa,429,HOT002
+5 - Star Room,4,4000,Hyatt: Goa,430,HOT002
+1 - Star Room,4,2000,Hyatt: Tamil Nadu,431,HOT002
+2 - Star Room,3,1000,Hyatt: Tamil Nadu,432,HOT002
+3 - Star Room,4,1000,Hyatt: Tamil Nadu,433,HOT002
+2 - Star Room,1,2000,Hyatt: Tamil Nadu,434,HOT002
+5 - Star Room,2,3000,Hyatt: Tamil Nadu,435,HOT002
+1 - Star Room,2,5000,Hyatt: Tamil Nadu,436,HOT002
+3 - Star Room,4,1000,Hyatt: Tamil Nadu,437,HOT002
+2 - Star Room,4,5000,Hyatt: Tamil Nadu,438,HOT002
+5 - Star Room,4,4000,Hyatt: Tamil Nadu,439,HOT002
+3 - Star Room,1,5000,Hyatt: Tamil Nadu,440,HOT002
+2 - Star Room,3,3000,Marriott: Bihar,441,HOT003
+4 - Star Room,1,5000,Marriott: Bihar,442,HOT003
+5 - Star Room,1,4000,Marriott: Bihar,443,HOT003
+4 - Star Room,3,1000,Marriott: Bihar,444,HOT003
+6 - Star Room,4,1000,Marriott: Bihar,445,HOT003
+1 - Star Room,3,3000,Marriott: Bihar,446,HOT003
+2 - Star Room,4,2000,Marriott: Bihar,447,HOT003
+4 - Star Room,3,4000,Marriott: Bihar,448,HOT003
+3 - Star Room,3,2000,Marriott: Bihar,449,HOT003
+1 - Star Room,4,4000,Marriott: Bihar,450,HOT003
+2 - Star Room,4,5000,Marriott: Maharashtra,451,HOT003
+4 - Star Room,3,2000,Marriott: Maharashtra,452,HOT003
+3 - Star Room,3,1000,Marriott: Maharashtra,453,HOT003
+4 - Star Room,3,5000,Marriott: Maharashtra,454,HOT003
+2 - Star Room,4,5000,Marriott: Maharashtra,455,HOT003
+2 - Star Room,4,3000,Marriott: Maharashtra,456,HOT003
+4 - Star Room,3,2000,Marriott: Telangana,457,HOT003
+6 - Star Room,1,5000,Marriott: Telangana,458,HOT003
+6 - Star Room,4,5000,Marriott: Telangana,459,HOT003
+1 - Star Room,2,5000,Marriott: Telangana,460,HOT003
+4 - Star Room,2,3000,Marriott: Telangana,461,HOT003
+2 - Star Room,4,2000,Marriott: Telangana,462,HOT003
+4 - Star Room,4,2000,Marriott: Telangana,463,HOT003
+5 - Star Room,3,1000,Marriott: Telangana,464,HOT003
+1 - Star Room,1,3000,Marriott: Jammu and Kashmir,465,HOT003
+5 - Star Room,2,2000,Marriott: Uttarakhand,466,HOT003
+1 - Star Room,1,4000,Marriott: Uttarakhand,467,HOT003
+6 - Star Room,1,1000,Marriott: Uttarakhand,468,HOT003
+6 - Star Room,4,2000,Marriott: Uttarakhand,469,HOT003
+1 - Star Room,3,2000,Marriott: Uttarakhand,470,HOT003
+2 - Star Room,4,1000,Marriott: Uttarakhand,471,HOT003
+2 - Star Room,1,4000,Marriott: West Bengal,472,HOT003
+2 - Star Room,1,2000,Marriott: West Bengal,473,HOT003
+1 - Star Room,2,1000,Marriott: West Bengal,474,HOT003
+6 - Star Room,2,1000,Marriott: West Bengal,475,HOT003
+2 - Star Room,1,5000,Marriott: West Bengal,476,HOT003
+5 - Star Room,3,5000,Marriott: West Bengal,477,HOT003
+5 - Star Room,3,4000,Marriott: West Bengal,478,HOT003
+2 - Star Room,2,2000,Marriott: West Bengal,479,HOT003
+1 - Star Room,1,4000,Marriott: West Bengal,480,HOT003
+3 - Star Room,3,2000,Marriott: Assam,481,HOT003
+3 - Star Room,1,2000,Marriott: Assam,482,HOT003
+1 - Star Room,3,3000,Marriott: Assam,483,HOT003
+2 - Star Room,2,5000,Marriott: Assam,484,HOT003
+1 - Star Room,4,2000,Marriott: Assam,485,HOT003
+3 - Star Room,4,2000,Marriott: Assam,486,HOT003
+2 - Star Room,2,2000,Marriott: Assam,487,HOT003
+2 - Star Room,4,4000,Marriott: Assam,488,HOT003
+1 - Star Room,1,1000,Marriott: Assam,489,HOT003
+6 - Star Room,1,1000,Marriott: Assam,490,HOT003
+3 - Star Room,1,3000,Marriott: Assam,491,HOT003
+1 - Star Room,2,5000,Marriott: Punjab,492,HOT003
+3 - Star Room,2,2000,Marriott: Punjab,493,HOT003
+6 - Star Room,1,4000,Marriott: Punjab,494,HOT003
+3 - Star Room,3,4000,Marriott: Punjab,495,HOT003
+4 - Star Room,2,5000,Marriott: Punjab,496,HOT003
+4 - Star Room,4,5000,Marriott: Punjab,497,HOT003
+1 - Star Room,1,4000,Marriott: Punjab,498,HOT003
+6 - Star Room,4,2000,Marriott: Punjab,499,HOT003
+2 - Star Room,4,4000,Marriott: Punjab,500,HOT003
+1 - Star Room,4,4000,Marriott: Punjab,501,HOT003
+3 - Star Room,1,4000,Marriott: Punjab,502,HOT003
+5 - Star Room,4,4000,Marriott: Madhya Pradesh,503,HOT003
+1 - Star Room,2,5000,Marriott: Madhya Pradesh,504,HOT003
+3 - Star Room,2,1000,Marriott: Madhya Pradesh,505,HOT003
+1 - Star Room,4,1000,Marriott: Madhya Pradesh,506,HOT003
+6 - Star Room,4,4000,Marriott: Madhya Pradesh,507,HOT003
+2 - Star Room,2,2000,Marriott: Madhya Pradesh,508,HOT003
+4 - Star Room,4,1000,Marriott: Madhya Pradesh,509,HOT003
+2 - Star Room,3,4000,Marriott: Madhya Pradesh,510,HOT003
+6 - Star Room,1,2000,Marriott: Madhya Pradesh,511,HOT003
+4 - Star Room,3,2000,Marriott: Madhya Pradesh,512,HOT003
+2 - Star Room,4,1000,Marriott: Madhya Pradesh,513,HOT003
+3 - Star Room,3,1000,Marriott: Madhya Pradesh,514,HOT003
+2 - Star Room,2,1000,Marriott: Madhya Pradesh,515,HOT003
+3 - Star Room,4,4000,Marriott: Madhya Pradesh,516,HOT003
+4 - Star Room,1,1000,Marriott: Madhya Pradesh,517,HOT003
+3 - Star Room,2,2000,Marriott: Puducherry,518,HOT003
+2 - Star Room,1,5000,Marriott: Puducherry,519,HOT003
+3 - Star Room,2,1000,Marriott: Puducherry,520,HOT003
+3 - Star Room,3,3000,Marriott: Puducherry,521,HOT003
+2 - Star Room,3,4000,Marriott: Puducherry,522,HOT003
+1 - Star Room,4,3000,Marriott: Puducherry,523,HOT003
+3 - Star Room,1,4000,Marriott: Puducherry,524,HOT003
+4 - Star Room,2,2000,Marriott: Puducherry,525,HOT003
+6 - Star Room,3,3000,Marriott: Puducherry,526,HOT003
+4 - Star Room,2,5000,Marriott: Uttar Pradesh,527,HOT003
+2 - Star Room,4,4000,Marriott: Uttar Pradesh,528,HOT003
+4 - Star Room,1,4000,Marriott: Uttar Pradesh,529,HOT003
+5 - Star Room,1,3000,Marriott: Uttar Pradesh,530,HOT003
+1 - Star Room,2,4000,Marriott: Uttar Pradesh,531,HOT003
+4 - Star Room,4,3000,Marriott: Uttar Pradesh,532,HOT003
+1 - Star Room,3,1000,Marriott: Gujarat,533,HOT003
+3 - Star Room,2,4000,Marriott: Gujarat,534,HOT003
+2 - Star Room,3,4000,Marriott: Gujarat,535,HOT003
+5 - Star Room,2,5000,Marriott: Gujarat,536,HOT003
+3 - Star Room,2,4000,Marriott: Gujarat,537,HOT003
+3 - Star Room,2,2000,Marriott: Gujarat,538,HOT003
+2 - Star Room,4,1000,Marriott: Gujarat,539,HOT003
+4 - Star Room,1,1000,Marriott: Gujarat,540,HOT003
+4 - Star Room,3,3000,Marriott: Odisha,541,HOT003
+2 - Star Room,1,2000,Marriott: Odisha,542,HOT003
+5 - Star Room,1,4000,Marriott: Odisha,543,HOT003
+3 - Star Room,1,5000,Marriott: Odisha,544,HOT003
+6 - Star Room,4,5000,Marriott: Odisha,545,HOT003
+2 - Star Room,2,3000,Marriott: Odisha,546,HOT003
+5 - Star Room,4,4000,Marriott: Odisha,547,HOT003
+2 - Star Room,2,2000,Marriott: Odisha,548,HOT003
+4 - Star Room,4,1000,Marriott: Odisha,549,HOT003
+4 - Star Room,3,1000,Marriott: Rajasthan,550,HOT003
+5 - Star Room,1,1000,Marriott: Rajasthan,551,HOT003
+1 - Star Room,1,2000,Marriott: Rajasthan,552,HOT003
+2 - Star Room,2,1000,Marriott: Rajasthan,553,HOT003
+6 - Star Room,4,2000,Marriott: Rajasthan,554,HOT003
+6 - Star Room,2,4000,Marriott: Rajasthan,555,HOT003
+1 - Star Room,4,1000,Marriott: Rajasthan,556,HOT003
+2 - Star Room,1,4000,Marriott: Rajasthan,557,HOT003
+3 - Star Room,1,1000,Marriott: Rajasthan,558,HOT003
+6 - Star Room,2,3000,Marriott: Rajasthan,559,HOT003
+3 - Star Room,3,2000,Marriott: Rajasthan,560,HOT003
+3 - Star Room,4,4000,Marriott: Rajasthan,561,HOT003
+1 - Star Room,3,2000,Marriott: Karnataka,562,HOT003
+3 - Star Room,4,1000,Marriott: Karnataka,563,HOT003
+3 - Star Room,1,2000,Marriott: Karnataka,564,HOT003
+6 - Star Room,1,4000,Marriott: Karnataka,565,HOT003
+1 - Star Room,3,4000,Marriott: Karnataka,566,HOT003
+1 - Star Room,4,4000,Marriott: Karnataka,567,HOT003
+3 - Star Room,1,1000,Marriott: Karnataka,568,HOT003
+4 - Star Room,2,2000,Marriott: Karnataka,569,HOT003
+4 - Star Room,3,1000,Marriott: Chhattisgarh,570,HOT003
+6 - Star Room,1,4000,Marriott: Chhattisgarh,571,HOT003
+3 - Star Room,2,1000,Marriott: Chhattisgarh,572,HOT003
+3 - Star Room,1,3000,Marriott: Chhattisgarh,573,HOT003
+4 - Star Room,1,1000,Marriott: Chhattisgarh,574,HOT003
+1 - Star Room,1,3000,Marriott: Chhattisgarh,575,HOT003
+3 - Star Room,1,1000,Marriott: Chhattisgarh,576,HOT003
+4 - Star Room,2,4000,Marriott: Chhattisgarh,577,HOT003
+2 - Star Room,4,2000,Marriott: Chhattisgarh,578,HOT003
+6 - Star Room,4,2000,Marriott: Chhattisgarh,579,HOT003
+4 - Star Room,3,3000,Marriott: Chhattisgarh,580,HOT003
+5 - Star Room,4,5000,Marriott: Andhra Pradesh,581,HOT003
+6 - Star Room,3,4000,Marriott: Andhra Pradesh,582,HOT003
+3 - Star Room,1,4000,Marriott: Andhra Pradesh,583,HOT003
+1 - Star Room,3,5000,Marriott: Andhra Pradesh,584,HOT003
+5 - Star Room,3,5000,Marriott: Andhra Pradesh,585,HOT003
+2 - Star Room,2,1000,Marriott: Andhra Pradesh,586,HOT003
+5 - Star Room,2,5000,Marriott: Andhra Pradesh,587,HOT003
+2 - Star Room,2,4000,Marriott: Andhra Pradesh,588,HOT003
+5 - Star Room,2,2000,Marriott: Andhra Pradesh,589,HOT003
+2 - Star Room,3,2000,Marriott: Andhra Pradesh,590,HOT003
+2 - Star Room,1,3000,Marriott: Andhra Pradesh,591,HOT003
+3 - Star Room,3,4000,Marriott: Andhra Pradesh,592,HOT003
+5 - Star Room,3,4000,Marriott: Andhra Pradesh,593,HOT003
+2 - Star Room,4,4000,Marriott: Andhra Pradesh,594,HOT003
+3 - Star Room,1,4000,Marriott: Andhra Pradesh,595,HOT003
+3 - Star Room,2,4000,Marriott: Andhra Pradesh,596,HOT003
+2 - Star Room,2,2000,Marriott: Himachal Pradesh,597,HOT003
+4 - Star Room,3,1000,Marriott: Himachal Pradesh,598,HOT003
+1 - Star Room,4,1000,Marriott: Himachal Pradesh,599,HOT003
+4 - Star Room,4,4000,Marriott: Himachal Pradesh,600,HOT003
+6 - Star Room,3,2000,Marriott: Himachal Pradesh,601,HOT003
+3 - Star Room,2,2000,Marriott: Himachal Pradesh,602,HOT003
+4 - Star Room,2,4000,Marriott: Himachal Pradesh,603,HOT003
+4 - Star Room,3,2000,Marriott: Himachal Pradesh,604,HOT003
+2 - Star Room,2,3000,Marriott: Himachal Pradesh,605,HOT003
+1 - Star Room,3,5000,Marriott: State,606,HOT003
+1 - Star Room,4,2000,Marriott: State,607,HOT003
+3 - Star Room,4,1000,Marriott: State,608,HOT003
+2 - Star Room,2,1000,Marriott: State,609,HOT003
+1 - Star Room,2,1000,Marriott: State,610,HOT003
+4 - Star Room,2,1000,Marriott: State,611,HOT003
+5 - Star Room,1,3000,Marriott: State,612,HOT003
+2 - Star Room,1,4000,Marriott: State,613,HOT003
+2 - Star Room,1,3000,Marriott: State,614,HOT003
+3 - Star Room,1,4000,Marriott: State,615,HOT003
+5 - Star Room,4,4000,Marriott: State,616,HOT003
+4 - Star Room,1,4000,Marriott: State,617,HOT003
+3 - Star Room,2,4000,Marriott: Kerala,618,HOT003
+4 - Star Room,2,2000,Marriott: Kerala,619,HOT003
+5 - Star Room,1,3000,Marriott: Kerala,620,HOT003
+4 - Star Room,1,2000,Marriott: Kerala,621,HOT003
+3 - Star Room,1,3000,Marriott: Kerala,622,HOT003
+4 - Star Room,2,4000,Marriott: Kerala,623,HOT003
+5 - Star Room,2,2000,Marriott: Kerala,624,HOT003
+1 - Star Room,4,5000,Marriott: Kerala,625,HOT003
+6 - Star Room,1,5000,Marriott: Kerala,626,HOT003
+1 - Star Room,3,4000,Marriott: Kerala,627,HOT003
+3 - Star Room,1,1000,Marriott: Kerala,628,HOT003
+4 - Star Room,3,1000,Marriott: Kerala,629,HOT003
+5 - Star Room,2,1000,Marriott: Kerala,630,HOT003
+1 - Star Room,4,2000,Marriott: Kerala,631,HOT003
+3 - Star Room,2,5000,Marriott: Kerala,632,HOT003
+4 - Star Room,4,1000,Marriott: Kerala,633,HOT003
+5 - Star Room,1,2000,Marriott: Kerala,634,HOT003
+1 - Star Room,2,5000,Marriott: Goa,635,HOT003
+4 - Star Room,2,3000,Marriott: Goa,636,HOT003
+5 - Star Room,4,3000,Marriott: Goa,637,HOT003
+2 - Star Room,2,4000,Marriott: Goa,638,HOT003
+1 - Star Room,3,3000,Marriott: Goa,639,HOT003
+6 - Star Room,4,2000,Marriott: Goa,640,HOT003
+1 - Star Room,2,2000,Marriott: Goa,641,HOT003
+2 - Star Room,4,1000,Marriott: Goa,642,HOT003
+5 - Star Room,3,5000,Marriott: Goa,643,HOT003
+3 - Star Room,3,5000,Marriott: Goa,644,HOT003
+5 - Star Room,3,2000,Marriott: Goa,645,HOT003
+3 - Star Room,2,2000,Marriott: Goa,646,HOT003
+5 - Star Room,3,2000,Marriott: Goa,647,HOT003
+2 - Star Room,3,3000,Marriott: Goa,648,HOT003
+4 - Star Room,3,4000,Marriott: Goa,649,HOT003
+6 - Star Room,4,5000,Marriott: Goa,650,HOT003
+2 - Star Room,2,3000,Marriott: Goa,651,HOT003
+3 - Star Room,2,5000,Marriott: Goa,652,HOT003
+4 - Star Room,2,1000,Marriott: Tamil Nadu,653,HOT003
+3 - Star Room,2,3000,Marriott: Tamil Nadu,654,HOT003
+6 - Star Room,3,1000,Marriott: Tamil Nadu,655,HOT003
+1 - Star Room,1,3000,Marriott: Tamil Nadu,656,HOT003
+5 - Star Room,1,4000,Marriott: Tamil Nadu,657,HOT003
+2 - Star Room,2,4000,Marriott: Tamil Nadu,658,HOT003
+4 - Star Room,2,4000,Marriott: Tamil Nadu,659,HOT003
+1 - Star Room,3,3000,IHG: Bihar,660,HOT004
+5 - Star Room,1,5000,IHG: Bihar,661,HOT004
+6 - Star Room,3,3000,IHG: Bihar,662,HOT004
+5 - Star Room,3,3000,IHG: Bihar,663,HOT004
+4 - Star Room,1,3000,IHG: Bihar,664,HOT004
+3 - Star Room,3,4000,IHG: Maharashtra,665,HOT004
+4 - Star Room,4,4000,IHG: Maharashtra,666,HOT004
+2 - Star Room,2,2000,IHG: Maharashtra,667,HOT004
+1 - Star Room,2,2000,IHG: Maharashtra,668,HOT004
+1 - Star Room,4,5000,IHG: Maharashtra,669,HOT004
+6 - Star Room,4,1000,IHG: Maharashtra,670,HOT004
+5 - Star Room,3,5000,IHG: Maharashtra,671,HOT004
+1 - Star Room,3,5000,IHG: Maharashtra,672,HOT004
+2 - Star Room,3,5000,IHG: Maharashtra,673,HOT004
+2 - Star Room,1,1000,IHG: Maharashtra,674,HOT004
+6 - Star Room,4,4000,IHG: Maharashtra,675,HOT004
+4 - Star Room,1,5000,IHG: Maharashtra,676,HOT004
+5 - Star Room,4,4000,IHG: Maharashtra,677,HOT004
+1 - Star Room,1,1000,IHG: Telangana,678,HOT004
+3 - Star Room,3,1000,IHG: Telangana,679,HOT004
+4 - Star Room,1,4000,IHG: Telangana,680,HOT004
+4 - Star Room,2,4000,IHG: Telangana,681,HOT004
+1 - Star Room,1,3000,IHG: Telangana,682,HOT004
+1 - Star Room,4,5000,IHG: Telangana,683,HOT004
+4 - Star Room,4,5000,IHG: Telangana,684,HOT004
+2 - Star Room,1,5000,IHG: Telangana,685,HOT004
+3 - Star Room,1,3000,IHG: Telangana,686,HOT004
+5 - Star Room,1,1000,IHG: Telangana,687,HOT004
+3 - Star Room,1,5000,IHG: Telangana,688,HOT004
+4 - Star Room,1,3000,IHG: Telangana,689,HOT004
+6 - Star Room,1,1000,IHG: Jammu and Kashmir,690,HOT004
+2 - Star Room,2,1000,IHG: Jammu and Kashmir,691,HOT004
+3 - Star Room,2,3000,IHG: Jammu and Kashmir,692,HOT004
+1 - Star Room,1,1000,IHG: Jammu and Kashmir,693,HOT004
+4 - Star Room,2,4000,IHG: Jammu and Kashmir,694,HOT004
+1 - Star Room,2,3000,IHG: Jammu and Kashmir,695,HOT004
+1 - Star Room,2,4000,IHG: Jammu and Kashmir,696,HOT004
+2 - Star Room,4,4000,IHG: Jammu and Kashmir,697,HOT004
+6 - Star Room,3,3000,IHG: Jammu and Kashmir,698,HOT004
+6 - Star Room,1,1000,IHG: Jammu and Kashmir,699,HOT004
+4 - Star Room,2,1000,IHG: Uttarakhand,700,HOT004
+6 - Star Room,4,5000,IHG: Uttarakhand,701,HOT004
+5 - Star Room,2,2000,IHG: Uttarakhand,702,HOT004
+5 - Star Room,2,1000,IHG: Uttarakhand,703,HOT004
+1 - Star Room,1,3000,IHG: Uttarakhand,704,HOT004
+6 - Star Room,4,3000,IHG: Uttarakhand,705,HOT004
+4 - Star Room,2,5000,IHG: Uttarakhand,706,HOT004
+1 - Star Room,1,1000,IHG: Uttarakhand,707,HOT004
+3 - Star Room,1,4000,IHG: Uttarakhand,708,HOT004
+3 - Star Room,2,4000,IHG: Uttarakhand,709,HOT004
+4 - Star Room,1,4000,IHG: Uttarakhand,710,HOT004
+1 - Star Room,3,1000,IHG: West Bengal,711,HOT004
+2 - Star Room,4,3000,IHG: West Bengal,712,HOT004
+2 - Star Room,1,1000,IHG: West Bengal,713,HOT004
+5 - Star Room,1,2000,IHG: West Bengal,714,HOT004
+2 - Star Room,2,1000,IHG: West Bengal,715,HOT004
+5 - Star Room,2,4000,IHG: West Bengal,716,HOT004
+3 - Star Room,4,3000,IHG: West Bengal,717,HOT004
+4 - Star Room,1,5000,IHG: West Bengal,718,HOT004
+5 - Star Room,1,2000,IHG: West Bengal,719,HOT004
+2 - Star Room,3,3000,IHG: West Bengal,720,HOT004
+6 - Star Room,1,2000,IHG: West Bengal,721,HOT004
+2 - Star Room,3,4000,IHG: West Bengal,722,HOT004
+3 - Star Room,1,2000,IHG: West Bengal,723,HOT004
+1 - Star Room,1,2000,IHG: Assam,724,HOT004
+3 - Star Room,4,5000,IHG: Assam,725,HOT004
+2 - Star Room,3,5000,IHG: Assam,726,HOT004
+5 - Star Room,2,1000,IHG: Assam,727,HOT004
+1 - Star Room,1,5000,IHG: Assam,728,HOT004
+6 - Star Room,2,3000,IHG: Assam,729,HOT004
+1 - Star Room,2,3000,IHG: Assam,730,HOT004
+5 - Star Room,1,5000,IHG: Assam,731,HOT004
+2 - Star Room,4,2000,IHG: Assam,732,HOT004
+4 - Star Room,3,5000,IHG: Assam,733,HOT004
+3 - Star Room,3,1000,IHG: Punjab,734,HOT004
+2 - Star Room,1,3000,IHG: Punjab,735,HOT004
+2 - Star Room,1,1000,IHG: Punjab,736,HOT004
+3 - Star Room,3,5000,IHG: Punjab,737,HOT004
+4 - Star Room,2,4000,IHG: Punjab,738,HOT004
+5 - Star Room,3,5000,IHG: Punjab,739,HOT004
+3 - Star Room,3,5000,IHG: Punjab,740,HOT004
+5 - Star Room,4,3000,IHG: Punjab,741,HOT004
+2 - Star Room,1,4000,IHG: Punjab,742,HOT004
+5 - Star Room,1,1000,IHG: Punjab,743,HOT004
+2 - Star Room,1,4000,IHG: Madhya Pradesh,744,HOT004
+4 - Star Room,3,3000,IHG: Madhya Pradesh,745,HOT004
+5 - Star Room,2,1000,IHG: Madhya Pradesh,746,HOT004
+1 - Star Room,3,4000,IHG: Madhya Pradesh,747,HOT004
+5 - Star Room,1,5000,IHG: Madhya Pradesh,748,HOT004
+1 - Star Room,4,1000,IHG: Madhya Pradesh,749,HOT004
+2 - Star Room,4,5000,IHG: Madhya Pradesh,750,HOT004
+5 - Star Room,2,2000,IHG: Madhya Pradesh,751,HOT004
+1 - Star Room,2,5000,IHG: Madhya Pradesh,752,HOT004
+2 - Star Room,3,1000,IHG: Madhya Pradesh,753,HOT004
+2 - Star Room,2,4000,IHG: Madhya Pradesh,754,HOT004
+2 - Star Room,4,2000,IHG: Madhya Pradesh,755,HOT004
+3 - Star Room,3,3000,IHG: Madhya Pradesh,756,HOT004
+4 - Star Room,2,3000,IHG: Madhya Pradesh,757,HOT004
+4 - Star Room,3,2000,IHG: Madhya Pradesh,758,HOT004
+6 - Star Room,4,3000,IHG: Madhya Pradesh,759,HOT004
+4 - Star Room,3,4000,IHG: Madhya Pradesh,760,HOT004
+3 - Star Room,1,2000,IHG: Madhya Pradesh,761,HOT004
+6 - Star Room,2,2000,IHG: Madhya Pradesh,762,HOT004
+4 - Star Room,3,1000,IHG: Madhya Pradesh,763,HOT004
+5 - Star Room,3,5000,IHG: Madhya Pradesh,764,HOT004
+5 - Star Room,2,4000,IHG: Puducherry,765,HOT004
+5 - Star Room,4,3000,IHG: Puducherry,766,HOT004
+4 - Star Room,2,4000,IHG: Puducherry,767,HOT004
+1 - Star Room,4,4000,IHG: Puducherry,768,HOT004
+3 - Star Room,3,2000,IHG: Puducherry,769,HOT004
+2 - Star Room,2,2000,IHG: Puducherry,770,HOT004
+6 - Star Room,3,1000,IHG: Puducherry,771,HOT004
+1 - Star Room,2,4000,IHG: Uttar Pradesh,772,HOT004
+3 - Star Room,4,1000,IHG: Uttar Pradesh,773,HOT004
+4 - Star Room,1,2000,IHG: Uttar Pradesh,774,HOT004
+1 - Star Room,1,4000,IHG: Uttar Pradesh,775,HOT004
+1 - Star Room,3,3000,IHG: Uttar Pradesh,776,HOT004
+2 - Star Room,2,1000,IHG: Uttar Pradesh,777,HOT004
+2 - Star Room,2,3000,IHG: Uttar Pradesh,778,HOT004
+1 - Star Room,3,1000,IHG: Uttar Pradesh,779,HOT004
+5 - Star Room,4,2000,IHG: Uttar Pradesh,780,HOT004
+6 - Star Room,3,2000,IHG: Uttar Pradesh,781,HOT004
+5 - Star Room,4,1000,IHG: Uttar Pradesh,782,HOT004
+6 - Star Room,3,4000,IHG: Uttar Pradesh,783,HOT004
+4 - Star Room,1,3000,IHG: Uttar Pradesh,784,HOT004
+1 - Star Room,4,3000,IHG: Gujarat,785,HOT004
+6 - Star Room,2,5000,IHG: Gujarat,786,HOT004
+4 - Star Room,4,1000,IHG: Gujarat,787,HOT004
+2 - Star Room,1,4000,IHG: Gujarat,788,HOT004
+4 - Star Room,3,4000,IHG: Gujarat,789,HOT004
+4 - Star Room,1,4000,IHG: Gujarat,790,HOT004
+4 - Star Room,3,3000,IHG: Gujarat,791,HOT004
+6 - Star Room,3,2000,IHG: Gujarat,792,HOT004
+1 - Star Room,2,4000,IHG: Gujarat,793,HOT004
+3 - Star Room,2,4000,IHG: Gujarat,794,HOT004
+4 - Star Room,1,2000,IHG: Gujarat,795,HOT004
+4 - Star Room,4,5000,IHG: Odisha,796,HOT004
+6 - Star Room,1,5000,IHG: Odisha,797,HOT004
+5 - Star Room,2,2000,IHG: Odisha,798,HOT004
+1 - Star Room,3,1000,IHG: Odisha,799,HOT004
+5 - Star Room,2,5000,IHG: Odisha,800,HOT004
+2 - Star Room,1,2000,IHG: Odisha,801,HOT004
+3 - Star Room,3,4000,IHG: Odisha,802,HOT004
+4 - Star Room,2,5000,IHG: Odisha,803,HOT004
+5 - Star Room,3,4000,IHG: Odisha,804,HOT004
+6 - Star Room,2,5000,IHG: Odisha,805,HOT004
+2 - Star Room,1,5000,IHG: Odisha,806,HOT004
+6 - Star Room,3,3000,IHG: Odisha,807,HOT004
+1 - Star Room,1,1000,IHG: Rajasthan,808,HOT004
+1 - Star Room,1,2000,IHG: Rajasthan,809,HOT004
+5 - Star Room,2,4000,IHG: Rajasthan,810,HOT004
+4 - Star Room,1,1000,IHG: Rajasthan,811,HOT004
+6 - Star Room,3,3000,IHG: Rajasthan,812,HOT004
+2 - Star Room,2,4000,IHG: Rajasthan,813,HOT004
+6 - Star Room,1,3000,IHG: Rajasthan,814,HOT004
+4 - Star Room,3,4000,IHG: Rajasthan,815,HOT004
+2 - Star Room,4,1000,IHG: Rajasthan,816,HOT004
+3 - Star Room,1,1000,IHG: Karnataka,817,HOT004
+1 - Star Room,3,1000,IHG: Karnataka,818,HOT004
+2 - Star Room,3,2000,IHG: Karnataka,819,HOT004
+2 - Star Room,3,4000,IHG: Karnataka,820,HOT004
+4 - Star Room,2,3000,IHG: Karnataka,821,HOT004
+2 - Star Room,1,5000,IHG: Chhattisgarh,822,HOT004
+4 - Star Room,3,3000,IHG: Chhattisgarh,823,HOT004
+5 - Star Room,4,5000,IHG: Chhattisgarh,824,HOT004
+2 - Star Room,2,5000,IHG: Chhattisgarh,825,HOT004
+3 - Star Room,2,4000,IHG: Chhattisgarh,826,HOT004
+6 - Star Room,3,2000,IHG: Chhattisgarh,827,HOT004
+3 - Star Room,1,5000,IHG: Chhattisgarh,828,HOT004
+5 - Star Room,1,1000,IHG: Chhattisgarh,829,HOT004
+4 - Star Room,3,4000,IHG: Chhattisgarh,830,HOT004
+2 - Star Room,2,4000,IHG: Chhattisgarh,831,HOT004
+4 - Star Room,4,1000,IHG: Chhattisgarh,832,HOT004
+3 - Star Room,1,4000,IHG: Chhattisgarh,833,HOT004
+6 - Star Room,3,5000,IHG: Chhattisgarh,834,HOT004
+2 - Star Room,3,4000,IHG: Chhattisgarh,835,HOT004
+1 - Star Room,2,2000,IHG: Chhattisgarh,836,HOT004
+4 - Star Room,3,5000,IHG: Andhra Pradesh,837,HOT004
+6 - Star Room,4,2000,IHG: Andhra Pradesh,838,HOT004
+1 - Star Room,3,5000,IHG: Andhra Pradesh,839,HOT004
+3 - Star Room,3,1000,IHG: Andhra Pradesh,840,HOT004
+5 - Star Room,2,4000,IHG: Andhra Pradesh,841,HOT004
+1 - Star Room,4,3000,IHG: Himachal Pradesh,842,HOT004
+4 - Star Room,1,3000,IHG: Himachal Pradesh,843,HOT004
+2 - Star Room,1,2000,IHG: Himachal Pradesh,844,HOT004
+1 - Star Room,4,3000,IHG: Himachal Pradesh,845,HOT004
+4 - Star Room,3,5000,IHG: Himachal Pradesh,846,HOT004
+4 - Star Room,2,2000,IHG: Himachal Pradesh,847,HOT004
+6 - Star Room,4,4000,IHG: Himachal Pradesh,848,HOT004
+2 - Star Room,3,5000,IHG: Himachal Pradesh,849,HOT004
+5 - Star Room,3,1000,IHG: Himachal Pradesh,850,HOT004
+4 - Star Room,1,3000,IHG: State,851,HOT004
+5 - Star Room,4,5000,IHG: State,852,HOT004
+5 - Star Room,2,1000,IHG: State,853,HOT004
+1 - Star Room,4,4000,IHG: State,854,HOT004
+4 - Star Room,3,1000,IHG: State,855,HOT004
+5 - Star Room,2,2000,IHG: State,856,HOT004
+4 - Star Room,2,3000,IHG: State,857,HOT004
+4 - Star Room,2,1000,IHG: State,858,HOT004
+2 - Star Room,4,3000,IHG: State,859,HOT004
+2 - Star Room,3,4000,IHG: State,860,HOT004
+1 - Star Room,2,1000,IHG: State,861,HOT004
+2 - Star Room,2,5000,IHG: State,862,HOT004
+6 - Star Room,3,2000,IHG: State,863,HOT004
+6 - Star Room,2,4000,IHG: State,864,HOT004
+2 - Star Room,4,5000,IHG: State,865,HOT004
+2 - Star Room,4,3000,IHG: Kerala,866,HOT004
+6 - Star Room,3,5000,IHG: Kerala,867,HOT004
+4 - Star Room,2,1000,IHG: Kerala,868,HOT004
+5 - Star Room,1,4000,IHG: Kerala,869,HOT004
+3 - Star Room,3,3000,IHG: Kerala,870,HOT004
+5 - Star Room,3,2000,IHG: Kerala,871,HOT004
+5 - Star Room,4,3000,IHG: Kerala,872,HOT004
+4 - Star Room,3,5000,IHG: Kerala,873,HOT004
+3 - Star Room,1,5000,IHG: Kerala,874,HOT004
+4 - Star Room,1,3000,IHG: Kerala,875,HOT004
+3 - Star Room,3,2000,IHG: Kerala,876,HOT004
+6 - Star Room,4,4000,IHG: Kerala,877,HOT004
+1 - Star Room,4,2000,IHG: Kerala,878,HOT004
+1 - Star Room,1,3000,IHG: Kerala,879,HOT004
+3 - Star Room,1,2000,IHG: Kerala,880,HOT004
+1 - Star Room,1,5000,IHG: Kerala,881,HOT004
+4 - Star Room,2,4000,IHG: Goa,882,HOT004
+1 - Star Room,3,1000,IHG: Goa,883,HOT004
+3 - Star Room,3,4000,IHG: Goa,884,HOT004
+4 - Star Room,4,4000,IHG: Goa,885,HOT004
+5 - Star Room,3,4000,IHG: Goa,886,HOT004
+6 - Star Room,4,5000,IHG: Goa,887,HOT004
+6 - Star Room,1,2000,IHG: Goa,888,HOT004
+4 - Star Room,2,1000,IHG: Goa,889,HOT004
+5 - Star Room,1,5000,IHG: Goa,890,HOT004
+1 - Star Room,3,2000,IHG: Tamil Nadu,891,HOT004
+2 - Star Room,3,5000,IHG: Tamil Nadu,892,HOT004
+3 - Star Room,4,4000,IHG: Tamil Nadu,893,HOT004
+5 - Star Room,3,1000,IHG: Tamil Nadu,894,HOT004
+6 - Star Room,2,4000,IHG: Tamil Nadu,895,HOT004
+5 - Star Room,2,5000,IHG: Tamil Nadu,896,HOT004
+3 - Star Room,2,4000,IHG: Tamil Nadu,897,HOT004
+1 - Star Room,2,2000,IHG: Tamil Nadu,898,HOT004
+2 - Star Room,3,5000,IHG: Tamil Nadu,899,HOT004
+5 - Star Room,2,3000,IHG: Tamil Nadu,900,HOT004
+3 - Star Room,3,4000,IHG: Tamil Nadu,901,HOT004
+2 - Star Room,3,1000,Wyndham: Bihar,902,HOT005
+3 - Star Room,3,1000,Wyndham: Bihar,903,HOT005
+6 - Star Room,3,1000,Wyndham: Bihar,904,HOT005
+6 - Star Room,4,1000,Wyndham: Bihar,905,HOT005
+4 - Star Room,2,1000,Wyndham: Bihar,906,HOT005
+6 - Star Room,2,2000,Wyndham: Bihar,907,HOT005
+2 - Star Room,1,5000,Wyndham: Bihar,908,HOT005
+4 - Star Room,4,3000,Wyndham: Bihar,909,HOT005
+5 - Star Room,3,5000,Wyndham: Bihar,910,HOT005
+3 - Star Room,3,3000,Wyndham: Bihar,911,HOT005
+3 - Star Room,2,5000,Wyndham: Bihar,912,HOT005
+4 - Star Room,4,4000,Wyndham: Bihar,913,HOT005
+1 - Star Room,2,2000,Wyndham: Maharashtra,914,HOT005
+6 - Star Room,1,1000,Wyndham: Maharashtra,915,HOT005
+2 - Star Room,4,2000,Wyndham: Maharashtra,916,HOT005
+3 - Star Room,2,1000,Wyndham: Maharashtra,917,HOT005
+2 - Star Room,3,5000,Wyndham: Maharashtra,918,HOT005
+3 - Star Room,1,3000,Wyndham: Maharashtra,919,HOT005
+4 - Star Room,1,1000,Wyndham: Telangana,920,HOT005
+3 - Star Room,2,2000,Wyndham: Telangana,921,HOT005
+3 - Star Room,4,5000,Wyndham: Telangana,922,HOT005
+6 - Star Room,4,3000,Wyndham: Telangana,923,HOT005
+5 - Star Room,4,1000,Wyndham: Telangana,924,HOT005
+3 - Star Room,4,5000,Wyndham: Telangana,925,HOT005
+5 - Star Room,2,5000,Wyndham: Telangana,926,HOT005
+1 - Star Room,2,4000,Wyndham: Telangana,927,HOT005
+3 - Star Room,3,5000,Wyndham: Telangana,928,HOT005
+5 - Star Room,2,3000,Wyndham: Telangana,929,HOT005
+4 - Star Room,1,4000,Wyndham: Telangana,930,HOT005
+5 - Star Room,4,5000,Wyndham: Telangana,931,HOT005
+6 - Star Room,2,1000,Wyndham: Telangana,932,HOT005
+1 - Star Room,3,1000,Wyndham: Jammu and Kashmir,933,HOT005
+5 - Star Room,2,5000,Wyndham: Jammu and Kashmir,934,HOT005
+2 - Star Room,1,3000,Wyndham: Jammu and Kashmir,935,HOT005
+1 - Star Room,1,3000,Wyndham: Jammu and Kashmir,936,HOT005
+4 - Star Room,3,3000,Wyndham: Uttarakhand,937,HOT005
+4 - Star Room,4,2000,Wyndham: Uttarakhand,938,HOT005
+5 - Star Room,2,5000,Wyndham: Uttarakhand,939,HOT005
+1 - Star Room,4,1000,Wyndham: Uttarakhand,940,HOT005
+4 - Star Room,4,2000,Wyndham: Uttarakhand,941,HOT005
+4 - Star Room,3,4000,Wyndham: Uttarakhand,942,HOT005
+4 - Star Room,1,3000,Wyndham: Uttarakhand,943,HOT005
+6 - Star Room,4,5000,Wyndham: Uttarakhand,944,HOT005
+6 - Star Room,4,3000,Wyndham: Uttarakhand,945,HOT005
+2 - Star Room,1,1000,Wyndham: Uttarakhand,946,HOT005
+4 - Star Room,4,4000,Wyndham: Uttarakhand,947,HOT005
+2 - Star Room,2,3000,Wyndham: West Bengal,948,HOT005
+3 - Star Room,4,1000,Wyndham: West Bengal,949,HOT005
+5 - Star Room,3,4000,Wyndham: West Bengal,950,HOT005
+6 - Star Room,1,3000,Wyndham: West Bengal,951,HOT005
+4 - Star Room,3,3000,Wyndham: West Bengal,952,HOT005
+6 - Star Room,3,2000,Wyndham: West Bengal,953,HOT005
+4 - Star Room,1,1000,Wyndham: West Bengal,954,HOT005
+1 - Star Room,3,3000,Wyndham: West Bengal,955,HOT005
+1 - Star Room,2,3000,Wyndham: West Bengal,956,HOT005
+6 - Star Room,2,1000,Wyndham: West Bengal,957,HOT005
+2 - Star Room,2,2000,Wyndham: West Bengal,958,HOT005
+1 - Star Room,4,5000,Wyndham: West Bengal,959,HOT005
+6 - Star Room,3,5000,Wyndham: West Bengal,960,HOT005
+1 - Star Room,1,1000,Wyndham: West Bengal,961,HOT005
+2 - Star Room,1,5000,Wyndham: Assam,962,HOT005
+6 - Star Room,4,2000,Wyndham: Assam,963,HOT005
+4 - Star Room,4,1000,Wyndham: Assam,964,HOT005
+1 - Star Room,1,4000,Wyndham: Assam,965,HOT005
+6 - Star Room,4,4000,Wyndham: Assam,966,HOT005
+2 - Star Room,3,5000,Wyndham: Assam,967,HOT005
+1 - Star Room,4,2000,Wyndham: Assam,968,HOT005
+4 - Star Room,4,1000,Wyndham: Assam,969,HOT005
+6 - Star Room,4,5000,Wyndham: Assam,970,HOT005
+3 - Star Room,3,2000,Wyndham: Punjab,971,HOT005
+3 - Star Room,4,5000,Wyndham: Punjab,972,HOT005
+6 - Star Room,4,1000,Wyndham: Punjab,973,HOT005
+6 - Star Room,2,5000,Wyndham: Punjab,974,HOT005
+3 - Star Room,3,1000,Wyndham: Punjab,975,HOT005
+4 - Star Room,2,5000,Wyndham: Punjab,976,HOT005
+1 - Star Room,3,3000,Wyndham: Punjab,977,HOT005
+6 - Star Room,2,2000,Wyndham: Punjab,978,HOT005
+1 - Star Room,2,2000,Wyndham: Madhya Pradesh,979,HOT005
+2 - Star Room,2,3000,Wyndham: Madhya Pradesh,980,HOT005
+6 - Star Room,4,2000,Wyndham: Madhya Pradesh,981,HOT005
+6 - Star Room,4,2000,Wyndham: Madhya Pradesh,982,HOT005
+1 - Star Room,4,1000,Wyndham: Madhya Pradesh,983,HOT005
+5 - Star Room,2,1000,Wyndham: Madhya Pradesh,984,HOT005
+6 - Star Room,2,2000,Wyndham: Madhya Pradesh,985,HOT005
+3 - Star Room,2,5000,Wyndham: Madhya Pradesh,986,HOT005
+1 - Star Room,3,5000,Wyndham: Madhya Pradesh,987,HOT005
+3 - Star Room,1,3000,Wyndham: Madhya Pradesh,988,HOT005
+5 - Star Room,3,2000,Wyndham: Madhya Pradesh,989,HOT005
+1 - Star Room,1,3000,Wyndham: Madhya Pradesh,990,HOT005
+2 - Star Room,1,5000,Wyndham: Madhya Pradesh,991,HOT005
+6 - Star Room,4,5000,Wyndham: Madhya Pradesh,992,HOT005
+5 - Star Room,1,1000,Wyndham: Madhya Pradesh,993,HOT005
+6 - Star Room,2,1000,Wyndham: Puducherry,994,HOT005
+3 - Star Room,1,5000,Wyndham: Puducherry,995,HOT005
+6 - Star Room,3,3000,Wyndham: Puducherry,996,HOT005
+1 - Star Room,2,3000,Wyndham: Puducherry,997,HOT005
+1 - Star Room,4,1000,Wyndham: Puducherry,998,HOT005
+5 - Star Room,2,1000,Wyndham: Puducherry,999,HOT005
+4 - Star Room,4,1000,Wyndham: Uttar Pradesh,1000,HOT005
+3 - Star Room,3,1000,Wyndham: Uttar Pradesh,1001,HOT005
+2 - Star Room,2,5000,Wyndham: Uttar Pradesh,1002,HOT005
+5 - Star Room,2,2000,Wyndham: Uttar Pradesh,1003,HOT005
+2 - Star Room,3,4000,Wyndham: Gujarat,1004,HOT005
+6 - Star Room,3,2000,Wyndham: Gujarat,1005,HOT005
+4 - Star Room,2,5000,Wyndham: Gujarat,1006,HOT005
+1 - Star Room,4,3000,Wyndham: Gujarat,1007,HOT005
+3 - Star Room,4,1000,Wyndham: Gujarat,1008,HOT005
+6 - Star Room,4,4000,Wyndham: Gujarat,1009,HOT005
+4 - Star Room,1,4000,Wyndham: Gujarat,1010,HOT005
+6 - Star Room,1,4000,Wyndham: Gujarat,1011,HOT005
+3 - Star Room,3,3000,Wyndham: Gujarat,1012,HOT005
+2 - Star Room,2,4000,Wyndham: Gujarat,1013,HOT005
+2 - Star Room,1,4000,Wyndham: Gujarat,1014,HOT005
+4 - Star Room,4,1000,Wyndham: Gujarat,1015,HOT005
+6 - Star Room,1,5000,Wyndham: Gujarat,1016,HOT005
+3 - Star Room,3,3000,Wyndham: Gujarat,1017,HOT005
+4 - Star Room,4,4000,Wyndham: Gujarat,1018,HOT005
+3 - Star Room,3,3000,Wyndham: Odisha,1019,HOT005
+4 - Star Room,3,2000,Wyndham: Odisha,1020,HOT005
+6 - Star Room,2,4000,Wyndham: Odisha,1021,HOT005
+3 - Star Room,4,3000,Wyndham: Odisha,1022,HOT005
+4 - Star Room,3,5000,Wyndham: Odisha,1023,HOT005
+5 - Star Room,1,4000,Wyndham: Odisha,1024,HOT005
+6 - Star Room,4,2000,Wyndham: Odisha,1025,HOT005
+5 - Star Room,4,4000,Wyndham: Odisha,1026,HOT005
+2 - Star Room,1,5000,Wyndham: Rajasthan,1027,HOT005
+5 - Star Room,1,3000,Wyndham: Rajasthan,1028,HOT005
+4 - Star Room,4,5000,Wyndham: Rajasthan,1029,HOT005
+1 - Star Room,2,4000,Wyndham: Rajasthan,1030,HOT005
+3 - Star Room,2,3000,Wyndham: Rajasthan,1031,HOT005
+4 - Star Room,2,2000,Wyndham: Rajasthan,1032,HOT005
+3 - Star Room,1,3000,Wyndham: Rajasthan,1033,HOT005
+4 - Star Room,3,1000,Wyndham: Rajasthan,1034,HOT005
+1 - Star Room,3,4000,Wyndham: Karnataka,1035,HOT005
+2 - Star Room,1,3000,Wyndham: Karnataka,1036,HOT005
+5 - Star Room,2,1000,Wyndham: Karnataka,1037,HOT005
+5 - Star Room,1,5000,Wyndham: Karnataka,1038,HOT005
+6 - Star Room,1,2000,Wyndham: Karnataka,1039,HOT005
+4 - Star Room,2,2000,Wyndham: Chhattisgarh,1040,HOT005
+5 - Star Room,1,3000,Wyndham: Chhattisgarh,1041,HOT005
+3 - Star Room,1,5000,Wyndham: Chhattisgarh,1042,HOT005
+6 - Star Room,1,5000,Wyndham: Chhattisgarh,1043,HOT005
+3 - Star Room,2,5000,Wyndham: Chhattisgarh,1044,HOT005
+5 - Star Room,4,5000,Wyndham: Chhattisgarh,1045,HOT005
+2 - Star Room,2,3000,Wyndham: Chhattisgarh,1046,HOT005
+6 - Star Room,4,4000,Wyndham: Chhattisgarh,1047,HOT005
+5 - Star Room,2,4000,Wyndham: Chhattisgarh,1048,HOT005
+6 - Star Room,2,4000,Wyndham: Chhattisgarh,1049,HOT005
+6 - Star Room,3,4000,Wyndham: Chhattisgarh,1050,HOT005
+2 - Star Room,2,2000,Wyndham: Chhattisgarh,1051,HOT005
+3 - Star Room,3,3000,Wyndham: Andhra Pradesh,1052,HOT005
+6 - Star Room,1,4000,Wyndham: Andhra Pradesh,1053,HOT005
+6 - Star Room,4,2000,Wyndham: Andhra Pradesh,1054,HOT005
+1 - Star Room,3,2000,Wyndham: Andhra Pradesh,1055,HOT005
+2 - Star Room,4,5000,Wyndham: Andhra Pradesh,1056,HOT005
+5 - Star Room,3,5000,Wyndham: Andhra Pradesh,1057,HOT005
+2 - Star Room,3,3000,Wyndham: Andhra Pradesh,1058,HOT005
+1 - Star Room,2,4000,Wyndham: Andhra Pradesh,1059,HOT005
+1 - Star Room,1,3000,Wyndham: Andhra Pradesh,1060,HOT005
+3 - Star Room,1,1000,Wyndham: Andhra Pradesh,1061,HOT005
+2 - Star Room,2,3000,Wyndham: Himachal Pradesh,1062,HOT005
+5 - Star Room,1,4000,Wyndham: Himachal Pradesh,1063,HOT005
+6 - Star Room,3,2000,Wyndham: Himachal Pradesh,1064,HOT005
+5 - Star Room,1,2000,Wyndham: Himachal Pradesh,1065,HOT005
+2 - Star Room,3,2000,Wyndham: Himachal Pradesh,1066,HOT005
+6 - Star Room,3,1000,Wyndham: Himachal Pradesh,1067,HOT005
+3 - Star Room,3,4000,Wyndham: Himachal Pradesh,1068,HOT005
+4 - Star Room,4,2000,Wyndham: Himachal Pradesh,1069,HOT005
+1 - Star Room,2,3000,Wyndham: Himachal Pradesh,1070,HOT005
+2 - Star Room,2,4000,Wyndham: Himachal Pradesh,1071,HOT005
+5 - Star Room,1,3000,Wyndham: Himachal Pradesh,1072,HOT005
+3 - Star Room,3,1000,Wyndham: Himachal Pradesh,1073,HOT005
+1 - Star Room,1,5000,Wyndham: Himachal Pradesh,1074,HOT005
+4 - Star Room,1,2000,Wyndham: Himachal Pradesh,1075,HOT005
+6 - Star Room,1,2000,Wyndham: Himachal Pradesh,1076,HOT005
+2 - Star Room,3,4000,Wyndham: State,1077,HOT005
+3 - Star Room,2,4000,Wyndham: State,1078,HOT005
+1 - Star Room,3,2000,Wyndham: State,1079,HOT005
+5 - Star Room,2,1000,Wyndham: State,1080,HOT005
+2 - Star Room,1,3000,Wyndham: State,1081,HOT005
+6 - Star Room,1,2000,Wyndham: State,1082,HOT005
+4 - Star Room,3,4000,Wyndham: Kerala,1083,HOT005
+6 - Star Room,2,2000,Wyndham: Kerala,1084,HOT005
+1 - Star Room,3,3000,Wyndham: Kerala,1085,HOT005
+5 - Star Room,4,5000,Wyndham: Kerala,1086,HOT005
+5 - Star Room,2,1000,Wyndham: Kerala,1087,HOT005
+1 - Star Room,4,1000,Wyndham: Kerala,1088,HOT005
+4 - Star Room,4,2000,Wyndham: Kerala,1089,HOT005
+2 - Star Room,4,2000,Wyndham: Kerala,1090,HOT005
+5 - Star Room,1,4000,Wyndham: Kerala,1091,HOT005
+6 - Star Room,4,1000,Wyndham: Kerala,1092,HOT005
+3 - Star Room,2,5000,Wyndham: Kerala,1093,HOT005
+4 - Star Room,1,4000,Wyndham: Kerala,1094,HOT005
+6 - Star Room,2,4000,Wyndham: Kerala,1095,HOT005
+2 - Star Room,3,1000,Wyndham: Kerala,1096,HOT005
+4 - Star Room,1,2000,Wyndham: Kerala,1097,HOT005
+1 - Star Room,1,5000,Wyndham: Kerala,1098,HOT005
+2 - Star Room,1,3000,Wyndham: Kerala,1099,HOT005
+5 - Star Room,1,1000,Wyndham: Kerala,1100,HOT005
+2 - Star Room,1,4000,Wyndham: Kerala,1101,HOT005
+4 - Star Room,3,5000,Wyndham: Kerala,1102,HOT005
+1 - Star Room,4,3000,Wyndham: Goa,1103,HOT005
+6 - Star Room,1,1000,Wyndham: Goa,1104,HOT005
+2 - Star Room,4,2000,Wyndham: Goa,1105,HOT005
+4 - Star Room,4,3000,Wyndham: Goa,1106,HOT005
+6 - Star Room,3,5000,Wyndham: Goa,1107,HOT005
+6 - Star Room,2,4000,Wyndham: Goa,1108,HOT005
+3 - Star Room,4,1000,Wyndham: Goa,1109,HOT005
+6 - Star Room,3,5000,Wyndham: Goa,1110,HOT005
+6 - Star Room,3,3000,Wyndham: Goa,1111,HOT005
+3 - Star Room,1,4000,Wyndham: Goa,1112,HOT005
+3 - Star Room,1,1000,Wyndham: Goa,1113,HOT005
+1 - Star Room,3,4000,Wyndham: Goa,1114,HOT005
+2 - Star Room,2,2000,Wyndham: Goa,1115,HOT005
+4 - Star Room,4,4000,Wyndham: Goa,1116,HOT005
+3 - Star Room,4,4000,Wyndham: Goa,1117,HOT005
+6 - Star Room,3,1000,Wyndham: Goa,1118,HOT005
+6 - Star Room,2,3000,Wyndham: Goa,1119,HOT005
+3 - Star Room,4,4000,Wyndham: Goa,1120,HOT005
+4 - Star Room,3,3000,Wyndham: Goa,1121,HOT005
+6 - Star Room,2,3000,Wyndham: Tamil Nadu,1122,HOT005
+1 - Star Room,3,4000,Wyndham: Tamil Nadu,1123,HOT005
+3 - Star Room,3,5000,Wyndham: Tamil Nadu,1124,HOT005
+4 - Star Room,2,3000,Wyndham: Tamil Nadu,1125,HOT005
+5 - Star Room,3,5000,Wyndham: Tamil Nadu,1126,HOT005
+6 - Star Room,3,3000,Wyndham: Tamil Nadu,1127,HOT005
+5 - Star Room,3,2000,Wyndham: Tamil Nadu,1128,HOT005
+2 - Star Room,2,5000,Wyndham: Tamil Nadu,1129,HOT005
+5 - Star Room,3,1000,Wyndham: Tamil Nadu,1130,HOT005
+6 - Star Room,1,5000,Wyndham: Tamil Nadu,1131,HOT005
+3 - Star Room,2,5000,Wyndham: Tamil Nadu,1132,HOT005
+3 - Star Room,1,5000,Wyndham: Tamil Nadu,1133,HOT005
+3 - Star Room,3,3000,Wyndham: Tamil Nadu,1134,HOT005
+4 - Star Room,1,4000,Wyndham: Tamil Nadu,1135,HOT005
+5 - Star Room,3,4000,Wyndham: Tamil Nadu,1136,HOT005
+6 - Star Room,4,1000,Wyndham: Tamil Nadu,1137,HOT005

@@ -1,0 +1,111 @@
+hotel_name,company_id,password,email,address,No_of_Rooms,parkingBool
+Hilton: Bihar,HOT001,5tgzbavf,Hilton-Bihar@gmail.com,"MDR, Teghra, Begusarai, Bihar, 851133, India",13,1
+Hilton: Maharashtra,HOT001,1kn3dqa9,Hilton-Maharashtra@gmail.com,"Dake Hospital, MSH4, Uran, Raigad, Maharashtra, 400702, India",13,1
+Hilton: Telangana,HOT001,no6ox6ea,Hilton-Telangana@gmail.com,"Central Bank Colny, Ward 12 Mansoorabad, Greater Hyderabad Municipal Corporation East Zone, Hyderabad, Saroornagar mandal, Rangareddy, Telangana, 500074, India",14,0
+Hilton: Jammu and Kashmir,HOT001,8iea9o71,Hilton-Jammu_and_Kashmir@gmail.com,"Karan Nagar, Srinagar, Srinagar (South), Srinagar, Jammu and Kashmir, 190010, India",11,1
+Hilton: Uttarakhand,HOT001,ov0nw6md,Hilton-Uttarakhand@gmail.com,"Haldwani, Nainital, Uttarakhand, 263139, India",8,0
+Hilton: West Bengal,HOT001,q5fa4dza,Hilton-West_Bengal@gmail.com,"Diamond Harbour, Diamond Harbour - I, South 24 Parganas, West Bengal, 743331, India",8,0
+Hilton: Assam,HOT001,5c6xefnx,Hilton-Assam@gmail.com,"Rangia, Rangia Pt, Kamrup, Assam, 781354, India",12,0
+Hilton: Punjab,HOT001,bu3h1btd,Hilton-Punjab@gmail.com,"ODR3, Patti, Patti Tahsil, Tarn Taran, Punjab, 143416, India",15,0
+Hilton: Madhya Pradesh,HOT001,zzjmb9h2,Hilton-Madhya_Pradesh@gmail.com,"Lateri, Lateri Tahsil, Vidisha, Madhya Pradesh, 464114, India",12,0
+Hilton: Puducherry,HOT001,w6zvl0ks,Hilton-Puducherry@gmail.com,"World of Waffles, 46, Needarajapayar Street, Bharathipuram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",6,0
+Hilton: Uttar Pradesh,HOT001,351yaa2q,Hilton-Uttar_Pradesh@gmail.com,"MDR82W, Chharra, Atrauli, Aligarh, Uttar Pradesh, India",8,0
+Hilton: Gujarat,HOT001,k0dl4at7,Hilton-Gujarat@gmail.com,"Amreli, Amreli Taluka, Amreli District, Gujarat, 364600, India",5,0
+Hilton: Odisha,HOT001,b2q94gwb,Hilton-Odisha@gmail.com,"Bhuban, Dhenkanal, Odisha, 759017, India",5,0
+Hilton: Rajasthan,HOT001,t21zvlo6,Hilton-Rajasthan@gmail.com,"Sheoganj, Sheoganj Tehsil, Sirohi, Rajasthan, 306902, India",11,0
+Hilton: Karnataka,HOT001,dvo4bxfx,Hilton-Karnataka@gmail.com,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",5,1
+Hilton: Chhattisgarh,HOT001,f863lk64,Hilton-Chhattisgarh@gmail.com,"Jashpurnagar, Jashpur Tahsil, Jashpur, Chhattisgarh, 496331, India",13,0
+Hilton: Andhra Pradesh,HOT001,3wjk8hfr,Hilton-Andhra_Pradesh@gmail.com,"Kalva - Bethamcherla - Banaganapalle Road, Bugganipalli Cement Nagar, Bethamcherla, Bethamcherla Mandal, Kurnool, Andhra Pradesh, India",9,0
+Hilton: Himachal Pradesh,HOT001,gjrc6b1f,Hilton-Himachal_Pradesh@gmail.com,"State Bank of India, Chamba Road, Chamba, Himachal Pradesh, 176310, India",14,0
+Hilton: State,HOT001,7i9izb9h,Hilton-State@gmail.com,Address,13,0
+Hilton: Kerala,HOT001,cv3ohtkn,Hilton-Kerala@gmail.com,"Platform 1, Civil Station Road, S N Puram, Aluva, Ernakulam, Kerala, 683108, India",8,1
+Hilton: Goa,HOT001,ehnm60ff,Hilton-Goa@gmail.com,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",9,0
+Hilton: Tamil Nadu,HOT001,sp26ez77,Hilton-Tamil_Nadu@gmail.com,"Dharmapuri, Dharmapuri district, Tamil Nadu, 636700, India",13,0
+Hyatt: Bihar,HOT002,r199s7zf,Hyatt-Bihar@gmail.com,"Police Colony, Saharsa, Kahara, Saharsa, Bihar, 852200, India",10,1
+Hyatt: Maharashtra,HOT002,6u4gcz92,Hyatt-Maharashtra@gmail.com,"Parola, Jalgaon, Maharashtra, 425111, India",13,0
+Hyatt: Telangana,HOT002,n24v98gn,Hyatt-Telangana@gmail.com,"Central Bank Colny, Ward 12 Mansoorabad, Greater Hyderabad Municipal Corporation East Zone, Hyderabad, Saroornagar mandal, Rangareddy, Telangana, 500074, India",9,0
+Hyatt: Jammu and Kashmir,HOT002,krfqnro0,Hyatt-Jammu_and_Kashmir@gmail.com,"Karan Nagar, Srinagar, Srinagar (South), Srinagar, Jammu and Kashmir, 190010, India",14,1
+Hyatt: Uttarakhand,HOT002,3nzf1j81,Hyatt-Uttarakhand@gmail.com,"Haldwani, Nainital, Uttarakhand, 263139, India",5,1
+Hyatt: West Bengal,HOT002,15kbhwkj,Hyatt-West_Bengal@gmail.com,"Karl Marx Sarani, Fort Gloster, Budge Budge - I, South 24 Parganas, West Bengal, 711315, India",8,1
+Hyatt: Assam,HOT002,5eg6d8lb,Hyatt-Assam@gmail.com,"Rangia, Rangia Pt, Kamrup, Assam, 781354, India",14,0
+Hyatt: Punjab,HOT002,hcza1fy9,Hyatt-Punjab@gmail.com,"ODR3, Patti, Patti Tahsil, Tarn Taran, Punjab, 143416, India",11,1
+Hyatt: Madhya Pradesh,HOT002,i74y9lpo,Hyatt-Madhya_Pradesh@gmail.com,"Lateri, Lateri Tahsil, Vidisha, Madhya Pradesh, 464114, India",10,0
+Hyatt: Puducherry,HOT002,ggtasmsr,Hyatt-Puducherry@gmail.com,"World of Waffles, 46, Needarajapayar Street, Bharathipuram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",10,0
+Hyatt: Uttar Pradesh,HOT002,46tdg012,Hyatt-Uttar_Pradesh@gmail.com,"Dhanaura, Jyotiba Phule Nagar, Uttar Pradesh, 244231, India",12,0
+Hyatt: Gujarat,HOT002,tbkexy5n,Hyatt-Gujarat@gmail.com,"Kheda, Kheda Taluka, Kheda District, Gujarat, 387400, India",14,1
+Hyatt: Odisha,HOT002,pg6svzmk,Hyatt-Odisha@gmail.com,"Barbil, Kendujhar, Odisha, 758035, India",11,0
+Hyatt: Rajasthan,HOT002,fos3tetx,Hyatt-Rajasthan@gmail.com,"Sheoganj, Sheoganj Tehsil, Sirohi, Rajasthan, 306902, India",8,1
+Hyatt: Karnataka,HOT002,z3sjs86j,Hyatt-Karnataka@gmail.com,"Sumathi Nagar, Robertsonpet, Kolar Gold Fields, Bangarapet taluk, Kolar district, Karnataka, 563115, India",8,0
+Hyatt: Chhattisgarh,HOT002,d11jyx1j,Hyatt-Chhattisgarh@gmail.com,"Jashpurnagar, Jashpur Tahsil, Jashpur, Chhattisgarh, 496331, India",10,0
+Hyatt: Andhra Pradesh,HOT002,1n14aiit,Hyatt-Andhra_Pradesh@gmail.com,"Kalva - Bethamcherla - Banaganapalle Road, Bugganipalli Cement Nagar, Bethamcherla, Bethamcherla Mandal, Kurnool, Andhra Pradesh, India",8,1
+Hyatt: Himachal Pradesh,HOT002,0kolrg1b,Hyatt-Himachal_Pradesh@gmail.com,"State Bank of India, Chamba Road, Chamba, Himachal Pradesh, 176310, India",15,1
+Hyatt: State,HOT002,afehot79,Hyatt-State@gmail.com,Address,6,1
+Hyatt: Kerala,HOT002,nx9quif5,Hyatt-Kerala@gmail.com,"Katoor-Kalavoor road, Pathirapally, Kalavoor, Ambalappuzha, Alappuzha, Kerala, 688522, India",11,0
+Hyatt: Goa,HOT002,ppkwzlyl,Hyatt-Goa@gmail.com,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",9,0
+Hyatt: Tamil Nadu,HOT002,t9h7i16v,Hyatt-Tamil_Nadu@gmail.com,"sri saravana, Udumalpet - Dharapuram Road, Udumalaippettai, Madathukulam, Tiruppur, Tamil Nadu, 642100, India",10,1
+Marriott: Bihar,HOT003,skjg8bhk,Marriott-Bihar@gmail.com,"Madhepura, Bihar, 852113, India",9,1
+Marriott: Maharashtra,HOT003,rtzslf9l,Marriott-Maharashtra@gmail.com,"Osmanabad, Maharashtra, 413500, India",8,1
+Marriott: Telangana,HOT003,vmyu42eq,Marriott-Telangana@gmail.com,"Central Bank Colny, Ward 12 Mansoorabad, Greater Hyderabad Municipal Corporation East Zone, Hyderabad, Saroornagar mandal, Rangareddy, Telangana, 500074, India",8,0
+Marriott: Jammu and Kashmir,HOT003,a6m4ma00,Marriott-Jammu_and_Kashmir@gmail.com,"Karan Nagar, Srinagar, Srinagar (South), Srinagar, Jammu and Kashmir, 190010, India",5,0
+Marriott: Uttarakhand,HOT003,a1c68mln,Marriott-Uttarakhand@gmail.com,"Haldwani, Nainital, Uttarakhand, 263139, India",12,1
+Marriott: West Bengal,HOT003,uo07abso,Marriott-West_Bengal@gmail.com,"Grand Trunk Road, Pandua, Hugli, West Bengal, 712149, India",10,1
+Marriott: Assam,HOT003,apqlv4rz,Marriott-Assam@gmail.com,"Barpeta, Assam, 781300, India",13,0
+Marriott: Punjab,HOT003,z54puoyh,Marriott-Punjab@gmail.com,"ODR3, Patti, Patti Tahsil, Tarn Taran, Punjab, 143416, India",11,0
+Marriott: Madhya Pradesh,HOT003,uv32tptl,Marriott-Madhya_Pradesh@gmail.com,"Shivpuri Tahsil, Shivpuri district, Madhya Pradesh, 473880, India",14,0
+Marriott: Puducherry,HOT003,u9h6yxzi,Marriott-Puducherry@gmail.com,"World of Waffles, 46, Needarajapayar Street, Bharathipuram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",8,0
+Marriott: Uttar Pradesh,HOT003,gk3hjrha,Marriott-Uttar_Pradesh@gmail.com,"MDR82W, Chharra, Atrauli, Aligarh, Uttar Pradesh, India",9,0
+Marriott: Gujarat,HOT003,sgkaix62,Marriott-Gujarat@gmail.com,"Savar Kundla, Kundla, Savar Kundla Taluka, Amreli District, Gujarat, 364515, India",9,0
+Marriott: Odisha,HOT003,1qyyojuw,Marriott-Odisha@gmail.com,"Bhuban, Dhenkanal, Odisha, 759017, India",12,1
+Marriott: Rajasthan,HOT003,b4518gk9,Marriott-Rajasthan@gmail.com,"Sheoganj, Sheoganj Tehsil, Sirohi, Rajasthan, 306902, India",14,0
+Marriott: Karnataka,HOT003,s4dk0cfb,Marriott-Karnataka@gmail.com,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",11,0
+Marriott: Chhattisgarh,HOT003,sf51muei,Marriott-Chhattisgarh@gmail.com,"Jashpurnagar, Jashpur Tahsil, Jashpur, Chhattisgarh, 496331, India",9,0
+Marriott: Andhra Pradesh,HOT003,5ypqr0cp,Marriott-Andhra_Pradesh@gmail.com,"Kalva - Bethamcherla - Banaganapalle Road, Bugganipalli Cement Nagar, Bethamcherla, Bethamcherla Mandal, Kurnool, Andhra Pradesh, India",13,0
+Marriott: Himachal Pradesh,HOT003,3hq5q31s,Marriott-Himachal_Pradesh@gmail.com,"State Bank of India, Chamba Road, Chamba, Himachal Pradesh, 176310, India",11,0
+Marriott: State,HOT003,9gou1gvt,Marriott-State@gmail.com,Address,14,0
+Marriott: Kerala,HOT003,b7g8qmfl,Marriott-Kerala@gmail.com,"Market Road, Sunni Nagar, Taliparamba, Kannur district, Kerala, 670502, India",15,0
+Marriott: Goa,HOT003,nhmow3bz,Marriott-Goa@gmail.com,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",15,0
+Marriott: Tamil Nadu,HOT003,acdp8fxa,Marriott-Tamil_Nadu@gmail.com,"Dharmapuri, Dharmapuri district, Tamil Nadu, 636700, India",6,0
+IHG: Bihar,HOT004,cn4zcusb,IHG-Bihar@gmail.com,"Dalsinghsarai, Samastipur, Bihar, India",6,0
+IHG: Maharashtra,HOT004,xqepx864,IHG-Maharashtra@gmail.com,"KDMC HOSP 2 Shastrinagar General Hospital Dombivli, Kopar Road, Railway Colony, Kopar, Dombivali, Kalyan, Thane, Maharashtra, 421202, India",11,0
+IHG: Telangana,HOT004,moy3tjay,IHG-Telangana@gmail.com,"Central Bank Colny, Ward 12 Mansoorabad, Greater Hyderabad Municipal Corporation East Zone, Hyderabad, Saroornagar mandal, Rangareddy, Telangana, 500074, India",11,0
+IHG: Jammu and Kashmir,HOT004,x3nhp8bp,IHG-Jammu_and_Kashmir@gmail.com,"Rajouri, Rajauri, Jammu and Kashmir, 185131, India",10,0
+IHG: Uttarakhand,HOT004,3w5n0zsb,IHG-Uttarakhand@gmail.com,"Kashipur, Udham Singh Nagar, Uttarakhand, 244713, India",11,0
+IHG: West Bengal,HOT004,jjezzxj1,IHG-West_Bengal@gmail.com,"Adra, Kashipur, Puruliya, West Bengal, 723121, India",11,0
+IHG: Assam,HOT004,svhscu9t,IHG-Assam@gmail.com,"Barpeta, Assam, 781300, India",8,0
+IHG: Punjab,HOT004,5sgcydko,IHG-Punjab@gmail.com,"Malaut Pind, Malout Tahsil, Muktsar, Punjab, 152107, India",8,1
+IHG: Madhya Pradesh,HOT004,72bjb6x6,IHG-Madhya_Pradesh@gmail.com,"Shivpuri Tahsil, Shivpuri district, Madhya Pradesh, 473880, India",15,1
+IHG: Puducherry,HOT004,xnu00ofo,IHG-Puducherry@gmail.com,"World of Waffles, 46, Needarajapayar Street, Bharathipuram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",8,1
+IHG: Uttar Pradesh,HOT004,5inyt4bf,IHG-Uttar_Pradesh@gmail.com,"Gorakhpur, Uttar Pradesh, 273001, India",14,0
+IHG: Gujarat,HOT004,67ic08wp,IHG-Gujarat@gmail.com,"Gariadhar, Gariadhar Taluka, Bhavnagar District, Gujarat, 364505, India",11,0
+IHG: Odisha,HOT004,f1td101m,IHG-Odisha@gmail.com,"Sambalpur, Sambalpur (M), Sambalpur, Odisha, 768001, India",14,1
+IHG: Rajasthan,HOT004,rjocye4p,IHG-Rajasthan@gmail.com,"Sheoganj, Sheoganj Tehsil, Sirohi, Rajasthan, 306902, India",7,1
+IHG: Karnataka,HOT004,a9r0csx6,IHG-Karnataka@gmail.com,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",5,1
+IHG: Chhattisgarh,HOT004,1dhdtjvt,IHG-Chhattisgarh@gmail.com,"Jashpurnagar, Jashpur Tahsil, Jashpur, Chhattisgarh, 496331, India",15,1
+IHG: Andhra Pradesh,HOT004,5fzv5ugl,IHG-Andhra_Pradesh@gmail.com,"Yelamanchili - Gajuwaka Road, Kotta Sheikillapalem, Elamanchilli, Yelamanchili Mandal, Visakhapatnam, Andhra Pradesh, 531055, India",6,1
+IHG: Himachal Pradesh,HOT004,f56ncdxl,IHG-Himachal_Pradesh@gmail.com,"State Bank of India, Chamba Road, Chamba, Himachal Pradesh, 176310, India",8,1
+IHG: State,HOT004,sg3my8lm,IHG-State@gmail.com,Address,15,1
+IHG: Kerala,HOT004,yec4tnxt,IHG-Kerala@gmail.com,"Sego Bakery, Tirur - Malappuram - Manjeri Road, Manjeri, Ernad, Malappuram, Kerala, 676121, India",10,0
+IHG: Goa,HOT004,ps7wy1f4,IHG-Goa@gmail.com,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",11,1
+IHG: Tamil Nadu,HOT004,d19hg9f0,IHG-Tamil_Nadu@gmail.com,"Gingee Post Office, Tindivanam Road, Gingee, Viluppuram district, Tamil Nadu, 604202, India",8,0
+Wyndham: Bihar,HOT005,123yni7m,Wyndham-Bihar@gmail.com,"Rafiganj, Aurangabad, Bihar, 824125, India",13,1
+Wyndham: Maharashtra,HOT005,d63rdlio,Wyndham-Maharashtra@gmail.com,"Dake Hospital, MSH4, Uran, Raigad, Maharashtra, 400702, India",7,1
+Wyndham: Telangana,HOT005,fzbnvp2i,Wyndham-Telangana@gmail.com,"Central Bank Colny, Ward 12 Mansoorabad, Greater Hyderabad Municipal Corporation East Zone, Hyderabad, Saroornagar mandal, Rangareddy, Telangana, 500074, India",14,1
+Wyndham: Jammu and Kashmir,HOT005,y9hhn6jg,Wyndham-Jammu_and_Kashmir@gmail.com,"Rajouri, Rajauri, Jammu and Kashmir, 185131, India",5,1
+Wyndham: Uttarakhand,HOT005,rqz44q1b,Wyndham-Uttarakhand@gmail.com,"Kashipur, Udham Singh Nagar, Uttarakhand, 244713, India",14,1
+Wyndham: West Bengal,HOT005,l8gkdfxy,Wyndham-West_Bengal@gmail.com,"Karl Marx Sarani, Fort Gloster, Budge Budge - I, South 24 Parganas, West Bengal, 711315, India",14,0
+Wyndham: Assam,HOT005,i1kngdhl,Wyndham-Assam@gmail.com,"Rangia, Rangia Pt, Kamrup, Assam, 781354, India",8,0
+Wyndham: Punjab,HOT005,0jbxhcv5,Wyndham-Punjab@gmail.com,"ODR3, Patti, Patti Tahsil, Tarn Taran, Punjab, 143416, India",10,0
+Wyndham: Madhya Pradesh,HOT005,emuhca91,Wyndham-Madhya_Pradesh@gmail.com,"Lateri, Lateri Tahsil, Vidisha, Madhya Pradesh, 464114, India",12,0
+Wyndham: Puducherry,HOT005,wn52nqj5,Wyndham-Puducherry@gmail.com,"World of Waffles, 46, Needarajapayar Street, Bharathipuram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",7,0
+Wyndham: Uttar Pradesh,HOT005,twen3mp7,Wyndham-Uttar_Pradesh@gmail.com,"Sadar Bazaar, Meerut, Uttar Pradesh, 250001, India",5,0
+Wyndham: Gujarat,HOT005,rwin73b2,Wyndham-Gujarat@gmail.com,"Savar Kundla, Kundla, Savar Kundla Taluka, Amreli District, Gujarat, 364515, India",13,0
+Wyndham: Odisha,HOT005,drtu9v59,Wyndham-Odisha@gmail.com,"Sambalpur, Sambalpur (M), Sambalpur, Odisha, 768001, India",7,1
+Wyndham: Rajasthan,HOT005,qvqh2lwb,Wyndham-Rajasthan@gmail.com,"MDR7, Deoli Cantonment, Deoli, Deoli Tehsil, Tonk, Rajasthan, 323802, India",9,0
+Wyndham: Karnataka,HOT005,eyh6714f,Wyndham-Karnataka@gmail.com,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",8,1
+Wyndham: Chhattisgarh,HOT005,o6nygiyg,Wyndham-Chhattisgarh@gmail.com,"Jashpurnagar, Jashpur Tahsil, Jashpur, Chhattisgarh, 496331, India",14,1
+Wyndham: Andhra Pradesh,HOT005,qyocjyfp,Wyndham-Andhra_Pradesh@gmail.com,"Yelamanchili - Gajuwaka Road, Kotta Sheikillapalem, Elamanchilli, Yelamanchili Mandal, Visakhapatnam, Andhra Pradesh, 531055, India",13,1
+Wyndham: Himachal Pradesh,HOT005,0bczog9u,Wyndham-Himachal_Pradesh@gmail.com,"State Bank of India, Chamba Road, Chamba, Himachal Pradesh, 176310, India",12,1
+Wyndham: State,HOT005,zcjlytu5,Wyndham-State@gmail.com,Address,8,1
+Wyndham: Kerala,HOT005,bve2pqs1,Wyndham-Kerala@gmail.com,"Katoor-Kalavoor road, Pathirapally, Kalavoor, Ambalappuzha, Alappuzha, Kerala, 688522, India",14,0
+Wyndham: Goa,HOT005,lsviml07,Wyndham-Goa@gmail.com,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",15,1
+Wyndham: Tamil Nadu,HOT005,laz49cyt,Wyndham-Tamil_Nadu@gmail.com,"sri saravana, Udumalpet - Dharapuram Road, Udumalaippettai, Madathukulam, Tiruppur, Tamil Nadu, 642100, India",11,1

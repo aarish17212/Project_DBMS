@@ -1,0 +1,9 @@
+Name ,Company_ID,Password,Email,No_of_flights,Head_office
+American Airlines ,AA,americal001,customer_care@american_airlines.com,320,San Francisco
+Air India Limited,AI,airindia009,customer_care@air_india.com,278,Delhi
+Lufthansa,LH,lufairline098,customer_care@lufthansa.com,260,Frankfurt
+British Airways,BA,british1238,customer_care@british_airways.com,222,Harmondsworth
+Qatar Airways,QR,qatar52air,customer_care@qatar_airways.com,175,Doha
+Jet Airways,9W,jet_air562,customer_care@jet_airways.com,198,Mumbai
+Emirates,Ek,emirates34global,customer_care@emirates.com,521,Dubai
+Etihad Airways,EY,ethiad534,customer_care@etihad.com,101,Khalifa city

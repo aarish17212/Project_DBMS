@@ -1,0 +1,28 @@
+Room_Type,Hotel_Name,Company_Id,Wifi,Breakfast,Hot_Water,AC,Heater,TV,Availability
+Standard,Hotel Icon,HT_IC_12,Y,N,N,N,N,Y,Y
+Classic,Hotel Icon,HT_IC_12,Y,Y,Y,N,Y,Y,Y
+Deluxe ,Hotel Icon,HT_IC_12,Y,Y,Y,Y,Y,Y,Y
+Standard,Taj Chandigarh,HT_TC_99,Y,N,N,Y,N,Y,Y
+Classic,Taj Chandigarh,HT_TC_99,Y,Y,Y,Y,Y,Y,Y
+Deluxe ,Taj Chandigarh,HT_TC_99,Y,Y,Y,Y,Y,Y,Y
+Standard,Hotel Popular Palace,HT_PP_78,N,N,N,N,N,Y,Y
+Classic,Hotel Popular Palace,HT_PP_78,Y,Y,N,N,N,Y,Y
+Deluxe ,Hotel Popular Palace,HT_PP_78,Y,Y,N,Y,N,Y,Y
+Standard,Hotel Indie Stays,HT_IS_56,N,N,N,Y,N,Y,Y
+Classic,Hotel Indie Stays,HT_IS_56,Y,Y,N,N,N,Y,Y
+Deluxe ,Hotel Indie Stays,HT_IS_56,Y,Y,N,Y,N,Y,Y
+Standard,Conrad Pune,HT_CN_02,Y,Y,N,N,N,Y,Y
+Classic,Conrad Pune,HT_CN_02,Y,Y,N,Y,N,N,Y
+Deluxe ,Conrad Pune,HT_CN_02,Y,Y,Y,Y,Y,Y,Y
+Standard,Hotel Woodlan,HT_WD_77,Y,N,N,Y,N,Y,Y
+Classic,Hotel Woodlan,HT_WD_77,Y,Y,Y,Y,N,Y,Y
+Standard,Hotel Kalyan,HT_KL_01,Y,N,N,N,N,N,Y
+Classic,Hotel Kalyan,HT_KL_01,Y,Y,N,Y,N,Y,Y
+Standard,Hotel Rani Mahal,HT_RM_08,N,Y,N,Y,N,N,Y
+Classic,Hotel Rani Mahal,HT_RM_08,Y,Y,N,Y,N,Y,Y
+Standard,Hotel Ashoka,HT_AS_11,Y,Y,Y,Y,Y,Y,Y
+Classic,Hotel Ashoka,HT_AS_11,Y,Y,Y,Y,Y,Y,Y
+Deluxe ,Hotel Ashoka,HT_AS_11,Y,Y,Y,Y,Y,Y,Y
+Standard,Hotel Samrat,HT_SM_07,Y,Y,Y,Y,Y,Y,Y
+Classic,Hotel Samrat,HT_SM_08,Y,Y,Y,Y,Y,Y,Y
+Deluxe ,Hotel Samrat,HT_SM_09,Y,Y,Y,Y,Y,Y,Y

@@ -1,0 +1,17 @@
+Company_id,Hotel_name,Address,Booking_id,Customer_id,Fare,Room_type,Check_in,Check_out,No_of_guests,Room_id
+HT_IC_12,Hotel Icon,"SCO 58 Union bank Of India, 61, Madhya Marg, Sector 8C, Chandigarh, 160008",H_139974,CUS_000010,2000,Standard,3/5/2020,3/7/2020,1,IC_STD
+HT_IC_12,Hotel Icon,"SCO 58 Union bank Of India, 61, Madhya Marg, Sector 8C, Chandigarh, 160008",H_790856,CUS_000015,2600,Classic,3/7/2020,3/9/2020,2,IC_CLS
+HT_IC_12,Hotel Icon,"SCO 58 Union bank Of India, 61, Madhya Marg, Sector 8C, Chandigarh, 160008","H_326115
+",CUS_000020,3500,Deluxe ,3/9/2020,3/11/2020,4,IC_DLX
+HT_TC_99,Taj Chandigarh,"Block No. 9, Sector-17 A, Chandigarh 160017",H_729139,CUS_000252,6000,Standard,3/16/2020,3/19/2020,2,TC_STD
+HT_TC_99,Taj Chandigarh,"Block No. 9, Sector-17 A, Chandigarh 160017",H_619922,CUS_000324,9000,Classic,3/11/2020,3/12/2020,1,TC_CLS
+HT_TC_99,Taj Chandigarh,"Block No. 9, Sector-17 A, Chandigarh 160017",H_934822,CUS_0000165,12000,Deluxe ,4/2/2020,4/4/2020,3,TC_DLX
+HT_PP_78,Hotel Popular Palace,"104/106, Mint Road, Fort Market, Fort, near G.P.O. And C.S.T Station, Mumbai, Maharashtra 400001",H_874306,CUS_000384,1500,Standard,4/5/2020,4/10/2020,1,PP_STD
+HT_PP_78,Hotel Popular Palace,"104/106, Mint Road, Fort Market, Fort, near G.P.O. And C.S.T Station, Mumbai, Maharashtra 400001",H_892219,CUS_000284,2000,Classic,6/2/2020,6/4/2020,2,PP_CLS
+HT_PP_78,Hotel Popular Palace,"104/106, Mint Road, Fort Market, Fort, near G.P.O. And C.S.T Station, Mumbai, Maharashtra 400001",H_531480,CUS_000293,2800,Deluxe ,3/5/2020,3/6/2020,4,PP_DLX
+HT_IS_56,Hotel Indie Stays,"CTS 5447A, 297 CST ROAD, NEXT TO CENTRUM HOUSE, Kalina, Santacruz East, Mumbai, Maharashtra 400098",H_869369,CUS_000694,2200,Standard,3/1/2020,3/2/2020,2,IS_STD
+HT_IS_56,Hotel Indie Stays,"CTS 5447A, 297 CST ROAD, NEXT TO CENTRUM HOUSE, Kalina, Santacruz East, Mumbai, Maharashtra 400098",H_430420,CUS_000283,2500,Classic,3/2/2020,3/4/2020,2,IS_CLS
+HT_IS_56,Hotel Indie Stays,"CTS 5447A, 297 CST ROAD, NEXT TO CENTRUM HOUSE, Kalina, Santacruz East, Mumbai, Maharashtra 400098",H_920764,CUS_000429,3000,Deluxe ,6/5/2020,6/10/2020,3,IS_DLX
+HT_CN_02,Conrad Pune,"7, Mangaldas Rd, Sangamvadi, Pune, Maharashtra 411001",H_931340,CUS_000886,4000,Standard,7/25/2020,7/29/2020,1,CN_STD
+HT_CN_02,Conrad Pune,"7, Mangaldas Rd, Sangamvadi, Pune, Maharashtra 411001","H_251265
+",CUS_001234,4800,Classic,4/7/2020,4/11/2020,1,CN_CLS

@@ -1,0 +1,101 @@
+bus_id,Company_id,Start_point,Destination,Capacity,Fare,No_of_Haults,Depart_time,Arrival_time
+1,GUJ006,Jaipur,Mumbai,48,1134,4,1:51,06:51:53
+2,ASH008,New Delhi,Mumbai,25,861,4,11:29,17:29:40
+3,HAN005,Mumbai,New Delhi,32,731,4,20:32,02:32:33
+4,SHR002,Bangalore,Jaipur,44,1171,0,0:21,10:21:08
+5,VRL001,Jaipur,Bangalore,29,784,2,22:02,12:02:44
+6,GUJ006,New Delhi,Jaipur,20,783,5,22:02,15:02:12
+7,HAN005,Mumbai,Bangalore,31,975,2,8:08,17:08:39
+8,HAN005,Bangalore,Mumbai,21,1016,0,17:56,04:56:06
+9,VRL001,Jaipur,New Delhi,26,611,4,9:17,02:17:47
+10,ASH008,New Delhi,Jaipur,45,599,2,21:20,14:20:46
+11,SHR002,Mumbai,New Delhi,43,1086,2,15:02,21:02:54
+12,HAN005,Bangalore,Mumbai,21,712,0,2:53,14:53:53
+13,SRS004,Jaipur,New Delhi,34,773,2,14:46,07:46:43
+14,ASH008,New Delhi,Jaipur,20,685,1,21:56,14:56:19
+15,HAN005,Mumbai,Jaipur,38,765,0,2:49,15:49:31
+16,GUJ006,Bangalore,New Delhi,42,724,0,3:49,07:49:58
+17,NEE003,Jaipur,Bangalore,50,1173,4,1:28,06:28:00
+18,VRL001,New Delhi,Jaipur,39,682,5,21:13,14:13:41
+19,GUJ006,Mumbai,New Delhi,34,824,0,8:47,14:47:25
+20,HAN005,Bangalore,New Delhi,23,1084,4,0:03,13:03:15
+21,NEE003,Jaipur,New Delhi,36,506,5,4:52,21:52:53
+22,NEE003,New Delhi,Bangalore,23,1738,0,4:47,14:47:33
+23,HAN005,Mumbai,Bangalore,47,926,2,18:12,05:12:10
+24,HAN005,Bangalore,Jaipur,45,1111,2,7:58,19:58:34
+25,VIJ007,Jaipur,Bangalore,36,1173,3,6:22,20:22:47
+26,SHR002,New Delhi,Mumbai,32,902,2,19:58,01:58:17
+27,VRL001,Mumbai,Jaipur,32,805,0,3:52,09:52:07
+28,HAN005,Bangalore,New Delhi,27,737,2,8:28,21:28:37
+29,HAN005,Jaipur,New Delhi,43,600,3,16:05,09:05:37
+30,SHR002,New Delhi,Mumbai,29,902,0,19:17,01:17:03
+31,SRS004,Mumbai,Bangalore,39,734,5,15:49,04:49:11
+32,VIJ007,Bangalore,Jaipur,33,1109,3,23:38,08:38:18
+33,SHR002,Jaipur,Mumbai,35,927,4,9:12,13:12:30
+34,NEE003,New Delhi,Jaipur,22,553,2,23:24,16:24:22
+35,ASH008,Mumbai,New Delhi,36,1051,1,11:37,17:37:14
+36,NEE003,Bangalore,Jaipur,30,1037,2,7:52,16:52:31
+37,NEE003,Jaipur,Mumbai,33,801,5,3:52,11:52:08
+38,NEE003,New Delhi,Mumbai,49,760,4,0:18,06:18:38
+39,VRL001,Mumbai,New Delhi,43,874,1,22:48,04:48:00
+40,VRL001,Bangalore,Jaipur,34,799,1,7:49,13:49:28
+41,GUJ006,Jaipur,New Delhi,29,540,2,7:47,00:47:22
+42,SHR002,New Delhi,Mumbai,31,777,3,18:57,00:57:24
+43,GUJ006,Mumbai,Jaipur,40,577,3,21:15,05:15:16
+44,VIJ007,Bangalore,Mumbai,25,1060,5,4:24,13:24:59
+45,SHR002,Jaipur,Mumbai,43,1053,4,7:13,20:13:53
+46,SHR002,New Delhi,Bangalore,49,1704,3,19:46,08:46:48
+47,VRL001,Mumbai,Jaipur,41,591,5,21:35,07:35:14
+48,SRS004,Bangalore,Jaipur,20,1115,5,3:37,07:37:27
+49,NEE003,Jaipur,Bangalore,26,906,2,1:19,06:19:32
+50,SRS004,New Delhi,Jaipur,31,700,4,1:30,18:30:26
+51,SRS004,Mumbai,New Delhi,32,867,3,14:13,20:13:35
+52,ASH008,Bangalore,New Delhi,34,1191,3,11:20,18:20:23
+53,VRL001,Jaipur,New Delhi,34,747,1,2:30,19:30:56
+54,NEE003,New Delhi,Bangalore,22,1938,3,13:21,19:21:35
+55,NEE003,Mumbai,Jaipur,20,879,3,2:04,06:04:16
+56,VRL001,Bangalore,New Delhi,34,738,4,18:31,03:31:09
+57,SHR002,Jaipur,New Delhi,23,625,0,7:53,00:53:24
+58,VIJ007,New Delhi,Jaipur,34,740,2,3:37,20:37:28
+59,ASH008,Mumbai,New Delhi,29,726,5,10:02,16:02:20
+60,HAN005,Bangalore,Jaipur,48,877,3,22:54,11:54:12
+61,VRL001,Jaipur,New Delhi,21,648,5,6:31,23:31:58
+62,VIJ007,New Delhi,Bangalore,27,1678,5,20:04,09:04:39
+63,VIJ007,Mumbai,New Delhi,44,1016,2,21:20,03:20:57
+64,NEE003,Bangalore,New Delhi,29,1071,4,4:23,11:23:39
+65,HAN005,Jaipur,Bangalore,47,754,0,6:58,15:58:07
+66,VIJ007,New Delhi,Mumbai,37,859,2,1:38,07:38:34
+67,HAN005,Mumbai,Jaipur,28,890,5,22:34,05:34:45
+68,SHR002,Bangalore,Jaipur,45,705,0,3:02,11:02:23
+69,GUJ006,Jaipur,Bangalore,37,889,0,15:51,19:51:10
+70,ASH008,New Delhi,Mumbai,31,1076,0,12:10,18:10:46
+71,SHR002,Mumbai,Bangalore,50,709,1,7:49,15:49:09
+72,HAN005,Bangalore,Jaipur,25,1040,5,0:42,08:42:21
+73,VIJ007,Jaipur,New Delhi,25,736,2,4:18,21:18:35
+74,VIJ007,New Delhi,Jaipur,35,524,2,20:08,13:08:04
+75,VIJ007,Mumbai,Bangalore,39,1155,5,17:21,23:21:00
+76,VIJ007,Bangalore,Mumbai,45,737,5,15:18,04:18:01
+77,VRL001,Jaipur,New Delhi,31,724,0,21:02,14:02:15
+78,HAN005,New Delhi,Jaipur,46,731,0,22:08,15:08:00
+79,VRL001,Mumbai,New Delhi,21,913,3,7:05,13:05:10
+80,HAN005,Bangalore,Mumbai,26,851,0,8:00,17:00:07
+81,NEE003,Jaipur,New Delhi,27,799,2,19:20,12:20:19
+82,SRS004,New Delhi,Bangalore,38,1588,2,17:24,07:24:00
+83,GUJ006,Mumbai,Bangalore,32,1045,1,5:51,16:51:58
+84,ASH008,Bangalore,New Delhi,39,869,1,3:44,16:44:54
+85,VIJ007,Jaipur,Mumbai,31,1195,0,4:28,15:28:15
+86,VRL001,New Delhi,Jaipur,47,613,0,5:28,22:28:22
+87,GUJ006,Mumbai,Bangalore,29,1194,5,23:38,04:38:58
+88,NEE003,Bangalore,Jaipur,38,1170,2,17:54,23:54:53
+89,ASH008,Jaipur,New Delhi,50,715,5,9:57,02:57:59
+90,VRL001,New Delhi,Jaipur,49,776,3,7:44,00:44:51
+91,NEE003,Mumbai,Jaipur,50,686,1,12:55,18:55:25
+92,HAN005,Bangalore,Mumbai,22,1200,2,20:39,00:39:35
+93,NEE003,Jaipur,Mumbai,37,887,5,8:39,20:39:39
+94,NEE003,New Delhi,Jaipur,35,500,0,19:02,12:02:45
+95,VRL001,Mumbai,Bangalore,23,1118,4,0:03,06:03:12
+96,SRS004,Bangalore,New Delhi,39,874,4,16:32,06:32:26
+97,HAN005,Jaipur,Bangalore,39,978,2,20:35,09:35:58
+98,GUJ006,New Delhi,Jaipur,34,640,3,0:05,17:05:03
+99,ASH008,Mumbai,Bangalore,37,1142,1,12:18,02:18:13
+100,SHR002,Bangalore,New Delhi,28,1052,3,8:20,21:20:56

@@ -1,0 +1,11 @@
+Hotel_Name,Company_id,Password,Email,Address,No_of_Rooms,Parking_Available
+Hotel Samrat,HT_SM_07,JAnnGhh1e4,admin@samrathotel.in,"Plot No. 50B Plot No. 50B, Chanakyapuri, New Delhi, Delhi 110021",35,Y
+Hotel Ashoka,HT_AS_11,kkahJWW334,admin@ashokahotel.in,"50-B Central Bank Of India, Diplomatic Enclave, Chanakyapuri, New Delhi, Delhi 110021",24,Y
+Hotel Rani Mahal,HT_RM_08,LOgheeQzy11,admin@ranimahal.in,"IIIrd Lane, 24, Hawa Sadak Rd, Nandpuri Colony, Jaipur, Rajasthan 302006",15,N
+Hotel Kalyan,HT_KL_01,nakdGtwh1k34,admin@kalyan.in,"Hathroi Fort, 59, Ajmer Rd, Jaipur, Rajasthan 302001",12,Y
+Hotel Woodlan,HT_WD_77,jaBnalwTTY12,admin@woodland.in,"B J Road, Sadhu Vaswani Circle, Near Pune Railway Station, Pune, Maharashtra 411001",17,N
+Conrad Pune,HT_CN_02,maHiaJkla12L,admin@conrad.in,"7, Mangaldas Rd, Sangamvadi, Pune, Maharashtra 411001",29,Y
+Hotel Indie Stays,HT_IS_56,JKlla234Ahh1,admin@indiestays.in,"CTS 5447A, 297 CST ROAD, NEXT TO CENTRUM HOUSE, Kalina, Santacruz East, Mumbai, Maharashtra 400098",19,N
+Hotel Popular Palace,HT_PP_78,patRwu23Q5q,admin@popularpalace.in,"104/106, Mint Road, Fort Market, Fort, near G.P.O. And C.S.T Station, Mumbai, Maharashtra 400001",14,N
+Taj Chandigarh,HT_TC_99,cHar1NefzxyQ,admin@tajhotels.in,"Block No. 9, Sector-17 A, Chandigarh 160017",45,Y
+Hotel_Icon,HT_IC_12,olaTyah1B916,admin@icon.in,"SCO 58 Union bank Of India, 61, Madhya Marg, Sector 8C, Chandigarh, 160008",20,Y

@@ -1,0 +1,11 @@
+Bus_ID,Company_ID,Start_point,Destination,Capacity,No_of_haults,Fare,Arrival_time ,Depart_time
+NT_02_DELBOM_114,Bus_NT_02,Delhi,Mumbai,50,0,950,20:00,15:15
+ST_03_BOMCHD_142,Bus_ST_03,Mumbai,Chandigarh,66,1,359,22:00,17:30
+VT_04_JPCHD_322,Bus_VT_04,Jaipur,Chandigarh,63,0,530,23:00,16:00
+MT_05_JPDEL_414,Bus_MT_05,Jaipur,Delhi,55,0,950,10:00,6:00
+GL_06_CHDPN_411,Bus_GL_06,Chandigarh,Pune,45,2,1054,10:20,10:55
+VBS_07_PNDEL_053,Bus_VBS_07,Pune,Delhi,54,0,580,18:10,18:55
+AT_08_PNBOM_331,Bus_AT_08,Pune,Mumbai,47,0,950,22:00,16:35
+TT_09_DELPN_155,Bus_TT_09,Delhi,Pune,49,1,950,13:00,7:00
+NT_03_BOMDEL_056,Bus_NT_03,Mumbai,Delhi,64,0,550,23:00,16:00
+ST_04_CHDDEL_038,Bus_ST_04,Chandigarh,Delhi,52,0,770,2:00,21:45
