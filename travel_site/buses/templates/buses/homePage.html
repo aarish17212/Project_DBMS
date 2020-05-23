@@ -1,0 +1,68 @@
+{% extends "users/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+  <!-- FORM HERE -->
+
+<form method="POST" enctype="multipart/form-data">
+          {% csrf_token %}
+          <fieldset class="form-group">
+              <legend class="border-bottom mb-4">Home Page</legend>
+              {{ form|crispy }}
+          </fieldset>
+          <div class="form-group">
+              <button class="btn btn-outline-info" type="submit">Submit</button>
+          </div>
+      </form>
+    </div>
+
+{% for flight in result %}
+        <article class="media content-section w-25">
+          <div class="media-body">
+            <div class="article-metadata">
+              <p class="text-md-left font-weight-bold text-dark">Bus ID: {{ flight.bus_id }}</p>
+              <p class="text-md-left font-weight-bold text-primary">Start Point: {{ flight.start_point }}</p>
+              <p class="text-md-left font-weight-bold text-primary">Destination : {{ flight.destination }}</p>
+              <p class="text-md-left font-weight-bold text-info">Departure Time: {{ flight.departure_time }}</p>
+              <p class="text-md-left font-weight-bold text-info">Arrival Time: {{ flight.arrival_time }}</p>
+            </div>
+            <p class="text-md-left font-weight-bold text-success">Fare: {{ flight.fare }}</p>
+            <p class="text-md-left font-weight-bold text-success">Capacity: {{ flight.capacity }}</p>
+            {% if login %}
+              <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'update_bus' flight.bus_id %}">Update</a>
+              <a class="btn btn-primary btn-sm mt-1 mb-1 float-right" href="{% url 'delete_bus' flight.bus_id %}">Delete</a>
+
+            {% else %}
+              <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'login' %}">Login to Update/Delete</a>
+            {% endif %}
+          </div>
+        </article>
+    {% endfor %}
+
+<!-- <div class="col-md-4"> -->
+<div class="content-section w-25">
+      <h3>Trending Destinations</h3>
+      <p class='text-muted'>Top 3:
+        <ul class="list-group">
+          <a class="btn btn-info btn-lg mt-1 mb-1" >{{ des1 }}</a>
+          <a class="btn btn-info btn-lg mt-1 mb-1" >{{ des2 }}</a>
+          <a class="btn btn-info btn-lg mt-1 mb-1" >{{ des3 }}</a>
+        </ul>
+      </p>
+    </div>
+  </div>
+<!-- </div> -->
+
+<!-- <div class="col-md-4"> -->
+<div class="content-section w-25">
+      <h3>Top Customer</h3>
+      <p class='text-muted'>Top 3:
+        <ul class="list-group">
+          <a class="btn btn-info btn-lg mt-1 mb-1" >{{ cus1 }}</a>
+          <a class="btn btn-info btn-lg mt-1 mb-1" >{{ cus2 }}</a>
+          <a class="btn btn-info btn-lg mt-1 mb-1" >{{ cus3 }}</a>
+        </ul>
+      </p>
+    </div>
+  </div>
+<!-- </div> -->
+{% endblock content %}

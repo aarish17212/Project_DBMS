@@ -1,0 +1,53 @@
+{% extends "users/base.html" %}
+{% block content %}
+    <h1 class="mb-3">Hotels</h1>
+    {% for hotel in result %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#">{{ hotel.hotel_name}}</a>
+              <p class="text-md-left font-weight-bold text-info">Room Type: {{ hotel.room_type }}</p>
+              <p class="text-md-left font-weight-bold text-info">Capacity: {{ hotel.capacity }}</p>
+              <p class="text-md-left font-weight-bold text-info">Fare: {{ hotel.fare }}</p>
+            </div>
+            <small class="article-content">Address: {{ hotel.hotel_address }} </small>
+
+            {% if hotel.parking_available == "Yes" %}
+              <p class="text-sm-left font-weight-bold text-success">Parking <span class="glyphicon glyphicon-ok"></span></p> 
+            {% endif %}
+
+            {% if hotel.wifi == "Yes" %}
+              <p class="text-sm-left font-weight-bold text-success">Wifi <span class="glyphicon glyphicon-ok"></span></p> 
+            {% endif %}
+
+            {% if hotel.ac == "Yes"%}
+              <p class="text-sm-left font-weight-bold text-success">AC <span class="glyphicon glyphicon-ok"></span></p> 
+            {% endif %}
+
+            {% if hotel.tv == "Yes" %}
+              <p class="text-sm-left font-weight-bold text-success">TV <span class="glyphicon glyphicon-ok"></span></p> 
+            {% endif %}
+
+            {% if hotel.heater == "Yes" %}
+              <p class="text-sm-left font-weight-bold text-success">Heater <span class="glyphicon glyphicon-ok"></span></p> 
+            {% endif %}
+
+            {% if hotel.hot_water == "Yes" %}
+              <p class="text-sm-left font-weight-bold text-success">Hot Water<span class="glyphicon glyphicon-ok"></span></p> 
+            {% endif %}
+
+            {% if hotel.breakfast == "Yes" %}
+              <p class="text-sm-left font-weight-bold text-success">Breakfast <span class="glyphicon glyphicon-ok"></span></p> 
+            {% endif %}
+
+            {% if login %}
+              <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'hotel_booking' hotel.room_id %}">Book</a>
+
+            {% else %}
+              <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'login' %}">Login to Book</a>
+            {% endif %}
+          </div>
+        </article>
+    {% endfor %}
+    {% include "users/pagination.html" %}
+{% endblock content %}

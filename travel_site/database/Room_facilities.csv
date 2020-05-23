@@ -1,0 +1,661 @@
+roomType,Hotel_Name,Company_ID,Wifi,Breakfast,Hot_Water,AC,Heater,Tv,Availability
+1 - Star Room,Hilton: Goa,HOT001,1,0,0,0,0,0,1
+2 - Star Room,Hilton: Goa,HOT001,0,0,1,0,0,1,1
+3 - Star Room,Hilton: Goa,HOT001,1,0,0,1,0,1,1
+4 - Star Room,Hilton: Goa,HOT001,0,1,1,1,1,0,1
+5 - Star Room,Hilton: Goa,HOT001,1,1,1,1,0,1,1
+6 - Star Room,Hilton: Goa,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Assam,HOT001,0,0,1,0,0,0,1
+2 - Star Room,Hilton: Assam,HOT001,0,1,0,1,0,0,1
+3 - Star Room,Hilton: Assam,HOT001,1,1,0,0,0,1,1
+4 - Star Room,Hilton: Assam,HOT001,1,0,1,1,0,1,1
+5 - Star Room,Hilton: Assam,HOT001,1,0,1,1,1,1,1
+6 - Star Room,Hilton: Assam,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Madhya Pradesh,HOT001,0,1,0,0,0,0,1
+2 - Star Room,Hilton: Madhya Pradesh,HOT001,0,1,0,1,0,0,1
+3 - Star Room,Hilton: Madhya Pradesh,HOT001,0,1,0,1,0,1,1
+4 - Star Room,Hilton: Madhya Pradesh,HOT001,0,1,1,1,1,0,1
+5 - Star Room,Hilton: Madhya Pradesh,HOT001,1,1,1,1,0,1,1
+6 - Star Room,Hilton: Madhya Pradesh,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Puducherry,HOT001,1,0,0,0,0,0,1
+2 - Star Room,Hilton: Puducherry,HOT001,1,0,0,1,0,0,1
+3 - Star Room,Hilton: Puducherry,HOT001,0,1,1,1,0,0,1
+4 - Star Room,Hilton: Puducherry,HOT001,1,1,1,0,1,0,1
+5 - Star Room,Hilton: Puducherry,HOT001,1,1,1,1,0,1,1
+6 - Star Room,Hilton: Puducherry,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Tamil Nadu,HOT001,0,0,1,0,0,0,1
+2 - Star Room,Hilton: Tamil Nadu,HOT001,0,0,0,1,1,0,1
+3 - Star Room,Hilton: Tamil Nadu,HOT001,0,0,1,1,1,0,1
+4 - Star Room,Hilton: Tamil Nadu,HOT001,1,1,0,1,0,1,1
+5 - Star Room,Hilton: Tamil Nadu,HOT001,1,1,1,1,0,1,1
+6 - Star Room,Hilton: Tamil Nadu,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Jammu and Kashmir,HOT001,0,0,0,0,0,1,1
+2 - Star Room,Hilton: Jammu and Kashmir,HOT001,0,0,0,1,1,0,1
+3 - Star Room,Hilton: Jammu and Kashmir,HOT001,1,1,0,0,0,1,1
+4 - Star Room,Hilton: Jammu and Kashmir,HOT001,1,1,0,1,0,1,1
+5 - Star Room,Hilton: Jammu and Kashmir,HOT001,1,1,1,1,0,1,1
+6 - Star Room,Hilton: Jammu and Kashmir,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Bihar,HOT001,0,0,1,0,0,0,1
+2 - Star Room,Hilton: Bihar,HOT001,0,1,0,1,0,0,1
+3 - Star Room,Hilton: Bihar,HOT001,1,0,0,1,0,1,1
+4 - Star Room,Hilton: Bihar,HOT001,1,0,1,1,0,1,1
+5 - Star Room,Hilton: Bihar,HOT001,1,1,0,1,1,1,1
+6 - Star Room,Hilton: Bihar,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Maharashtra,HOT001,0,0,0,0,1,0,1
+2 - Star Room,Hilton: Maharashtra,HOT001,1,0,1,0,0,0,1
+3 - Star Room,Hilton: Maharashtra,HOT001,0,1,0,1,1,0,1
+4 - Star Room,Hilton: Maharashtra,HOT001,0,1,1,1,1,0,1
+5 - Star Room,Hilton: Maharashtra,HOT001,1,1,1,1,1,0,1
+6 - Star Room,Hilton: Maharashtra,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Telangana,HOT001,0,1,0,0,0,0,1
+2 - Star Room,Hilton: Telangana,HOT001,0,0,1,1,0,0,1
+3 - Star Room,Hilton: Telangana,HOT001,0,0,1,1,0,1,1
+4 - Star Room,Hilton: Telangana,HOT001,0,1,1,1,0,1,1
+5 - Star Room,Hilton: Telangana,HOT001,1,1,1,1,1,0,1
+6 - Star Room,Hilton: Telangana,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Karnataka,HOT001,0,0,0,0,1,0,1
+2 - Star Room,Hilton: Karnataka,HOT001,0,1,1,0,0,0,1
+3 - Star Room,Hilton: Karnataka,HOT001,1,0,0,0,1,1,1
+4 - Star Room,Hilton: Karnataka,HOT001,1,0,0,1,1,1,1
+5 - Star Room,Hilton: Karnataka,HOT001,1,0,1,1,1,1,1
+6 - Star Room,Hilton: Karnataka,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Gujarat,HOT001,0,1,0,0,0,0,1
+2 - Star Room,Hilton: Gujarat,HOT001,0,1,0,1,0,0,1
+3 - Star Room,Hilton: Gujarat,HOT001,1,0,0,1,0,1,1
+4 - Star Room,Hilton: Gujarat,HOT001,1,0,1,0,1,1,1
+5 - Star Room,Hilton: Gujarat,HOT001,1,1,1,0,1,1,1
+6 - Star Room,Hilton: Gujarat,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Odisha,HOT001,0,0,0,0,1,0,1
+2 - Star Room,Hilton: Odisha,HOT001,1,0,1,0,0,0,1
+3 - Star Room,Hilton: Odisha,HOT001,1,1,0,1,0,0,1
+4 - Star Room,Hilton: Odisha,HOT001,1,0,1,0,1,1,1
+5 - Star Room,Hilton: Odisha,HOT001,1,1,1,0,1,1,1
+6 - Star Room,Hilton: Odisha,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Kerala,HOT001,0,0,1,0,0,0,1
+2 - Star Room,Hilton: Kerala,HOT001,0,1,0,1,0,0,1
+3 - Star Room,Hilton: Kerala,HOT001,0,1,1,1,0,0,1
+4 - Star Room,Hilton: Kerala,HOT001,0,1,0,1,1,1,1
+5 - Star Room,Hilton: Kerala,HOT001,1,1,0,1,1,1,1
+6 - Star Room,Hilton: Kerala,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Rajasthan,HOT001,1,0,0,0,0,0,1
+2 - Star Room,Hilton: Rajasthan,HOT001,1,0,0,0,1,0,1
+3 - Star Room,Hilton: Rajasthan,HOT001,1,1,1,0,0,0,1
+4 - Star Room,Hilton: Rajasthan,HOT001,0,1,1,1,0,1,1
+5 - Star Room,Hilton: Rajasthan,HOT001,1,1,0,1,1,1,1
+6 - Star Room,Hilton: Rajasthan,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Andhra Pradesh,HOT001,0,0,0,1,0,0,1
+2 - Star Room,Hilton: Andhra Pradesh,HOT001,0,1,0,0,0,1,1
+3 - Star Room,Hilton: Andhra Pradesh,HOT001,1,1,0,1,0,0,1
+4 - Star Room,Hilton: Andhra Pradesh,HOT001,1,0,1,1,1,0,1
+5 - Star Room,Hilton: Andhra Pradesh,HOT001,1,0,1,1,1,1,1
+6 - Star Room,Hilton: Andhra Pradesh,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Chhattisgarh,HOT001,0,0,0,0,0,1,1
+2 - Star Room,Hilton: Chhattisgarh,HOT001,0,1,0,0,0,1,1
+3 - Star Room,Hilton: Chhattisgarh,HOT001,1,0,1,1,0,0,1
+4 - Star Room,Hilton: Chhattisgarh,HOT001,0,0,1,1,1,1,1
+5 - Star Room,Hilton: Chhattisgarh,HOT001,1,1,1,0,1,1,1
+6 - Star Room,Hilton: Chhattisgarh,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Himachal Pradesh,HOT001,1,0,0,0,0,0,1
+2 - Star Room,Hilton: Himachal Pradesh,HOT001,0,1,0,0,1,0,1
+3 - Star Room,Hilton: Himachal Pradesh,HOT001,1,1,0,0,0,1,1
+4 - Star Room,Hilton: Himachal Pradesh,HOT001,0,0,1,1,1,1,1
+5 - Star Room,Hilton: Himachal Pradesh,HOT001,1,1,1,1,0,1,1
+6 - Star Room,Hilton: Himachal Pradesh,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Punjab,HOT001,0,0,0,0,0,1,1
+2 - Star Room,Hilton: Punjab,HOT001,0,0,1,0,1,0,1
+3 - Star Room,Hilton: Punjab,HOT001,1,0,0,1,0,1,1
+4 - Star Room,Hilton: Punjab,HOT001,1,1,1,0,0,1,1
+5 - Star Room,Hilton: Punjab,HOT001,1,1,1,1,1,0,1
+6 - Star Room,Hilton: Punjab,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: State,HOT001,0,0,0,1,0,0,1
+2 - Star Room,Hilton: State,HOT001,1,0,0,0,0,1,1
+3 - Star Room,Hilton: State,HOT001,0,0,1,1,0,1,1
+4 - Star Room,Hilton: State,HOT001,0,1,1,1,0,1,1
+5 - Star Room,Hilton: State,HOT001,1,1,1,1,0,1,1
+6 - Star Room,Hilton: State,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Uttar Pradesh,HOT001,0,1,0,0,0,0,1
+2 - Star Room,Hilton: Uttar Pradesh,HOT001,0,0,0,1,0,1,1
+3 - Star Room,Hilton: Uttar Pradesh,HOT001,1,1,0,1,0,0,1
+4 - Star Room,Hilton: Uttar Pradesh,HOT001,1,1,1,0,1,0,1
+5 - Star Room,Hilton: Uttar Pradesh,HOT001,1,1,1,1,1,0,1
+6 - Star Room,Hilton: Uttar Pradesh,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: West Bengal,HOT001,0,0,0,0,0,1,1
+2 - Star Room,Hilton: West Bengal,HOT001,0,0,1,1,0,0,1
+3 - Star Room,Hilton: West Bengal,HOT001,1,1,0,0,1,0,1
+4 - Star Room,Hilton: West Bengal,HOT001,1,0,1,1,0,1,1
+5 - Star Room,Hilton: West Bengal,HOT001,1,1,1,0,1,1,1
+6 - Star Room,Hilton: West Bengal,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hilton: Uttarakhand,HOT001,0,0,0,0,0,1,1
+2 - Star Room,Hilton: Uttarakhand,HOT001,1,1,0,0,0,0,1
+3 - Star Room,Hilton: Uttarakhand,HOT001,0,1,1,1,0,0,1
+4 - Star Room,Hilton: Uttarakhand,HOT001,0,1,1,1,0,1,1
+5 - Star Room,Hilton: Uttarakhand,HOT001,1,1,1,0,1,1,1
+6 - Star Room,Hilton: Uttarakhand,HOT001,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Goa,HOT002,0,0,1,0,0,0,1
+2 - Star Room,Hyatt: Goa,HOT002,1,0,0,0,0,1,1
+3 - Star Room,Hyatt: Goa,HOT002,0,1,1,0,1,0,1
+4 - Star Room,Hyatt: Goa,HOT002,0,0,1,1,1,1,1
+5 - Star Room,Hyatt: Goa,HOT002,0,1,1,1,1,1,1
+6 - Star Room,Hyatt: Goa,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Assam,HOT002,0,0,0,0,0,1,1
+2 - Star Room,Hyatt: Assam,HOT002,1,0,0,1,0,0,1
+3 - Star Room,Hyatt: Assam,HOT002,1,0,1,0,1,0,1
+4 - Star Room,Hyatt: Assam,HOT002,0,1,1,0,1,1,1
+5 - Star Room,Hyatt: Assam,HOT002,1,1,1,1,0,1,1
+6 - Star Room,Hyatt: Assam,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Madhya Pradesh,HOT002,0,0,0,0,0,1,1
+2 - Star Room,Hyatt: Madhya Pradesh,HOT002,0,1,0,0,1,0,1
+3 - Star Room,Hyatt: Madhya Pradesh,HOT002,1,0,0,0,1,1,1
+4 - Star Room,Hyatt: Madhya Pradesh,HOT002,1,0,1,1,1,0,1
+5 - Star Room,Hyatt: Madhya Pradesh,HOT002,1,1,1,1,1,0,1
+6 - Star Room,Hyatt: Madhya Pradesh,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Puducherry,HOT002,1,0,0,0,0,0,1
+2 - Star Room,Hyatt: Puducherry,HOT002,1,0,1,0,0,0,1
+3 - Star Room,Hyatt: Puducherry,HOT002,1,0,1,0,0,1,1
+4 - Star Room,Hyatt: Puducherry,HOT002,1,0,1,0,1,1,1
+5 - Star Room,Hyatt: Puducherry,HOT002,1,1,1,1,1,0,1
+6 - Star Room,Hyatt: Puducherry,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Tamil Nadu,HOT002,0,0,0,0,0,1,1
+2 - Star Room,Hyatt: Tamil Nadu,HOT002,0,1,1,0,0,0,1
+3 - Star Room,Hyatt: Tamil Nadu,HOT002,1,1,0,0,1,0,1
+4 - Star Room,Hyatt: Tamil Nadu,HOT002,1,0,0,1,1,1,1
+5 - Star Room,Hyatt: Tamil Nadu,HOT002,1,1,0,1,1,1,1
+6 - Star Room,Hyatt: Tamil Nadu,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Jammu and Kashmir,HOT002,0,0,1,0,0,0,1
+2 - Star Room,Hyatt: Jammu and Kashmir,HOT002,0,1,0,0,1,0,1
+3 - Star Room,Hyatt: Jammu and Kashmir,HOT002,0,0,0,1,1,1,1
+4 - Star Room,Hyatt: Jammu and Kashmir,HOT002,0,1,0,1,1,1,1
+5 - Star Room,Hyatt: Jammu and Kashmir,HOT002,0,1,1,1,1,1,1
+6 - Star Room,Hyatt: Jammu and Kashmir,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Bihar,HOT002,1,0,0,0,0,0,1
+2 - Star Room,Hyatt: Bihar,HOT002,0,1,1,0,0,0,1
+3 - Star Room,Hyatt: Bihar,HOT002,0,1,1,0,0,1,1
+4 - Star Room,Hyatt: Bihar,HOT002,1,1,0,1,1,0,1
+5 - Star Room,Hyatt: Bihar,HOT002,1,1,0,1,1,1,1
+6 - Star Room,Hyatt: Bihar,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Maharashtra,HOT002,0,0,0,1,0,0,1
+2 - Star Room,Hyatt: Maharashtra,HOT002,1,1,0,0,0,0,1
+3 - Star Room,Hyatt: Maharashtra,HOT002,1,1,0,1,0,0,1
+4 - Star Room,Hyatt: Maharashtra,HOT002,1,0,1,1,0,1,1
+5 - Star Room,Hyatt: Maharashtra,HOT002,0,1,1,1,1,1,1
+6 - Star Room,Hyatt: Maharashtra,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Telangana,HOT002,0,0,0,1,0,0,1
+2 - Star Room,Hyatt: Telangana,HOT002,1,1,0,0,0,0,1
+3 - Star Room,Hyatt: Telangana,HOT002,1,1,0,1,0,0,1
+4 - Star Room,Hyatt: Telangana,HOT002,1,0,1,1,1,0,1
+5 - Star Room,Hyatt: Telangana,HOT002,1,1,1,1,0,1,1
+6 - Star Room,Hyatt: Telangana,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Karnataka,HOT002,0,0,0,1,0,0,1
+2 - Star Room,Hyatt: Karnataka,HOT002,1,1,0,0,0,0,1
+3 - Star Room,Hyatt: Karnataka,HOT002,0,1,1,0,0,1,1
+4 - Star Room,Hyatt: Karnataka,HOT002,1,1,1,0,1,0,1
+5 - Star Room,Hyatt: Karnataka,HOT002,1,1,1,1,0,1,1
+6 - Star Room,Hyatt: Karnataka,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Gujarat,HOT002,0,0,0,0,0,1,1
+2 - Star Room,Hyatt: Gujarat,HOT002,0,1,0,0,0,1,1
+3 - Star Room,Hyatt: Gujarat,HOT002,0,0,1,1,0,1,1
+4 - Star Room,Hyatt: Gujarat,HOT002,1,1,1,0,1,0,1
+5 - Star Room,Hyatt: Gujarat,HOT002,0,1,1,1,1,1,1
+6 - Star Room,Hyatt: Gujarat,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Odisha,HOT002,0,0,1,0,0,0,1
+2 - Star Room,Hyatt: Odisha,HOT002,0,1,0,0,1,0,1
+3 - Star Room,Hyatt: Odisha,HOT002,0,1,0,1,0,1,1
+4 - Star Room,Hyatt: Odisha,HOT002,1,1,1,0,0,1,1
+5 - Star Room,Hyatt: Odisha,HOT002,1,1,0,1,1,1,1
+6 - Star Room,Hyatt: Odisha,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Kerala,HOT002,1,0,0,0,0,0,1
+2 - Star Room,Hyatt: Kerala,HOT002,1,0,1,0,0,0,1
+3 - Star Room,Hyatt: Kerala,HOT002,0,1,0,0,1,1,1
+4 - Star Room,Hyatt: Kerala,HOT002,0,1,1,1,0,1,1
+5 - Star Room,Hyatt: Kerala,HOT002,1,1,1,0,1,1,1
+6 - Star Room,Hyatt: Kerala,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Rajasthan,HOT002,0,0,0,1,0,0,1
+2 - Star Room,Hyatt: Rajasthan,HOT002,0,0,0,0,1,1,1
+3 - Star Room,Hyatt: Rajasthan,HOT002,1,1,0,0,0,1,1
+4 - Star Room,Hyatt: Rajasthan,HOT002,1,0,1,1,1,0,1
+5 - Star Room,Hyatt: Rajasthan,HOT002,1,0,1,1,1,1,1
+6 - Star Room,Hyatt: Rajasthan,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Andhra Pradesh,HOT002,0,1,0,0,0,0,1
+2 - Star Room,Hyatt: Andhra Pradesh,HOT002,1,0,0,0,0,1,1
+3 - Star Room,Hyatt: Andhra Pradesh,HOT002,0,1,0,1,1,0,1
+4 - Star Room,Hyatt: Andhra Pradesh,HOT002,1,0,1,0,1,1,1
+5 - Star Room,Hyatt: Andhra Pradesh,HOT002,1,0,1,1,1,1,1
+6 - Star Room,Hyatt: Andhra Pradesh,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Chhattisgarh,HOT002,0,0,0,0,1,0,1
+2 - Star Room,Hyatt: Chhattisgarh,HOT002,0,1,0,1,0,0,1
+3 - Star Room,Hyatt: Chhattisgarh,HOT002,0,0,1,1,1,0,1
+4 - Star Room,Hyatt: Chhattisgarh,HOT002,0,1,0,1,1,1,1
+5 - Star Room,Hyatt: Chhattisgarh,HOT002,1,1,1,0,1,1,1
+6 - Star Room,Hyatt: Chhattisgarh,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Himachal Pradesh,HOT002,0,0,0,1,0,0,1
+2 - Star Room,Hyatt: Himachal Pradesh,HOT002,1,1,0,0,0,0,1
+3 - Star Room,Hyatt: Himachal Pradesh,HOT002,0,1,0,1,0,1,1
+4 - Star Room,Hyatt: Himachal Pradesh,HOT002,0,1,1,1,1,0,1
+5 - Star Room,Hyatt: Himachal Pradesh,HOT002,1,0,1,1,1,1,1
+6 - Star Room,Hyatt: Himachal Pradesh,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Punjab,HOT002,0,0,0,0,0,1,1
+2 - Star Room,Hyatt: Punjab,HOT002,0,0,0,1,1,0,1
+3 - Star Room,Hyatt: Punjab,HOT002,0,1,1,1,0,0,1
+4 - Star Room,Hyatt: Punjab,HOT002,0,1,1,1,0,1,1
+5 - Star Room,Hyatt: Punjab,HOT002,1,1,1,1,0,1,1
+6 - Star Room,Hyatt: Punjab,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: State,HOT002,0,0,0,0,0,1,1
+2 - Star Room,Hyatt: State,HOT002,0,1,0,1,0,0,1
+3 - Star Room,Hyatt: State,HOT002,0,1,0,1,0,1,1
+4 - Star Room,Hyatt: State,HOT002,1,0,1,0,1,1,1
+5 - Star Room,Hyatt: State,HOT002,0,1,1,1,1,1,1
+6 - Star Room,Hyatt: State,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Uttar Pradesh,HOT002,1,0,0,0,0,0,1
+2 - Star Room,Hyatt: Uttar Pradesh,HOT002,0,0,1,0,0,1,1
+3 - Star Room,Hyatt: Uttar Pradesh,HOT002,1,0,0,0,1,1,1
+4 - Star Room,Hyatt: Uttar Pradesh,HOT002,1,0,1,1,1,0,1
+5 - Star Room,Hyatt: Uttar Pradesh,HOT002,1,1,0,1,1,1,1
+6 - Star Room,Hyatt: Uttar Pradesh,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: West Bengal,HOT002,1,0,0,0,0,0,1
+2 - Star Room,Hyatt: West Bengal,HOT002,0,1,0,0,1,0,1
+3 - Star Room,Hyatt: West Bengal,HOT002,0,0,0,1,1,1,1
+4 - Star Room,Hyatt: West Bengal,HOT002,1,0,1,1,0,1,1
+5 - Star Room,Hyatt: West Bengal,HOT002,1,1,1,1,0,1,1
+6 - Star Room,Hyatt: West Bengal,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Hyatt: Uttarakhand,HOT002,0,0,0,0,1,0,1
+2 - Star Room,Hyatt: Uttarakhand,HOT002,0,0,0,0,1,1,1
+3 - Star Room,Hyatt: Uttarakhand,HOT002,0,1,1,1,0,0,1
+4 - Star Room,Hyatt: Uttarakhand,HOT002,0,1,0,1,1,1,1
+5 - Star Room,Hyatt: Uttarakhand,HOT002,1,1,1,1,0,1,1
+6 - Star Room,Hyatt: Uttarakhand,HOT002,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Goa,HOT003,1,0,0,0,0,0,1
+2 - Star Room,Marriott: Goa,HOT003,0,1,1,0,0,0,1
+3 - Star Room,Marriott: Goa,HOT003,0,0,1,0,1,1,1
+4 - Star Room,Marriott: Goa,HOT003,1,1,1,0,0,1,1
+5 - Star Room,Marriott: Goa,HOT003,1,0,1,1,1,1,1
+6 - Star Room,Marriott: Goa,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Assam,HOT003,0,0,0,0,0,1,1
+2 - Star Room,Marriott: Assam,HOT003,0,1,1,0,0,0,1
+3 - Star Room,Marriott: Assam,HOT003,0,0,1,1,0,1,1
+4 - Star Room,Marriott: Assam,HOT003,1,1,1,0,1,0,1
+5 - Star Room,Marriott: Assam,HOT003,1,1,1,0,1,1,1
+6 - Star Room,Marriott: Assam,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Madhya Pradesh,HOT003,1,0,0,0,0,0,1
+2 - Star Room,Marriott: Madhya Pradesh,HOT003,1,0,0,1,0,0,1
+3 - Star Room,Marriott: Madhya Pradesh,HOT003,0,0,1,1,1,0,1
+4 - Star Room,Marriott: Madhya Pradesh,HOT003,0,1,0,1,1,1,1
+5 - Star Room,Marriott: Madhya Pradesh,HOT003,1,1,1,1,1,0,1
+6 - Star Room,Marriott: Madhya Pradesh,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Puducherry,HOT003,1,0,0,0,0,0,1
+2 - Star Room,Marriott: Puducherry,HOT003,1,0,0,0,1,0,1
+3 - Star Room,Marriott: Puducherry,HOT003,1,1,0,0,1,0,1
+4 - Star Room,Marriott: Puducherry,HOT003,1,1,0,1,1,0,1
+5 - Star Room,Marriott: Puducherry,HOT003,1,1,0,1,1,1,1
+6 - Star Room,Marriott: Puducherry,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Tamil Nadu,HOT003,0,0,0,0,1,0,1
+2 - Star Room,Marriott: Tamil Nadu,HOT003,0,0,1,0,1,0,1
+3 - Star Room,Marriott: Tamil Nadu,HOT003,0,0,1,0,1,1,1
+4 - Star Room,Marriott: Tamil Nadu,HOT003,0,1,0,1,1,1,1
+5 - Star Room,Marriott: Tamil Nadu,HOT003,1,0,1,1,1,1,1
+6 - Star Room,Marriott: Tamil Nadu,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Jammu and Kashmir,HOT003,0,0,0,1,0,0,1
+2 - Star Room,Marriott: Jammu and Kashmir,HOT003,0,0,0,0,1,1,1
+3 - Star Room,Marriott: Jammu and Kashmir,HOT003,0,1,0,1,0,1,1
+4 - Star Room,Marriott: Jammu and Kashmir,HOT003,1,0,1,0,1,1,1
+5 - Star Room,Marriott: Jammu and Kashmir,HOT003,1,1,1,1,1,0,1
+6 - Star Room,Marriott: Jammu and Kashmir,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Bihar,HOT003,0,0,0,0,1,0,1
+2 - Star Room,Marriott: Bihar,HOT003,0,0,0,1,1,0,1
+3 - Star Room,Marriott: Bihar,HOT003,0,0,1,1,0,1,1
+4 - Star Room,Marriott: Bihar,HOT003,1,0,1,1,0,1,1
+5 - Star Room,Marriott: Bihar,HOT003,1,1,1,1,1,0,1
+6 - Star Room,Marriott: Bihar,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Maharashtra,HOT003,0,0,0,0,0,1,1
+2 - Star Room,Marriott: Maharashtra,HOT003,1,0,1,0,0,0,1
+3 - Star Room,Marriott: Maharashtra,HOT003,1,0,1,1,0,0,1
+4 - Star Room,Marriott: Maharashtra,HOT003,1,1,1,0,1,0,1
+5 - Star Room,Marriott: Maharashtra,HOT003,1,1,1,1,0,1,1
+6 - Star Room,Marriott: Maharashtra,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Telangana,HOT003,0,0,0,0,0,1,1
+2 - Star Room,Marriott: Telangana,HOT003,1,0,0,0,0,1,1
+3 - Star Room,Marriott: Telangana,HOT003,1,1,0,0,1,0,1
+4 - Star Room,Marriott: Telangana,HOT003,0,1,1,1,1,0,1
+5 - Star Room,Marriott: Telangana,HOT003,1,1,1,1,1,0,1
+6 - Star Room,Marriott: Telangana,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Karnataka,HOT003,0,0,0,0,1,0,1
+2 - Star Room,Marriott: Karnataka,HOT003,0,1,0,1,0,0,1
+3 - Star Room,Marriott: Karnataka,HOT003,0,0,1,0,1,1,1
+4 - Star Room,Marriott: Karnataka,HOT003,1,1,1,0,1,0,1
+5 - Star Room,Marriott: Karnataka,HOT003,1,1,0,1,1,1,1
+6 - Star Room,Marriott: Karnataka,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Gujarat,HOT003,0,0,0,0,0,1,1
+2 - Star Room,Marriott: Gujarat,HOT003,1,0,1,0,0,0,1
+3 - Star Room,Marriott: Gujarat,HOT003,0,1,1,1,0,0,1
+4 - Star Room,Marriott: Gujarat,HOT003,0,1,0,1,1,1,1
+5 - Star Room,Marriott: Gujarat,HOT003,1,1,1,1,1,0,1
+6 - Star Room,Marriott: Gujarat,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Odisha,HOT003,0,0,0,1,0,0,1
+2 - Star Room,Marriott: Odisha,HOT003,1,1,0,0,0,0,1
+3 - Star Room,Marriott: Odisha,HOT003,1,0,0,1,1,0,1
+4 - Star Room,Marriott: Odisha,HOT003,1,1,1,1,0,0,1
+5 - Star Room,Marriott: Odisha,HOT003,1,1,0,1,1,1,1
+6 - Star Room,Marriott: Odisha,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Kerala,HOT003,1,0,0,0,0,0,1
+2 - Star Room,Marriott: Kerala,HOT003,1,0,1,0,0,0,1
+3 - Star Room,Marriott: Kerala,HOT003,0,0,1,1,0,1,1
+4 - Star Room,Marriott: Kerala,HOT003,1,1,0,0,1,1,1
+5 - Star Room,Marriott: Kerala,HOT003,0,1,1,1,1,1,1
+6 - Star Room,Marriott: Kerala,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Rajasthan,HOT003,0,1,0,0,0,0,1
+2 - Star Room,Marriott: Rajasthan,HOT003,0,0,1,1,0,0,1
+3 - Star Room,Marriott: Rajasthan,HOT003,0,1,0,1,1,0,1
+4 - Star Room,Marriott: Rajasthan,HOT003,0,1,1,0,1,1,1
+5 - Star Room,Marriott: Rajasthan,HOT003,1,0,1,1,1,1,1
+6 - Star Room,Marriott: Rajasthan,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Andhra Pradesh,HOT003,1,0,0,0,0,0,1
+2 - Star Room,Marriott: Andhra Pradesh,HOT003,1,0,0,0,0,1,1
+3 - Star Room,Marriott: Andhra Pradesh,HOT003,1,0,0,0,1,1,1
+4 - Star Room,Marriott: Andhra Pradesh,HOT003,1,0,1,0,1,1,1
+5 - Star Room,Marriott: Andhra Pradesh,HOT003,1,1,1,0,1,1,1
+6 - Star Room,Marriott: Andhra Pradesh,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Chhattisgarh,HOT003,0,0,0,0,1,0,1
+2 - Star Room,Marriott: Chhattisgarh,HOT003,0,0,0,0,1,1,1
+3 - Star Room,Marriott: Chhattisgarh,HOT003,1,1,0,0,0,1,1
+4 - Star Room,Marriott: Chhattisgarh,HOT003,0,1,1,1,1,0,1
+5 - Star Room,Marriott: Chhattisgarh,HOT003,1,1,1,1,1,0,1
+6 - Star Room,Marriott: Chhattisgarh,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Himachal Pradesh,HOT003,1,0,0,0,0,0,1
+2 - Star Room,Marriott: Himachal Pradesh,HOT003,0,0,0,0,1,1,1
+3 - Star Room,Marriott: Himachal Pradesh,HOT003,1,1,1,0,0,0,1
+4 - Star Room,Marriott: Himachal Pradesh,HOT003,0,0,1,1,1,1,1
+5 - Star Room,Marriott: Himachal Pradesh,HOT003,0,1,1,1,1,1,1
+6 - Star Room,Marriott: Himachal Pradesh,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Punjab,HOT003,1,0,0,0,0,0,1
+2 - Star Room,Marriott: Punjab,HOT003,0,1,0,0,1,0,1
+3 - Star Room,Marriott: Punjab,HOT003,0,1,1,0,1,0,1
+4 - Star Room,Marriott: Punjab,HOT003,0,1,0,1,1,1,1
+5 - Star Room,Marriott: Punjab,HOT003,1,1,1,1,0,1,1
+6 - Star Room,Marriott: Punjab,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: State,HOT003,0,0,0,0,1,0,1
+2 - Star Room,Marriott: State,HOT003,1,0,1,0,0,0,1
+3 - Star Room,Marriott: State,HOT003,1,1,0,1,0,0,1
+4 - Star Room,Marriott: State,HOT003,1,0,1,0,1,1,1
+5 - Star Room,Marriott: State,HOT003,1,0,1,1,1,1,1
+6 - Star Room,Marriott: State,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Uttar Pradesh,HOT003,0,0,0,1,0,0,1
+2 - Star Room,Marriott: Uttar Pradesh,HOT003,1,0,0,0,0,1,1
+3 - Star Room,Marriott: Uttar Pradesh,HOT003,0,0,1,0,1,1,1
+4 - Star Room,Marriott: Uttar Pradesh,HOT003,0,1,1,0,1,1,1
+5 - Star Room,Marriott: Uttar Pradesh,HOT003,1,1,0,1,1,1,1
+6 - Star Room,Marriott: Uttar Pradesh,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: West Bengal,HOT003,0,0,0,0,0,1,1
+2 - Star Room,Marriott: West Bengal,HOT003,0,0,1,1,0,0,1
+3 - Star Room,Marriott: West Bengal,HOT003,1,0,0,1,1,0,1
+4 - Star Room,Marriott: West Bengal,HOT003,1,1,0,1,0,1,1
+5 - Star Room,Marriott: West Bengal,HOT003,1,0,1,1,1,1,1
+6 - Star Room,Marriott: West Bengal,HOT003,1,1,1,1,1,1,1
+1 - Star Room,Marriott: Uttarakhand,HOT003,0,0,0,0,0,1,1
+2 - Star Room,Marriott: Uttarakhand,HOT003,0,0,0,1,0,1,1
+3 - Star Room,Marriott: Uttarakhand,HOT003,1,1,0,0,0,1,1
+4 - Star Room,Marriott: Uttarakhand,HOT003,1,1,1,1,0,0,1
+5 - Star Room,Marriott: Uttarakhand,HOT003,1,1,0,1,1,1,1
+6 - Star Room,Marriott: Uttarakhand,HOT003,1,1,1,1,1,1,1
+1 - Star Room,IHG: Goa,HOT004,0,0,1,0,0,0,1
+2 - Star Room,IHG: Goa,HOT004,0,1,0,0,0,1,1
+3 - Star Room,IHG: Goa,HOT004,0,1,1,1,0,0,1
+4 - Star Room,IHG: Goa,HOT004,1,1,1,0,1,0,1
+5 - Star Room,IHG: Goa,HOT004,1,1,1,0,1,1,1
+6 - Star Room,IHG: Goa,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Assam,HOT004,0,0,1,0,0,0,1
+2 - Star Room,IHG: Assam,HOT004,1,0,0,1,0,0,1
+3 - Star Room,IHG: Assam,HOT004,1,1,0,1,0,0,1
+4 - Star Room,IHG: Assam,HOT004,1,1,1,0,0,1,1
+5 - Star Room,IHG: Assam,HOT004,1,1,1,1,1,0,1
+6 - Star Room,IHG: Assam,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Madhya Pradesh,HOT004,1,0,0,0,0,0,1
+2 - Star Room,IHG: Madhya Pradesh,HOT004,0,0,0,1,0,1,1
+3 - Star Room,IHG: Madhya Pradesh,HOT004,1,0,0,1,0,1,1
+4 - Star Room,IHG: Madhya Pradesh,HOT004,0,1,1,1,1,0,1
+5 - Star Room,IHG: Madhya Pradesh,HOT004,0,1,1,1,1,1,1
+6 - Star Room,IHG: Madhya Pradesh,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Puducherry,HOT004,0,0,0,0,1,0,1
+2 - Star Room,IHG: Puducherry,HOT004,0,1,0,0,0,1,1
+3 - Star Room,IHG: Puducherry,HOT004,1,0,0,1,1,0,1
+4 - Star Room,IHG: Puducherry,HOT004,1,0,1,1,1,0,1
+5 - Star Room,IHG: Puducherry,HOT004,0,1,1,1,1,1,1
+6 - Star Room,IHG: Puducherry,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Tamil Nadu,HOT004,0,0,0,0,1,0,1
+2 - Star Room,IHG: Tamil Nadu,HOT004,1,1,0,0,0,0,1
+3 - Star Room,IHG: Tamil Nadu,HOT004,1,0,1,0,0,1,1
+4 - Star Room,IHG: Tamil Nadu,HOT004,1,1,0,1,1,0,1
+5 - Star Room,IHG: Tamil Nadu,HOT004,0,1,1,1,1,1,1
+6 - Star Room,IHG: Tamil Nadu,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Jammu and Kashmir,HOT004,0,0,1,0,0,0,1
+2 - Star Room,IHG: Jammu and Kashmir,HOT004,0,0,0,1,0,1,1
+3 - Star Room,IHG: Jammu and Kashmir,HOT004,0,1,1,0,0,1,1
+4 - Star Room,IHG: Jammu and Kashmir,HOT004,1,0,1,0,1,1,1
+5 - Star Room,IHG: Jammu and Kashmir,HOT004,1,0,1,1,1,1,1
+6 - Star Room,IHG: Jammu and Kashmir,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Bihar,HOT004,1,0,0,0,0,0,1
+2 - Star Room,IHG: Bihar,HOT004,0,1,0,0,1,0,1
+3 - Star Room,IHG: Bihar,HOT004,0,1,1,0,1,0,1
+4 - Star Room,IHG: Bihar,HOT004,1,1,1,1,0,0,1
+5 - Star Room,IHG: Bihar,HOT004,1,1,1,1,0,1,1
+6 - Star Room,IHG: Bihar,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Maharashtra,HOT004,0,0,0,0,1,0,1
+2 - Star Room,IHG: Maharashtra,HOT004,0,0,0,0,1,1,1
+3 - Star Room,IHG: Maharashtra,HOT004,1,1,0,0,0,1,1
+4 - Star Room,IHG: Maharashtra,HOT004,1,1,1,1,0,0,1
+5 - Star Room,IHG: Maharashtra,HOT004,1,1,1,1,1,0,1
+6 - Star Room,IHG: Maharashtra,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Telangana,HOT004,0,0,0,0,0,1,1
+2 - Star Room,IHG: Telangana,HOT004,0,1,0,0,1,0,1
+3 - Star Room,IHG: Telangana,HOT004,1,1,0,0,1,0,1
+4 - Star Room,IHG: Telangana,HOT004,0,1,0,1,1,1,1
+5 - Star Room,IHG: Telangana,HOT004,1,1,1,1,1,0,1
+6 - Star Room,IHG: Telangana,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Karnataka,HOT004,0,0,1,0,0,0,1
+2 - Star Room,IHG: Karnataka,HOT004,0,1,0,0,0,1,1
+3 - Star Room,IHG: Karnataka,HOT004,0,0,0,1,1,1,1
+4 - Star Room,IHG: Karnataka,HOT004,1,0,1,0,1,1,1
+5 - Star Room,IHG: Karnataka,HOT004,1,1,1,0,1,1,1
+6 - Star Room,IHG: Karnataka,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Gujarat,HOT004,0,0,0,0,0,1,1
+2 - Star Room,IHG: Gujarat,HOT004,0,1,0,0,0,1,1
+3 - Star Room,IHG: Gujarat,HOT004,1,1,1,0,0,0,1
+4 - Star Room,IHG: Gujarat,HOT004,1,0,1,0,1,1,1
+5 - Star Room,IHG: Gujarat,HOT004,0,1,1,1,1,1,1
+6 - Star Room,IHG: Gujarat,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Odisha,HOT004,1,0,0,0,0,0,1
+2 - Star Room,IHG: Odisha,HOT004,0,1,0,0,0,1,1
+3 - Star Room,IHG: Odisha,HOT004,1,1,0,1,0,0,1
+4 - Star Room,IHG: Odisha,HOT004,1,1,0,1,0,1,1
+5 - Star Room,IHG: Odisha,HOT004,1,1,1,1,1,0,1
+6 - Star Room,IHG: Odisha,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Kerala,HOT004,1,0,0,0,0,0,1
+2 - Star Room,IHG: Kerala,HOT004,0,1,0,0,0,1,1
+3 - Star Room,IHG: Kerala,HOT004,0,1,0,1,0,1,1
+4 - Star Room,IHG: Kerala,HOT004,0,0,1,1,1,1,1
+5 - Star Room,IHG: Kerala,HOT004,1,1,1,1,0,1,1
+6 - Star Room,IHG: Kerala,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Rajasthan,HOT004,0,1,0,0,0,0,1
+2 - Star Room,IHG: Rajasthan,HOT004,1,1,0,0,0,0,1
+3 - Star Room,IHG: Rajasthan,HOT004,1,1,1,0,0,0,1
+4 - Star Room,IHG: Rajasthan,HOT004,0,1,1,1,0,1,1
+5 - Star Room,IHG: Rajasthan,HOT004,1,1,1,1,1,0,1
+6 - Star Room,IHG: Rajasthan,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Andhra Pradesh,HOT004,1,0,0,0,0,0,1
+2 - Star Room,IHG: Andhra Pradesh,HOT004,0,0,0,0,1,1,1
+3 - Star Room,IHG: Andhra Pradesh,HOT004,1,0,1,0,1,0,1
+4 - Star Room,IHG: Andhra Pradesh,HOT004,0,1,1,0,1,1,1
+5 - Star Room,IHG: Andhra Pradesh,HOT004,1,0,1,1,1,1,1
+6 - Star Room,IHG: Andhra Pradesh,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Chhattisgarh,HOT004,0,0,0,1,0,0,1
+2 - Star Room,IHG: Chhattisgarh,HOT004,1,1,0,0,0,0,1
+3 - Star Room,IHG: Chhattisgarh,HOT004,1,1,0,1,0,0,1
+4 - Star Room,IHG: Chhattisgarh,HOT004,1,1,1,0,0,1,1
+5 - Star Room,IHG: Chhattisgarh,HOT004,1,1,1,0,1,1,1
+6 - Star Room,IHG: Chhattisgarh,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Himachal Pradesh,HOT004,0,0,1,0,0,0,1
+2 - Star Room,IHG: Himachal Pradesh,HOT004,0,1,0,1,0,0,1
+3 - Star Room,IHG: Himachal Pradesh,HOT004,0,0,1,1,1,0,1
+4 - Star Room,IHG: Himachal Pradesh,HOT004,1,0,1,0,1,1,1
+5 - Star Room,IHG: Himachal Pradesh,HOT004,1,1,1,1,0,1,1
+6 - Star Room,IHG: Himachal Pradesh,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Punjab,HOT004,0,1,0,0,0,0,1
+2 - Star Room,IHG: Punjab,HOT004,0,1,0,1,0,0,1
+3 - Star Room,IHG: Punjab,HOT004,0,0,0,1,1,1,1
+4 - Star Room,IHG: Punjab,HOT004,1,1,1,1,0,0,1
+5 - Star Room,IHG: Punjab,HOT004,1,0,1,1,1,1,1
+6 - Star Room,IHG: Punjab,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: State,HOT004,0,1,0,0,0,0,1
+2 - Star Room,IHG: State,HOT004,1,1,0,0,0,0,1
+3 - Star Room,IHG: State,HOT004,0,1,1,0,0,1,1
+4 - Star Room,IHG: State,HOT004,1,0,1,1,1,0,1
+5 - Star Room,IHG: State,HOT004,1,1,0,1,1,1,1
+6 - Star Room,IHG: State,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Uttar Pradesh,HOT004,0,0,1,0,0,0,1
+2 - Star Room,IHG: Uttar Pradesh,HOT004,0,0,1,0,0,1,1
+3 - Star Room,IHG: Uttar Pradesh,HOT004,1,1,1,0,0,0,1
+4 - Star Room,IHG: Uttar Pradesh,HOT004,0,1,1,0,1,1,1
+5 - Star Room,IHG: Uttar Pradesh,HOT004,0,1,1,1,1,1,1
+6 - Star Room,IHG: Uttar Pradesh,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: West Bengal,HOT004,0,0,0,1,0,0,1
+2 - Star Room,IHG: West Bengal,HOT004,1,0,1,0,0,0,1
+3 - Star Room,IHG: West Bengal,HOT004,0,0,1,0,1,1,1
+4 - Star Room,IHG: West Bengal,HOT004,1,1,0,1,0,1,1
+5 - Star Room,IHG: West Bengal,HOT004,1,1,0,1,1,1,1
+6 - Star Room,IHG: West Bengal,HOT004,1,1,1,1,1,1,1
+1 - Star Room,IHG: Uttarakhand,HOT004,0,0,0,0,0,1,1
+2 - Star Room,IHG: Uttarakhand,HOT004,0,1,0,0,0,1,1
+3 - Star Room,IHG: Uttarakhand,HOT004,0,1,0,1,1,0,1
+4 - Star Room,IHG: Uttarakhand,HOT004,1,1,0,1,1,0,1
+5 - Star Room,IHG: Uttarakhand,HOT004,1,1,1,0,1,1,1
+6 - Star Room,IHG: Uttarakhand,HOT004,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Goa,HOT005,0,0,0,1,0,0,1
+2 - Star Room,Wyndham: Goa,HOT005,0,1,0,0,0,1,1
+3 - Star Room,Wyndham: Goa,HOT005,1,1,0,0,1,0,1
+4 - Star Room,Wyndham: Goa,HOT005,1,1,0,1,1,0,1
+5 - Star Room,Wyndham: Goa,HOT005,1,0,1,1,1,1,1
+6 - Star Room,Wyndham: Goa,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Assam,HOT005,0,1,0,0,0,0,1
+2 - Star Room,Wyndham: Assam,HOT005,0,1,0,0,1,0,1
+3 - Star Room,Wyndham: Assam,HOT005,1,1,0,0,1,0,1
+4 - Star Room,Wyndham: Assam,HOT005,1,1,0,1,0,1,1
+5 - Star Room,Wyndham: Assam,HOT005,1,1,1,1,1,0,1
+6 - Star Room,Wyndham: Assam,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Madhya Pradesh,HOT005,0,1,0,0,0,0,1
+2 - Star Room,Wyndham: Madhya Pradesh,HOT005,1,0,0,0,1,0,1
+3 - Star Room,Wyndham: Madhya Pradesh,HOT005,1,1,0,0,0,1,1
+4 - Star Room,Wyndham: Madhya Pradesh,HOT005,1,0,1,1,0,1,1
+5 - Star Room,Wyndham: Madhya Pradesh,HOT005,1,0,1,1,1,1,1
+6 - Star Room,Wyndham: Madhya Pradesh,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Puducherry,HOT005,1,0,0,0,0,0,1
+2 - Star Room,Wyndham: Puducherry,HOT005,0,1,0,0,0,1,1
+3 - Star Room,Wyndham: Puducherry,HOT005,1,1,0,0,1,0,1
+4 - Star Room,Wyndham: Puducherry,HOT005,1,0,1,1,0,1,1
+5 - Star Room,Wyndham: Puducherry,HOT005,1,1,0,1,1,1,1
+6 - Star Room,Wyndham: Puducherry,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Tamil Nadu,HOT005,1,0,0,0,0,0,1
+2 - Star Room,Wyndham: Tamil Nadu,HOT005,1,1,0,0,0,0,1
+3 - Star Room,Wyndham: Tamil Nadu,HOT005,0,1,1,0,1,0,1
+4 - Star Room,Wyndham: Tamil Nadu,HOT005,1,1,1,0,0,1,1
+5 - Star Room,Wyndham: Tamil Nadu,HOT005,1,1,0,1,1,1,1
+6 - Star Room,Wyndham: Tamil Nadu,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Jammu and Kashmir,HOT005,1,0,0,0,0,0,1
+2 - Star Room,Wyndham: Jammu and Kashmir,HOT005,1,1,0,0,0,0,1
+3 - Star Room,Wyndham: Jammu and Kashmir,HOT005,1,0,1,0,0,1,1
+4 - Star Room,Wyndham: Jammu and Kashmir,HOT005,1,0,1,1,1,0,1
+5 - Star Room,Wyndham: Jammu and Kashmir,HOT005,1,1,0,1,1,1,1
+6 - Star Room,Wyndham: Jammu and Kashmir,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Bihar,HOT005,0,1,0,0,0,0,1
+2 - Star Room,Wyndham: Bihar,HOT005,0,0,1,0,1,0,1
+3 - Star Room,Wyndham: Bihar,HOT005,1,1,0,1,0,0,1
+4 - Star Room,Wyndham: Bihar,HOT005,1,0,1,1,1,0,1
+5 - Star Room,Wyndham: Bihar,HOT005,1,1,1,0,1,1,1
+6 - Star Room,Wyndham: Bihar,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Maharashtra,HOT005,0,0,1,0,0,0,1
+2 - Star Room,Wyndham: Maharashtra,HOT005,0,1,0,0,1,0,1
+3 - Star Room,Wyndham: Maharashtra,HOT005,0,1,0,0,1,1,1
+4 - Star Room,Wyndham: Maharashtra,HOT005,0,1,1,1,1,0,1
+5 - Star Room,Wyndham: Maharashtra,HOT005,1,0,1,1,1,1,1
+6 - Star Room,Wyndham: Maharashtra,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Telangana,HOT005,0,0,0,0,1,0,1
+2 - Star Room,Wyndham: Telangana,HOT005,0,1,0,0,0,1,1
+3 - Star Room,Wyndham: Telangana,HOT005,1,1,1,0,0,0,1
+4 - Star Room,Wyndham: Telangana,HOT005,1,1,1,0,0,1,1
+5 - Star Room,Wyndham: Telangana,HOT005,1,1,0,1,1,1,1
+6 - Star Room,Wyndham: Telangana,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Karnataka,HOT005,0,1,0,0,0,0,1
+2 - Star Room,Wyndham: Karnataka,HOT005,1,0,0,1,0,0,1
+3 - Star Room,Wyndham: Karnataka,HOT005,1,0,0,0,1,1,1
+4 - Star Room,Wyndham: Karnataka,HOT005,0,1,1,1,0,1,1
+5 - Star Room,Wyndham: Karnataka,HOT005,1,0,1,1,1,1,1
+6 - Star Room,Wyndham: Karnataka,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Gujarat,HOT005,1,0,0,0,0,0,1
+2 - Star Room,Wyndham: Gujarat,HOT005,1,0,1,0,0,0,1
+3 - Star Room,Wyndham: Gujarat,HOT005,1,1,0,0,0,1,1
+4 - Star Room,Wyndham: Gujarat,HOT005,1,0,1,1,1,0,1
+5 - Star Room,Wyndham: Gujarat,HOT005,1,1,1,1,1,0,1
+6 - Star Room,Wyndham: Gujarat,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Odisha,HOT005,0,0,1,0,0,0,1
+2 - Star Room,Wyndham: Odisha,HOT005,1,0,0,0,0,1,1
+3 - Star Room,Wyndham: Odisha,HOT005,0,1,1,0,1,0,1
+4 - Star Room,Wyndham: Odisha,HOT005,1,0,0,1,1,1,1
+5 - Star Room,Wyndham: Odisha,HOT005,0,1,1,1,1,1,1
+6 - Star Room,Wyndham: Odisha,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Kerala,HOT005,0,0,0,0,0,1,1
+2 - Star Room,Wyndham: Kerala,HOT005,0,1,0,0,0,1,1
+3 - Star Room,Wyndham: Kerala,HOT005,0,1,0,1,1,0,1
+4 - Star Room,Wyndham: Kerala,HOT005,0,1,1,1,1,0,1
+5 - Star Room,Wyndham: Kerala,HOT005,0,1,1,1,1,1,1
+6 - Star Room,Wyndham: Kerala,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Rajasthan,HOT005,0,0,0,1,0,0,1
+2 - Star Room,Wyndham: Rajasthan,HOT005,1,1,0,0,0,0,1
+3 - Star Room,Wyndham: Rajasthan,HOT005,0,1,1,0,1,0,1
+4 - Star Room,Wyndham: Rajasthan,HOT005,1,1,1,0,1,0,1
+5 - Star Room,Wyndham: Rajasthan,HOT005,1,1,0,1,1,1,1
+6 - Star Room,Wyndham: Rajasthan,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Andhra Pradesh,HOT005,0,0,0,0,1,0,1
+2 - Star Room,Wyndham: Andhra Pradesh,HOT005,0,0,0,1,1,0,1
+3 - Star Room,Wyndham: Andhra Pradesh,HOT005,0,0,1,1,0,1,1
+4 - Star Room,Wyndham: Andhra Pradesh,HOT005,0,1,1,1,0,1,1
+5 - Star Room,Wyndham: Andhra Pradesh,HOT005,0,1,1,1,1,1,1
+6 - Star Room,Wyndham: Andhra Pradesh,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Chhattisgarh,HOT005,1,0,0,0,0,0,1
+2 - Star Room,Wyndham: Chhattisgarh,HOT005,1,0,0,1,0,0,1
+3 - Star Room,Wyndham: Chhattisgarh,HOT005,1,1,0,0,0,1,1
+4 - Star Room,Wyndham: Chhattisgarh,HOT005,1,1,0,0,1,1,1
+5 - Star Room,Wyndham: Chhattisgarh,HOT005,0,1,1,1,1,1,1
+6 - Star Room,Wyndham: Chhattisgarh,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Himachal Pradesh,HOT005,0,0,1,0,0,0,1
+2 - Star Room,Wyndham: Himachal Pradesh,HOT005,0,1,0,0,0,1,1
+3 - Star Room,Wyndham: Himachal Pradesh,HOT005,0,1,0,1,0,1,1
+4 - Star Room,Wyndham: Himachal Pradesh,HOT005,0,1,1,1,1,0,1
+5 - Star Room,Wyndham: Himachal Pradesh,HOT005,1,0,1,1,1,1,1
+6 - Star Room,Wyndham: Himachal Pradesh,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Punjab,HOT005,1,0,0,0,0,0,1
+2 - Star Room,Wyndham: Punjab,HOT005,0,1,0,0,1,0,1
+3 - Star Room,Wyndham: Punjab,HOT005,1,0,0,1,1,0,1
+4 - Star Room,Wyndham: Punjab,HOT005,0,1,1,1,0,1,1
+5 - Star Room,Wyndham: Punjab,HOT005,1,1,1,1,0,1,1
+6 - Star Room,Wyndham: Punjab,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: State,HOT005,1,0,0,0,0,0,1
+2 - Star Room,Wyndham: State,HOT005,0,0,1,1,0,0,1
+3 - Star Room,Wyndham: State,HOT005,0,1,0,0,1,1,1
+4 - Star Room,Wyndham: State,HOT005,1,0,0,1,1,1,1
+5 - Star Room,Wyndham: State,HOT005,1,0,1,1,1,1,1
+6 - Star Room,Wyndham: State,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Uttar Pradesh,HOT005,0,0,0,1,0,0,1
+2 - Star Room,Wyndham: Uttar Pradesh,HOT005,0,1,0,1,0,0,1
+3 - Star Room,Wyndham: Uttar Pradesh,HOT005,0,1,0,1,0,1,1
+4 - Star Room,Wyndham: Uttar Pradesh,HOT005,1,1,1,0,0,1,1
+5 - Star Room,Wyndham: Uttar Pradesh,HOT005,1,1,1,1,0,1,1
+6 - Star Room,Wyndham: Uttar Pradesh,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: West Bengal,HOT005,0,0,1,0,0,0,1
+2 - Star Room,Wyndham: West Bengal,HOT005,0,1,0,0,1,0,1
+3 - Star Room,Wyndham: West Bengal,HOT005,1,0,1,0,0,1,1
+4 - Star Room,Wyndham: West Bengal,HOT005,1,1,0,0,1,1,1
+5 - Star Room,Wyndham: West Bengal,HOT005,1,1,1,1,0,1,1
+6 - Star Room,Wyndham: West Bengal,HOT005,1,1,1,1,1,1,1
+1 - Star Room,Wyndham: Uttarakhand,HOT005,0,0,0,1,0,0,1
+2 - Star Room,Wyndham: Uttarakhand,HOT005,0,0,0,1,0,1,1
+3 - Star Room,Wyndham: Uttarakhand,HOT005,0,1,1,0,0,1,1
+4 - Star Room,Wyndham: Uttarakhand,HOT005,1,0,0,1,1,1,1
+5 - Star Room,Wyndham: Uttarakhand,HOT005,1,1,1,1,0,1,1
+6 - Star Room,Wyndham: Uttarakhand,HOT005,1,1,1,1,1,1,1

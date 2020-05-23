@@ -1,0 +1,23 @@
+{% extends "users/base.html" %}
+{% block content %}
+    <h1 class="mb-3">Buses - {{ start_point }} -> {{destination}} </h1>
+    {% for flight in result %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#">{{ flight.airline_name}}</a>
+              <p class="text-md-left font-weight-bold text-info">Departure Time: {{ flight.departure_time }}</p>
+              <p class="text-md-left font-weight-bold text-info">Arrival Time: {{ flight.arrival_time }}</p>
+            </div>
+            <p class="text-md-left font-weight-bold text-success">Fare: {{ flight.fare }}</p>
+            <small class="article-content">Remaining Seats: {{ flight.capacity }} </small>
+            {% if login %}
+              <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'bus_booking' flight.flight_id %}">Book</a>
+            {% else %}
+              <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'login' %}">Login to Book</a>
+            {% endif %}
+          </div>
+        </article>
+    {% endfor %}
+    {% include "users/pagination.html" %}
+{% endblock content %}

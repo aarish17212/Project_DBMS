@@ -1,0 +1,61 @@
+company_id,hotel_name,address,booking_id,customer_id,room_type,check_in,check_out,no_of_guest,room_id,fare
+HOT001,Hilton: Goa,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",1,22,2 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,013,2000
+HOT001,Hilton: Goa,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",2,5,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,4,009,1000
+HOT001,Hilton: Goa,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",3,12,1 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,012,5000
+HOT001,Hilton: Goa,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",4,35,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,014,1000
+HOT001,Hilton: Goa,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",5,44,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,011,1000
+HOT001,Hilton: Assam,"Barpeta, Assam, 781300, India",6,60,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,019,5000
+HOT001,Hilton: Assam,"Barpeta, Assam, 781300, India",7,40,5 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,027,4000
+HOT001,Hilton: Assam,"Barpeta, Assam, 781300, India",8,11,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,026,1000
+HOT001,Hilton: Assam,"Barpeta, Assam, 781300, India",9,49,2 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,015,3000
+HOT001,Hilton: Assam,"Barpeta, Assam, 781300, India",10,25,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,022,1000
+HOT001,Hilton: Madhya Pradesh,"Shivpuri Tahsil, Shivpuri district, Madhya Pradesh, 473880, India",11,51,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,030,1000
+HOT001,Hilton: Puducherry,"World of Waffles, 46, Needarajapayar Street, Bharathipuram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",12,26,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,044,3000
+HOT001,Hilton: Tamil Nadu,"Kangeyam Bus stand, Durgaiamman Kovil Street, Kangeyam, Tiruppur, Tamil Nadu, 638701, India",13,72,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,051,5000
+HOT001,Hilton: Tamil Nadu,"Kangeyam Bus stand, Durgaiamman Kovil Street, Kangeyam, Tiruppur, Tamil Nadu, 638701, India",14,33,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,3,055,4000
+HOT001,Hilton: Tamil Nadu,"Kangeyam Bus stand, Durgaiamman Kovil Street, Kangeyam, Tiruppur, Tamil Nadu, 638701, India",15,18,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,057,5000
+HOT001,Hilton: Jammu and Kashmir,"Rajouri, Rajauri, Jammu and Kashmir, 185131, India",16,6,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,071,5000
+HOT001,Hilton: Jammu and Kashmir,"Rajouri, Rajauri, Jammu and Kashmir, 185131, India",17,91,2 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,069,2000
+HOT001,Hilton: Bihar,"MDR, Teghra, Begusarai, Bihar, 851133, India",18,76,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,075,2000
+HOT001,Hilton: Bihar,"MDR, Teghra, Begusarai, Bihar, 851133, India",19,4,2 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,085,3000
+HOT001,Hilton: Bihar,"MDR, Teghra, Begusarai, Bihar, 851133, India",20,24,1 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,078,5000
+HOT001,Hilton: Maharashtra,"Dake Hospital, MSH4, Uran, Raigad, Maharashtra, 400702, India",21,96,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,094,1000
+HOT001,Hilton: Maharashtra,"Dake Hospital, MSH4, Uran, Raigad, Maharashtra, 400702, India",22,8,5 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,088,4000
+HOT001,Hilton: Karnataka,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",23,23,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,108,1000
+HOT001,Hilton: Karnataka,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",24,50,1 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,105,3000
+HOT001,Hilton: Karnataka,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",25,28,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,109,1000
+HOT001,Hilton: Karnataka,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",26,63,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,115,4000
+HOT001,Hilton: Gujarat,"Savar Kundla, Kundla, Savar Kundla Taluka, Amreli District, Gujarat, 364515, India",27,21,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,117,1000
+HOT001,Hilton: Gujarat,"Savar Kundla, Kundla, Savar Kundla Taluka, Amreli District, Gujarat, 364515, India",28,46,1 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,124,1000
+HOT001,Hilton: Odisha,"Sambalpur, Sambalpur (M), Sambalpur, Odisha, 768001, India",29,27,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,132,4000
+HOT001,Hilton: Kerala,"Market Road, Sunni Nagar, Taliparamba, Kannur district, Kerala, 670502, India",30,98,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,140,1000
+HOT001,Hilton: Kerala,"Market Road, Sunni Nagar, Taliparamba, Kannur district, Kerala, 670502, India",31,69,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,145,2000
+HOT001,Hilton: Rajasthan,"Aklera, Aklera Tehsil, Jhalawar, Rajasthan, 326033, India",32,62,2 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,153,3000
+HOT001,Hilton: Andhra Pradesh,"Yelamanchili - Gajuwaka Road, Kotta Sheikillapalem, Elamanchilli, Yelamanchili Mandal, Visakhapatnam, Andhra Pradesh, 531055, India",33,75,2 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,154,5000
+HOT001,Hilton: Andhra Pradesh,"Yelamanchili - Gajuwaka Road, Kotta Sheikillapalem, Elamanchilli, Yelamanchili Mandal, Visakhapatnam, Andhra Pradesh, 531055, India",34,58,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,160,2000
+HOT001,Hilton: Himachal Pradesh,"State Bank of India, Chamba Road, Chamba, Himachal Pradesh, 176310, India",35,90,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,180,1000
+HOT001,Hilton: Punjab,"ODR3, Patti, Patti Tahsil, Tarn Taran, Punjab, 143416, India",36,74,5 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,188,4000
+HOT001,Hilton: Punjab,"ODR3, Patti, Patti Tahsil, Tarn Taran, Punjab, 143416, India",37,71,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,182,3000
+HOT001,Hilton: State,Address,38,47,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,191,2000
+HOT001,Hilton: Uttarakhand,"Kashipur, Udham Singh Nagar, Uttarakhand, 244713, India",39,36,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,225,5000
+HOT002,Hyatt: Goa,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",40,85,5 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,239,3000
+HOT002,Hyatt: Assam,"Barpeta, Assam, 781300, India",41,43,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,244,2000
+HOT002,Hyatt: Madhya Pradesh,"Shivpuri Tahsil, Shivpuri district, Madhya Pradesh, 473880, India",42,94,1 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,255,3000
+HOT002,Hyatt: Madhya Pradesh,"Shivpuri Tahsil, Shivpuri district, Madhya Pradesh, 473880, India",43,87,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,249,2000
+HOT002,Hyatt: Puducherry,"World of Waffles, 46, Needarajapayar Street, Bharathipuram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",44,99,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,264,3000
+HOT002,Hyatt: Puducherry,"World of Waffles, 46, Needarajapayar Street, Bharathipuram, Grand Bazaar, Puducherry, Puducherry Taluk, Puducherry district, Puducherry, 605001, India",45,82,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,3,262,4000
+HOT002,Hyatt: Tamil Nadu,"Kangeyam Bus stand, Durgaiamman Kovil Street, Kangeyam, Tiruppur, Tamil Nadu, 638701, India",46,9,1 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,279,1000
+HOT002,Hyatt: Bihar,"Madhepura, Bihar, 852113, India",47,13,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,290,5000
+HOT002,Hyatt: Bihar,"Madhepura, Bihar, 852113, India",48,34,5 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,294,3000
+HOT002,Hyatt: Bihar,"Madhepura, Bihar, 852113, India",49,30,1 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,299,4000
+HOT002,Hyatt: Bihar,"Madhepura, Bihar, 852113, India",50,37,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,289,3000
+HOT002,Hyatt: Karnataka,"Anekonda, K.B. Extension, Davanagere, Davanagere taluku, Davanagere district, Karnataka, 577000, India",51,68,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,318,1000
+HOT002,Hyatt: Gujarat,"Gariadhar, Gariadhar Taluka, Bhavnagar District, Gujarat, 364505, India",52,73,5 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,334,3000
+HOT002,Hyatt: Gujarat,"Gariadhar, Gariadhar Taluka, Bhavnagar District, Gujarat, 364505, India",53,17,2 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,335,3000
+HOT002,Hyatt: Gujarat,"Gariadhar, Gariadhar Taluka, Bhavnagar District, Gujarat, 364505, India",54,83,1 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,330,4000
+HOT002,Hyatt: Odisha,"Sambalpur, Sambalpur (M), Sambalpur, Odisha, 768001, India",55,29,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,345,1000
+HOT002,Hyatt: Odisha,"Sambalpur, Sambalpur (M), Sambalpur, Odisha, 768001, India",56,57,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,344,4000
+HOT002,Hyatt: Rajasthan,"Aklera, Aklera Tehsil, Jhalawar, Rajasthan, 326033, India",57,77,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,3,375,4000
+HOT002,Hyatt: Chhattisgarh,"Jashpurnagar, Jashpur Tahsil, Jashpur, Chhattisgarh, 496331, India",58,79,3 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,399,4000
+HOT003,Marriott: Goa,"Calangute Beach, Calangute Baga Road, Dongarpur, Calangute, Bardez, North Goa, Goa, 403516, India",59,39,6 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,2,464,1000
+HOT003,Marriott: Assam,"Barpeta, Assam, 781300, India",60,14,4 - Star Room,2020-05-01 00:00:00,2020-05-03 00:00:00,1,482,1000

@@ -1,0 +1,9 @@
+Hotel_name,Company_id,Password,Email,Address,No_of_rooms,City,Parking
+Taj Jaipur,TJ01,jbdweiB,tj@gmail.com,"Bus Terminal, Jaipur",13,Jaipur,1
+Taj Delhi,TD01,whbedH,td@gmail.com,"Malviya Nagar, New Delhi",17,Delhi,1
+Taj Banglore,TB01,eyhgTwj,tb@gmail.com,"Baner, Banglore",9,Bangalore,1
+Taj Mumbai,TM01,wygihuiB,tm@gmail.com,"Pawoi, Mumbai",10,Mumbai,0
+Hilton Jaipur,HJ01,webiwhi,hj@gmail.com,"City Palace, Jaipur",13,Jaipur,0
+Hilton Delhi,HD01,wbfcujjh,hd@gmail.com,"Dwarka, New Delhi",10,Delhi,1
+Hilton Banglore,HB01,wnheciw,hb@gmail.com,"Aundh City, Banglore",13,Bangalore,0
+Hilton Mumbai,HM01,hbwduc,hm@gmail.com,"Bandra, Mumbai",15,Mumbai,1

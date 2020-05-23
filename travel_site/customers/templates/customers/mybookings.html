@@ -1,0 +1,53 @@
+{% extends "users/base.html" %}
+{% load ratings %}
+{% load crispy_forms_tags %}
+{% block content %}
+    <h1 class="mb-3">My Bookings</h1>
+    {% for booking in fb %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#">{{ booking.id}}</a>
+              <p class="text-md-left font-weight-bold text-info">Start Point : {{ booking.start_point }}</p>
+              <p class="text-md-left font-weight-bold text-info">Destination : {{ booking.destination }}</p>
+            </div>
+            <p class="text-md-left font-weight-bold text-success">Fare: {{ booking.fare }}</p>
+            <p class="text-md-left font-weight-bold text-success">Journey Date: {{ booking.date }}</p>
+            <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'rate_flight' booking.id %}">Rate Your Journey</a>
+          </div>
+              
+        </article>
+      {% endfor %}
+    {% for booking in bb %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#">{{ booking.id}}</a>
+              <p class="text-md-left font-weight-bold text-info">Start Point : {{ booking.start_point }}</p>
+              <p class="text-md-left font-weight-bold text-info">Destination : {{ booking.destination }}</p>
+            </div>
+            <p class="text-md-left font-weight-bold text-success">Fare: {{ booking.fare }}</p>
+            <p class="text-md-left font-weight-bold text-success">Journey Date: {{ booking.date }}</p>
+          </div>
+              <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'rate_bus' booking.id %}">Rate Your Journey</a>
+            </form>
+        </article>
+      {% endfor %}
+      {% for booking in hb %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#">{{ booking.hotel_name}}</a>
+              <p class="text-md-left font-weight-bold text-info">Fare : {{ booking.fare }}</p>
+            </div>
+            <p class="text-md-left font-weight-bold text-success">Check In: {{ booking.check_in }}</p>
+            <p class="text-md-left font-weight-bold text-success">Check Out: {{ booking.check_out }}</p>
+            <a class="btn btn-info btn-sm mt-1 mb-1 float-right" href="{% url 'rate_hotel' booking.room_id %}">Rate Your Stay</a>
+          </div>
+
+         
+
+        </article>
+    {% endfor %}
+    {% include "users/pagination.html" %}
+{% endblock content %}
